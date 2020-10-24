@@ -1,0 +1,6 @@
+module
+function public number exemplo number n do
+number r;
+r := ( n >= 6 );
+return r
+end

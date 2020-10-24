@@ -1,0 +1,8 @@
+program
+start
+number a;
+number b;
+number c;
+c := a or b;
+c!
+end

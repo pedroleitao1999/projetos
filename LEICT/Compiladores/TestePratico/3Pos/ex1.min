@@ -1,0 +1,8 @@
+program
+start
+number num;
+number r;
+num := 7;
+r := exemplo(num);
+r!
+end

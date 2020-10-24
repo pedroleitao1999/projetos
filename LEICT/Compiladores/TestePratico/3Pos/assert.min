@@ -1,0 +1,4 @@
+module
+function public void assert number n do
+"assert failed: line "! n!
+end

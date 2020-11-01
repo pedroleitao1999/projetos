@@ -1,0 +1,5 @@
+spot person *
+spot car 28*
+spot person 1122
+move to 2
+trail person 1122

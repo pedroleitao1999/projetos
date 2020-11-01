@@ -1,0 +1,110 @@
+//
+// Protocol buffers definition for Silo server
+//
+syntax = "proto3";
+package pt.tecnico.sauron.silo.grpc;
+option java_multiple_files = true;
+
+message camJoinRequest {
+    string nome = 1;
+    double latitude = 2;
+    double longitude = 3;
+}
+
+message camJoinResponse {}
+
+message camInfoRequest {
+    string nome = 1;
+}
+
+message camInfoResponse {
+    double latitude = 1;
+    double longitude = 2;
+}
+
+message ObservationReport {
+    string nome = 1;
+    string tipo = 2;
+    string id = 3;
+}
+
+message reportRequest {
+    repeated ObservationReport observations = 1;
+}
+
+message reportResponse {
+
+}
+
+message trackRequest {
+    string tipo = 1;
+    string id = 2;
+}
+
+message trackResponse {
+    string observacao = 1;
+}
+
+message observationTrackMatch {
+    string observacao = 1;
+}
+
+message trackMatchRequest {
+    string tipo = 1;
+    string id = 2;
+}
+
+message trackMatchResponse {
+    repeated observationTrackMatch observations = 1;
+}
+
+message observationTrace {
+    string observacao = 1;
+}
+
+message traceRequest {
+    string tipo = 1;
+    string id = 2;
+}
+
+message traceResponse {
+    repeated observationTrace observations = 1;
+}
+
+message pingRequest {
+    
+}
+
+message pingResponse {
+
+}
+
+message ObservationUpdate {
+    string nome = 1;
+    string tipo = 2;
+    string id = 3;
+    string data = 4;
+    int32 replica = 5;
+    int32 sequenceNumber = 6;
+    double latitude = 7;
+    double longitude = 8;
+}
+
+message updateRequest {
+    repeated int32 timestamp = 1;
+}
+
+message updateResponse {
+    repeated int32 timestamp = 1;
+    repeated ObservationUpdate observationUpdates = 2;
+}
+
+service sauron {
+    rpc camJoin(camJoinRequest) returns (camJoinResponse);
+    rpc camInfo(camInfoRequest) returns (camInfoResponse);
+    rpc report(reportRequest) returns (reportResponse);
+    rpc track(trackRequest) returns (trackResponse);
+    rpc trackMatch(trackMatchRequest) returns (trackMatchResponse);
+    rpc trace(traceRequest) returns (traceResponse);
+    rpc update(updateRequest) returns (updateResponse);
+}

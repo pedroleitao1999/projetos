@@ -1,0 +1,14 @@
+# Dados 1
+person,1122
+person,2233
+car,28BX43
+person,4433
+
+zzz,10
+
+# Dados 2
+person,5533
+car,28SC55
+person,4486
+
+zzz,3

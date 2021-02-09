@@ -1,0 +1,22 @@
+﻿  camera.cpp
+  euler.cpp
+  main.cpp
+  matrix.cpp
+  mesh.cpp
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(85,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(86,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(87,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(88,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(89,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(90,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(91,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(92,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\mesh.cpp(93,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  quaternions.cpp
+  scene.cpp
+C:\Users\marcj\OneDrive\Ambiente de Trabalho\projEntrega6\OpenGLVS\OpenGLVS\scene.cpp(181,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  shader.cpp
+  vector.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glew.obj'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6006: "link.exe" exited with code 1104.

@@ -1,0 +1,27 @@
+//
+// Created by Nuno Laranjo on 30/10/2020.
+//
+
+#ifndef AVT_RENDERER_H
+#define AVT_RENDERER_H
+
+#include <vector>
+#include "Vec3D.h"
+#include "Vec4D.h"
+#include "Matrix4D.h"
+#include "Shader.h"
+#include "Light.h"
+#include "Material.h"
+
+class Renderer {
+private:
+    GLuint VaoId;
+    GLuint VboId[3];
+    GLint UniformId;
+public:
+    Renderer(GLuint VaoId, GLuint *VboId, GLint UniformId);
+    void drawTriangles(std::vector<Vec4D> vertices, std::vector<int> indices, Matrix4D uniform, Shader shader);
+};
+
+
+#endif //AVT_RENDERER_H

@@ -1,0 +1,45 @@
+﻿  main2.cpp
+C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\HeaderFiles\Shader.h(40,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\main2.cpp(846,18): warning C4101: 'time_string': unreferenced local variable
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(192,1): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=GLfloat
+          ]
+C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\main2.cpp(569): message : see reference to function template instantiation 'std::pair<const char,GLfloat>::pair<char,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=char,
+              _Other2=int
+          ]
+C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\main2.cpp(565): message : see reference to function template instantiation 'std::pair<const char,GLfloat>::pair<char,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=char,
+              _Other2=int
+          ]
+  Camera.cpp
+  Color.cpp
+  Light.cpp
+  Material.cpp
+  Matrix2D.cpp
+  Matrix3D.cpp
+  Matrix4D.cpp
+  Mesh.cpp
+  Quat.cpp
+  Renderer.cpp
+C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\HeaderFiles\Shader.h(40,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Scene.cpp
+C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\HeaderFiles\Shader.h(40,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\HeaderFiles\Shader.h(40,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vec2D.cpp
+  Vec3D.cpp
+  Vec4D.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Assignment1.vcxproj -> C:\Users\pedro\Documents\Universidade\4ºano\1ºsemestre\AVT\TeamProjectFinal\GuilhermePedro\marc\code\source\x64\Debug\Group12.exe

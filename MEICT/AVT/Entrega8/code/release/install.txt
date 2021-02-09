@@ -1,0 +1,11 @@
+To have the application running, we need to:
+1) Open a project or solution in Visual Studio 2019.
+2) Select the Assignment1.sln, that is in the directory /code/release.
+3) Select "Debug" as the Solution Configurations and "x64" as the Solution Platforms.
+4) Run by clicking in "Local Windows Debugger".
+
+This directory contains:
+- The Visual Studio Solution file, called "Assignment1.sln".
+- The Assignment1 folder, that contains the glew and glfw dependencies and all the other necessary files to run the project.
+- The x64 folder, containing the debug files.
+- The Assignment1 folder also contains the ".obj" files necessary to generate the board and the pieces of the scene.

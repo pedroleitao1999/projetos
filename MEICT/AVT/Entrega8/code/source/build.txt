@@ -1,0 +1,18 @@
+This directory contains all the source files of the project, that are:
+- The main code file.
+- A folder with all the source c++ code files.
+- A folder with all the header files.
+
+This directory has the tasks assigned to Pedro Leitão (ist190764) implemented.
+
+The project solution (in the directory /code/release) already as all the files from this directory (/code/source) as an existing item.
+Because of that, we don't need to do anything to recreate the release directory from the source provided.
+
+This application is abble to:
+- Check the elements present in the Scene Graph.
+- Check the Blinn-Phong lighting / shading model.
+- We move the camera when moving our mouse, and have a P key to change the projection.
+
+Some issues when running this application:
+- The pieces from the board (cylinder) are not drawn very well by the machine.
+- Sometimes when running the application, an exception is thrown in a glUniformMatrix4fv call from the Renderer.cpp file.

@@ -1,0 +1,2 @@
+To have the application running, we need to:
+1) Run Group12.exe

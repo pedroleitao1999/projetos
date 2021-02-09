@@ -1,0 +1,6 @@
+This directory contains all the source files of the project, that are:
+- The Visual Studio Project
+- A folder with all the source c++ code files.
+- A folder with all the header files.
+
+To create the code/release/ directory just compile the code in Visual Studio in Release Mode.

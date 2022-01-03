@@ -1,0 +1,3437 @@
+Location;HM;H;M
+PT: Portugal;10347892;4917794;5430098
+1: Continente;9860175;4684642;5175533
+11: Norte;3588701;1707189;1881512
+111: Alto Minho;231488;108324;123164
+1601: Arcos de Valdevez;20729;9471;11258
+160101: Aboim das Choças;294;125;169
+160102: Aguiã;706;343;363
+160104: Ázere;207;99;108
+160105: Cabana Maior;177;79;98
+160106: Cabreiro;324;134;190
+160108: Cendufe;308;147;161
+160109: Couto;647;295;352
+160113: Gavieira;258;110;148
+160115: Gondoriz;861;395;466
+160142: Jolda (São Paio);316;138;178
+160121: Miranda;247;101;146
+160122: Monte Redondo;196;93;103
+160123: Oliveira;327;148;179
+160124: Paçô;973;470;503
+160125: Padroso;197;92;105
+160128: Prozelo;815;377;438
+160131: Rio de Moinhos;433;213;220
+160130: Rio Frio;536;225;311
+160133: Sabadim;410;185;225
+160144: Senharei;163;78;85
+160145: Sistelo;199;75;124
+160146: Soajo;671;292;379
+160152: União das freguesias de Alvora e Loureda;378;158;220
+160154: União das freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada;2759;1226;1533
+160153: União das freguesias de Arcos de Valdevez (São Paio) e Giela;1677;788;889
+160155: União das freguesias de Eiras e Mei;322;150;172
+160156: União das freguesias de Grade e Carralcova;449;190;259
+160157: União das freguesias de Guilhadeses e Santar;1173;539;634
+160158: União das freguesias de Jolda (Madalena) e Rio Cabrão;421;203;218
+160159: União das freguesias de Padreiro (Salvador e Santa Cristina);349;155;194
+160160: União das freguesias de Portela e Extremo;323;158;165
+160161: União das freguesias de São Jorge e Ermelo;714;321;393
+160162: União das freguesias de Souto e Tabaçô;914;430;484
+160163: União das freguesias de Távora (Santa Maria e São Vicente);847;413;434
+160164: União das freguesias de Vilela, São Cosme e São Damião e Sá;476;217;259
+160149: Vale;662;309;353
+1602: Caminha;15828;7353;8475
+160201: Âncora;1188;571;617
+160205: Argela;375;178;197
+160209: Dem;310;147;163
+160211: Lanhelas;899;423;476
+160214: Riba de Âncora;680;335;345
+160215: Seixas;1415;656;759
+160221: União das freguesias de Arga (Baixo, Cima e São João);159;72;87
+160222: União das freguesias de Caminha (Matriz) e Vilarelho;2382;1051;1331
+160223: União das freguesias de Gondar e Orbacém;398;182;216
+160224: União das freguesias de Moledo e Cristelo;1495;702;793
+160225: União das freguesias de Venade e Azevedo;880;414;466
+160217: Vila Praia de Âncora;4630;2138;2492
+160218: Vilar de Mouros;729;346;383
+160220: Vile;288;138;150
+1603: Melgaço;7776;3441;4335
+160301: Alvaredo;489;214;275
+160304: Cousso;239;95;144
+160305: Cristoval;421;185;236
+160307: Fiães;146;65;81
+160308: Gave;181;68;113
+160311: Paderne;1030;457;573
+160313: Penso;445;207;238
+160317: São Paio;538;253;285
+160319: União das freguesias de Castro Laboreiro e Lamas de Mouro;502;191;311
+160320: União das freguesias de Chaviães e Paços;560;252;308
+160321: União das freguesias de Parada do Monte e Cubalhão;477;200;277
+160322: União das freguesias de Prado e Remoães;443;215;228
+160323: União das freguesias de Vila e Roussas;2305;1039;1266
+1604: Monção;17829;8171;9658
+160401: Abedim;191;84;107
+160404: Barbeita;921;422;499
+160405: Barroças e Taias;278;131;147
+160406: Bela;596;282;314
+160407: Cambeses;494;232;262
+160410: Lara;255;114;141
+160411: Longos Vales;863;401;462
+160415: Merufe;866;381;485
+160418: Moreira;572;270;302
+160420: Pias;763;366;397
+160421: Pinheiros;319;146;173
+160422: Podame;265;107;158
+160423: Portela;201;90;111
+160424: Riba de Mouro;803;333;470
+160427: Segude;320;142;178
+160428: Tangil;629;266;363
+160431: Trute;246;110;136
+160434: União das freguesias de Anhões e Luzio;196;79;117
+160435: União das freguesias de Ceivães e Badim;553;252;301
+160436: União das freguesias de Mazedo e Cortes;3826;1803;2023
+160437: União das freguesias de Messegães, Valadares e Sá;554;250;304
+160438: União das freguesias de Monção e Troviscoso;3281;1511;1770
+160439: União das freguesias de Sago, Lordelo e Parada;383;184;199
+160440: União das freguesias de Troporiz e Lapela;454;215;239
+1605: Paredes de Coura;8636;4131;4505
+160501: Agualonga;263;119;144
+160503: Castanheira;637;312;325
+160505: Coura;331;151;180
+160507: Cunha;459;224;235
+160510: Infesta;413;207;206
+160513: Mozelos;344;165;179
+160514: Padornelo;412;194;218
+160515: Parada;277;132;145
+160519: Romarigães;224;104;120
+160520: Rubiães;494;230;264
+160522: União das freguesias de Bico e Cristelo;735;351;384
+160523: União das freguesias de Cossourado e Linhares;509;260;249
+160524: União das freguesias de Formariz e Ferreira;916;426;490
+160525: União das freguesias de Insalde e Porreiras;393;190;203
+160526: União das freguesias de Paredes de Coura e Resende;2011;960;1051
+160521: Vascões;218;106;112
+1606: Ponte da Barca;11058;5140;5918
+160601: Azias;303;146;157
+160602: Boivães;264;125;139
+160603: Bravães;600;271;329
+160604: Britelo;379;192;187
+160606: Cuide de Vila Verde;311;146;165
+160611: Lavradas;826;389;437
+160612: Lindoso;374;166;208
+160613: Nogueira;375;173;202
+160614: Oleiros;449;219;230
+160619: Sampriz;307;135;172
+160626: União das freguesias de Crasto, Ruivos e Grovelas;770;362;408
+160627: União das freguesias de Entre Ambos-os-Rios, Ermida e Germil;498;218;280
+160628: União das freguesias de Ponte da Barca, Vila Nova de Muía e Paço Vedro de Magalhães;4196;1921;2275
+160629: União das freguesias de Touvedo (São Lourenço e Salvador);330;162;168
+160630: União das freguesias de Vila Chã (São João Baptista e Santiago);540;257;283
+160623: Vade (São Pedro);240;112;128
+160624: Vade (São Tomé);296;146;150
+1607: Ponte de Lima;41204;19385;21819
+160701: Anais;1028;486;542
+160752: Arca e Ponte de Lima;3934;1792;2142
+160704: Arcozelo;3569;1681;1888
+160753: Ardegão, Freixo e Mato;1552;727;825
+160754: Associação de freguesias do Vale do Neiva;904;440;464
+160755: Bárrio e Cepões;787;372;415
+160707: Beiral do Lima;500;234;266
+160708: Bertiandos;360;167;193
+160709: Boalhosa;117;49;68
+160710: Brandara;422;196;226
+160756: Cabaços e Fojo Lobal;818;391;427
+160757: Cabração e Moreira do Lima;897;425;472
+160713: Calheiros;931;441;490
+160714: Calvelo;618;302;316
+160716: Correlhã;2785;1335;1450
+160717: Estorãos;407;200;207
+160718: Facha;1393;656;737
+160719: Feitosa;1867;885;982
+160721: Fontão;1090;518;572
+160758: Fornelos e Queijada;1872;883;989
+160724: Friastelas;430;199;231
+160726: Gandra;1065;503;562
+160727: Gemieira;604;283;321
+160728: Gondufe;420;202;218
+160729: Labruja;384;186;198
+160759: Labrujó, Rendufe e Vilar do Monte;315;156;159
+160760: Navió e Vitorino dos Piães;1546;714;832
+160734: Poiares;741;344;397
+160744: Rebordões (Santa Maria);970;456;514
+160747: Rebordões (Souto);1011;484;527
+160737: Refóios do Lima;1978;909;1069
+160739: Ribeira;1848;879;969
+160740: Sá;343;164;179
+160742: Santa Comba;592;285;307
+160743: Santa Cruz do Lima;401;193;208
+160703: São Pedro d'Arcos;601;260;341
+160745: Seara;695;341;354
+160746: Serdedelo;430;197;233
+160750: Vitorino das Donas;979;450;529
+1608: Valença;13634;6407;7227
+160802: Boivão;185;78;107
+160803: Cerdal;1551;764;787
+160805: Fontoura;685;333;352
+160806: Friestas;511;238;273
+160808: Ganfei;1208;578;630
+160812: São Pedro da Torre;1244;560;684
+160817: União das freguesias de Gandra e Taião;1392;668;724
+160818: União das freguesias de Gondomil e Sanfins;420;190;230
+160819: União das freguesias de São Julião e Silva;599;291;308
+160820: União das freguesias de Valença, Cristelo Covo e Arão;5266;2437;2829
+160816: Verdoejo;573;270;303
+1609: Viana do Castelo;85864;40513;45351
+160901: Afife;1523;702;821
+160902: Alvarães;2458;1164;1294
+160903: Amonde;230;104;126
+160904: Anha;2257;1050;1207
+160905: Areosa;4711;2235;2476
+160908: Carreço;1741;844;897
+160910: Castelo do Neiva;2719;1281;1438
+160940: Chafé;3452;1688;1764
+160911: Darque;8012;3849;4163
+160914: Freixieiro de Soutelo;464;234;230
+160915: Lanheses;1518;685;833
+160920: Montaria;450;193;257
+160922: Mujães;1422;684;738
+160925: Outeiro;1059;495;564
+160926: Perre;2771;1346;1425
+160928: Santa Marta de Portuzelo;3901;1860;2041
+160923: São Romão de Neiva;1051;481;570
+160941: União das freguesias de Barroselas e Carvoeiro;4702;2235;2467
+160942: União das freguesias de Cardielos e Serreleis;2150;1011;1139
+160943: União das freguesias de Geraz do Lima (Santa Maria, Santa Leocádia e Moreira) e Deão;3049;1436;1613
+160944: União das freguesias de Mazarefes e Vila Fria;2495;1201;1294
+160945: União das freguesias de Nogueira, Meixedo e Vilar de Murteda;1437;646;791
+160946: União das freguesias de Subportela, Deocriste e Portela Susã;2250;1070;1180
+160947: União das freguesias de Torre e Vila Mou;1081;485;596
+160948: União das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela;25206;11705;13501
+160938: Vila de Punhe;2065;1000;1065
+160935: Vila Franca;1690;829;861
+1610: Vila Nova de Cerveira;8930;4312;4618
+161003: Cornes;489;230;259
+161004: Covas;603;290;313
+161006: Gondarém;909;420;489
+161007: Loivo;833;413;420
+161009: Mentrestido;274;133;141
+161012: Sapardos;330;171;159
+161013: Sopo;498;245;253
+161016: União das freguesias de Campos e Vila Meã;1753;928;825
+161017: União das freguesias de Candemil e Gondar;313;146;167
+161018: União das freguesias de Reboreda e Nogueira;1143;531;612
+161019: União das freguesias de Vila Nova de Cerveira e Lovelhe;1785;805;980
+112: Cávado;416679;199424;217255
+0301: Amares;18591;9061;9530
+030102: Barreiros;739;360;379
+030104: Bico;815;394;421
+030119: Bouro (Santa Maria);660;318;342
+030120: Bouro (Santa Marta);425;209;216
+030105: Caires;878;427;451
+030107: Carrazedo;723;328;395
+030108: Dornelas;510;244;266
+030111: Fiscal;711;356;355
+030112: Goães;490;246;244
+030113: Lago;1822;903;919
+030118: Rendufe;1080;546;534
+030125: União das freguesias de Amares e Figueiredo;2764;1364;1400
+030126: União das freguesias de Caldelas, Sequeiros e Paranhos;1125;531;594
+030127: União das freguesias de Ferreiros, Prozelo e Besteiros;4731;2278;2453
+030128: União das freguesias de Torre e Portela;563;281;282
+030129: União das freguesias de Vilela, Seramil e Paredes Secas;555;276;279
+0302: Barcelos;116777;56231;60546
+030201: Abade de Neiva;2011;959;1052
+030202: Aborim;828;397;431
+030203: Adães;755;363;392
+030205: Airó;884;443;441
+030206: Aldreu;795;395;400
+030208: Alvelos;2008;972;1036
+030209: Arcozelo;12828;6016;6812
+030210: Areias;1026;497;529
+030212: Balugães;788;385;403
+030213: Barcelinhos;1869;912;957
+030215: Barqueiros;1917;907;1010
+030216: Cambeses;1235;597;638
+030218: Carapeços;2169;1019;1150
+030220: Carvalhal;1231;587;644
+030221: Carvalhas;693;353;340
+030224: Cossourado;758;363;395
+030228: Cristelo;1656;808;848
+030234: Fornelos;803;409;394
+030235: Fragoso;2072;990;1082
+030268: Galegos (Santa Maria);2851;1399;1452
+030272: Galegos (São Martinho);1842;917;925
+030237: Gilmonde;1499;730;769
+030242: Lama;1166;563;603
+030243: Lijó;2425;1148;1277
+030244: Macieira de Rates;1902;903;999
+030245: Manhente;1707;808;899
+030247: Martim;2050;982;1068
+030252: Moure;920;432;488
+030254: Oliveira;986;496;490
+030255: Palme;1045;497;548
+030256: Panque;631;307;324
+030257: Paradela;790;389;401
+030259: Pereira;1240;597;643
+030260: Perelhal;1698;836;862
+030261: Pousa;2217;1040;1177
+030263: Remelhe;1280;616;664
+030265: Rio Covo (Santa Eugénia);1554;762;792
+030264: Roriz;2024;993;1031
+030279: Silva;899;438;461
+030277: Tamel (São Veríssimo);2917;1416;1501
+030282: Ucha;1419;673;746
+030290: União das freguesias de Alheira e Igreja Nova;1348;637;711
+030291: União das freguesias de Alvito (São Pedro e São Martinho) e Couto;1444;700;744
+030292: União das freguesias de Areias de Vilar e Encourados;1740;942;798
+030293: União das freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro);11350;5456;5894
+030294: União das freguesias de Campo e Tamel (São Pedro Fins);1509;736;773
+030295: União das freguesias de Carreira e Fonte Coberta;2020;1007;1013
+030296: União das freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral;2453;1174;1279
+030297: União das freguesias de Creixomil e Mariz;1114;547;567
+030298: União das freguesias de Durrães e Tregosa;1381;672;709
+030299: União das freguesias de Gamil e Midões;1378;668;710
+0302FA: União das freguesias de Milhazes, Vilar de Figos e Faria;1996;918;1078
+0302FB: União das freguesias de Negreiros e Chavão;2206;1063;1143
+0302FC: União das freguesias de Quintiães e Aguiar;1081;521;560
+0302FD: União das freguesias de Sequeade e Bastuço (São João e Santo Estevão);1808;904;904
+0302FE: União das freguesias de Silveiros e Rio Covo (Santa Eulália);2099;981;1118
+0302FF: União das freguesias de Tamel (Santa Leocádia) e Vilar do Monte;1271;615;656
+0302FG: União das freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães;3748;1783;1965
+0302FH: União das freguesias de Vila Cova e Feitos;2446;1162;1284
+030283: Várzea;1935;942;993
+030287: Vila Seca;1062;489;573
+0303: Braga;193333;92042;101291
+030301: Adaúfe;3584;1744;1840
+030349: Braga (São Vicente);13962;6531;7431
+030351: Braga (São Vítor);32822;15351;17471
+030312: Espinho;1055;518;537
+030313: Esporões;1709;824;885
+030315: Figueiredo;1149;563;586
+030319: Gualtar;6749;3245;3504
+030322: Lamas;851;433;418
+030325: Mire de Tibães;2342;1154;1188
+030330: Padim da Graça;1418;682;736
+030331: Palmeira;5698;2807;2891
+030334: Pedralva;1060;503;557
+030336: Priscos;1256;603;653
+030338: Ruilhe;1110;522;588
+030354: Sequeira;1741;845;896
+030355: Sobreposta;1269;623;646
+030356: Tadim;1267;618;649
+030357: Tebosa;1082;533;549
+030363: União das freguesias de Arentim e Cunha;1409;685;724
+030364: União das freguesias de Braga (Maximinos, Sé e Cividade);15086;7045;8041
+030365: União das freguesias de Braga (São José de São Lázaro e São João do Souto);14788;6699;8089
+030366: União das freguesias de Cabreiros e Passos (São Julião);2082;1004;1078
+030367: União das freguesias de Celeirós, Aveleda e Vimieiro;6741;3326;3415
+030368: União das freguesias de Crespos e Pousada;1235;607;628
+030369: União das freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente);1821;913;908
+030370: União das freguesias de Este (São Pedro e São Mamede);4069;1983;2086
+030371: União das freguesias de Ferreiros e Gondizalves;10003;4783;5220
+030372: União das freguesias de Guisande e Oliveira (São Pedro);1075;519;556
+030373: União das freguesias de Lomar e Arcos;7274;3546;3728
+030374: União das freguesias de Merelim (São Paio), Panoias e Parada de Tibães;5260;2587;2673
+030375: União das freguesias de Merelim (São Pedro) e Frossos;3851;1887;1964
+030376: União das freguesias de Morreira e Trandeiras;1364;667;697
+030377: União das freguesias de Nogueira, Fraião e Lamaçães;15036;7262;7774
+030378: União das freguesias de Nogueiró e Tenões;5957;2636;3321
+030379: União das freguesias de Real, Dume e Semelhe;13694;6579;7115
+030380: União das freguesias de Santa Lucrécia de Algeriz e Navarra;910;447;463
+030381: União das freguesias de Vilaça e Fradelos;1554;768;786
+0306: Esposende;35145;16786;18359
+030601: Antas;2176;1013;1163
+030608: Forjães;2647;1266;1381
+030610: Gemeses;1111;533;578
+030616: União das freguesias de Apúlia e Fão;7854;3736;4118
+030617: União das freguesias de Belinho e Mar;2894;1402;1492
+030618: União das freguesias de Esposende, Marinhas e Gandra;12274;5885;6389
+030619: União das freguesias de Fonte Boa e Rio Tinto;1837;897;940
+030620: União das freguesias de Palmeira de Faro e Curvos;3095;1460;1635
+030615: Vila Chã;1257;594;663
+0310: Terras de Bouro;6359;3079;3280
+031001: Balança;309;151;158
+031003: Campo do Gerês;148;80;68
+031004: Carvalheira;292;139;153
+031008: Covide;273;130;143
+031009: Gondoriz;295;145;150
+031010: Moimenta;783;355;428
+031012: Ribeira;212;98;114
+031013: Rio Caldo;770;381;389
+031014: Souto;461;232;229
+031018: União das freguesias de Chamoim e Vilar;349;170;179
+031019: União das freguesias de Chorense e Monte;537;253;284
+031020: União das freguesias de Cibões e Brufe;304;148;156
+031015: Valdosende;552;275;277
+031017: Vilar da Veiga;1074;522;552
+0313: Vila Verde;46474;22225;24249
+031359: Aboim da Nóbrega e Gondomar;901;416;485
+031304: Atiães;547;244;303
+031308: Cabanelas;1975;953;1022
+031309: Cervães;1856;913;943
+031311: Coucieiro;526;254;272
+031313: Dossãos;424;193;231
+031316: Freiriz;1059;493;566
+031317: Gême;521;243;278
+031323: Lage;3052;1462;1590
+031324: Lanhas;653;316;337
+031325: Loureira;1106;528;578
+031328: Moure;1378;672;706
+031330: Oleiros;1189;563;626
+031331: Parada de Gatim;707;351;356
+031335: Pico;519;253;266
+031337: Ponte;452;223;229
+031350: Prado (São Miguel);653;327;326
+031340: Sabariz;448;218;230
+031352: Soutelo;2128;1013;1115
+031354: Turiz;1872;918;954
+031360: União das freguesias da Ribeira do Neiva;3360;1581;1779
+031361: União das freguesias de Carreiras (São Miguel) e Carreiras (Santiago);831;382;449
+031362: União das freguesias de Escariz (São Mamede) e Escariz (São Martinho);744;364;380
+031363: União das freguesias de Esqueiros, Nevogilde e Travassós;923;445;478
+031364: União das freguesias de Marrancos e Arcozelo;822;394;428
+031365: União das freguesias de Oriz (Santa Marinha) e Oriz (São Miguel);509;256;253
+031366: União das freguesias de Pico de Regalados, Gondiães e Mós;1550;736;814
+031367: União das freguesias de Sande, Vilarinho, Barros e Gomide;1411;704;707
+031368: União das freguesias de Valbom (São Pedro), Passô e Valbom (São Martinho);595;281;314
+031369: União das freguesias do Vade;1453;689;764
+031355: Valdreu;435;207;228
+031342: Vila de Prado;4481;2131;2350
+031370: Vila Verde e Barbudo;7394;3502;3892
+119: Ave;418586;201632;216954
+0304: Cabeceiras de Basto;15566;7546;8020
+030401: Abadim;472;239;233
+030404: Basto;895;440;455
+030405: Bucos;469;228;241
+030406: Cabeceiras de Basto;617;299;318
+030407: Cavez;1132;545;587
+030408: Faia;554;278;276
+030413: Pedraça;694;343;351
+030415: Rio Douro;814;393;421
+030418: União das freguesias de Alvite e Passos;1037;489;548
+030419: União das freguesias de Arco de Baúlhe e Vila Nune;1950;936;1014
+030420: União das freguesias de Gondiães e Vilar de Cunhas;346;167;179
+030421: União das freguesias de Refojos de Basto, Outeiro e Painzela;6586;3189;3397
+0307: Fafe;48502;23041;25461
+030705: Armil;687;327;360
+030726: Arões (Santa Cristina);1552;762;790
+030730: Arões (São Romão);3291;1618;1673
+030708: Estorãos;1540;741;799
+030709: Fafe;15460;7235;8225
+030712: Fornelos;1352;647;705
+030714: Golães;2021;984;1037
+030716: Medelo;1544;740;804
+030719: Paços;1014;499;515
+030722: Quinchães;2171;1063;1108
+030723: Regadas;1540;741;799
+030724: Revelhe;789;378;411
+030725: Ribeiros;546;258;288
+030728: São Gens;1642;777;865
+030729: Silvares (São Martinho);1256;574;682
+030733: Travassós;1444;684;760
+030737: União de freguesias de Aboim, Felgueiras, Gontim e Pedraído;771;355;416
+030738: União de freguesias de Agrela e Serafão;1206;568;638
+030739: União de freguesias de Antime e Silvares (São Clemente);1943;903;1040
+030740: União de freguesias de Ardegão, Arnozela e Seidões;949;434;515
+030741: União de freguesias de Cepães e Fareja;2154;1059;1095
+030742: União de freguesias de Freitas e Vila Cova;747;350;397
+030743: União de freguesias de Monte e Queimadela;658;285;373
+030744: União de freguesias de Moreira do Rei e Várzea Cova;1656;792;864
+030736: Vinhós;569;267;302
+0308: Guimarães;156852;75740;81112
+030801: Aldão;1277;626;651
+030804: Azurém;9076;4297;4779
+030806: Barco;1438;719;719
+030807: Brito;4773;2323;2450
+030808: Caldelas;6308;3006;3302
+030857: Candoso (São Martinho);1235;595;640
+030812: Costa;5401;2553;2848
+030813: Creixomil;9703;4533;5170
+030815: Fermentões;5731;2716;3015
+030820: Gonça;955;472;483
+030821: Gondar;2580;1234;1346
+030823: Guardizela;2445;1189;1256
+030824: Infantas;1741;871;870
+030827: Longos;1334;638;696
+030828: Lordelo;3977;1944;2033
+030830: Mesão Frio;4164;2019;2145
+030831: Moreira de Cónegos;4651;2248;2403
+030832: Nespereira;2594;1288;1306
+030835: Pencelo;1221;604;617
+030836: Pinheiro;1138;549;589
+030837: Polvoreira;3544;1709;1835
+030838: Ponte;6686;3257;3429
+030842: Prazins (Santa Eufémia);1267;616;651
+030840: Ronfe;4493;2193;2300
+030858: Sande (São Martinho);2239;1068;1171
+030865: São Torcato;3348;1635;1713
+030850: Selho (São Cristóvão);2138;1050;1088
+030854: Selho (São Jorge);5927;2900;3027
+030866: Serzedelo;3422;1659;1763
+030868: Silvares;2253;1106;1147
+030875: União das freguesias de Abação e Gémeos;2684;1336;1348
+030876: União das freguesias de Airão Santa Maria, Airão São João e Vermil;3214;1581;1633
+030877: União das freguesias de Arosa e Castelões;701;329;372
+030878: União das freguesias de Atães e Rendufe;2579;1304;1275
+030879: União das freguesias de Briteiros Santo Estêvão e Donim;2023;979;1044
+030880: União das freguesias de Briteiros São Salvador e Briteiros Santa Leocádia;1685;850;835
+030881: União das freguesias de Candoso São Tiago e Mascotelos;3809;1856;1953
+030882: União das freguesias de Conde e Gandarela;2464;1212;1252
+030883: União das freguesias de Leitões, Oleiros e Figueiredo;1438;718;720
+030884: União das freguesias de Oliveira, São Paio e São Sebastião;7847;3593;4254
+030885: União das freguesias de Prazins Santo Tirso e Corvite;1940;959;981
+030886: União das freguesias de Sande São Lourenço e Balazar;1583;758;825
+030887: União das freguesias de Sande Vila Nova e Sande São Clemente;3307;1560;1747
+030888: União das freguesias de Selho São Lourenço e Gominhães;2273;1137;1136
+030889: União das freguesias de Serzedo e Calvos;2269;1111;1158
+030890: União das freguesias de Souto Santa Maria, Souto São Salvador e Gondomar;2044;999;1045
+030891: União das freguesias de Tabuadelo e São Faustino;2414;1188;1226
+030871: Urgezes;5519;2653;2866
+1705: Mondim de Basto;6416;3091;3325
+170501: Atei;1144;577;567
+170502: Bilhó;430;200;230
+170505: São Cristóvão de Mondim de Basto;2976;1419;1557
+170509: União das freguesias de Campanhó e Paradança;600;286;314
+170510: União das freguesias de Ermelo e Pardelhas;378;178;200
+170508: Vilar de Ferreiros;888;431;457
+0309: Póvoa de Lanhoso;21787;10443;11344
+030906: Covelas;410;203;207
+030908: Ferreiros;408;202;206
+030912: Galegos;561;275;286
+030913: Garfe;984;474;510
+030914: Geraz do Minho;543;260;283
+030915: Lanhoso;766;367;399
+030917: Monsul;713;348;365
+030919: Póvoa de Lanhoso (Nossa Senhora do Amparo);5623;2682;2941
+030921: Rendufinho;654;329;325
+030922: Santo Emilião;825;384;441
+030923: São João de Rei;365;180;185
+030924: Serzedelo;738;346;392
+030925: Sobradelo da Goma;696;341;355
+030926: Taíde;1683;805;878
+030927: Travassos;606;287;319
+030930: União das freguesias de Águas Santas e Moure;589;292;297
+030931: União das freguesias de Calvos e Frades;742;354;388
+030932: União das freguesias de Campos e Louredo;1391;687;704
+030933: União das freguesias de Esperança e Brunhais;607;272;335
+030934: União das freguesias de Fonte Arcada e Oliveira;1631;748;883
+030935: União das freguesias de Verim, Friande e Ajude;656;312;344
+030929: Vilela;596;295;301
+0311: Vieira do Minho;11970;5711;6259
+031105: Cantelães;741;343;398
+031107: Eira Vedra;618;307;311
+031108: Guilhofrei;903;428;475
+031109: Louredo;396;200;196
+031110: Mosteiro;688;335;353
+031111: Parada de Bouro;401;205;196
+031112: Pinheiro;372;175;197
+031113: Rossas;1467;687;780
+031115: Salamonde;343;158;185
+031118: Tabuaças;888;429;459
+031122: União das freguesias de Anissó e Soutelo;346;161;185
+031123: União das freguesias de Anjos e Vilar do Chão;565;254;311
+031124: União das freguesias de Caniçada e Soengas;517;252;265
+031125: União das freguesias de Ruivães e Campos;775;367;408
+031126: União das freguesias de Ventosa e Cova;577;268;309
+031120: Vieira do Minho;2373;1142;1231
+0312: Vila Nova de Famalicão;133590;64434;69156
+031204: Bairro;3200;1526;1674
+031206: Brufe;2297;1112;1185
+031210: Castelões;2083;1004;1079
+031212: Cruz;1651;802;849
+031213: Delães;3981;1919;2062
+031215: Fradelos;3893;1921;1972
+031216: Gavião;3879;1825;2054
+031219: Joane;7948;3853;4095
+031221: Landim;2833;1377;1456
+031223: Louro;2216;1070;1146
+031224: Lousado;3881;1868;2013
+031225: Mogege;1879;915;964
+031227: Nine;3018;1463;1555
+031239: Oliveira (Santa Maria);3281;1606;1675
+031242: Oliveira (São Mateus);2420;1136;1284
+031230: Pedome;1996;959;1037
+031232: Pousada de Saramagos;2179;1033;1146
+031233: Requião;3185;1550;1635
+031234: Riba de Ave;3196;1516;1680
+031235: Ribeirão;9059;4410;4649
+031250: União das freguesias de Antas e Abade de Vermoim;8197;3886;4311
+031251: União das freguesias de Arnoso (Santa Maria e Santa Eulália) e Sezures;3535;1722;1813
+031252: União das freguesias de Avidos e Lagoa;2538;1214;1324
+031253: União das freguesias de Carreira e Bente;2355;1154;1201
+031254: União das freguesias de Esmeriz e Cabeçudos;3617;1771;1846
+031255: União das freguesias de Gondifelos, Cavalões e Outiz;5136;2427;2709
+031256: União das freguesias de Lemenhe, Mouquim e Jesufrei;3139;1564;1575
+031257: União das freguesias de Ruivães e Novais;2813;1392;1421
+031258: União das freguesias de Seide;1520;738;782
+031259: União das freguesias de Vale (São Cosme), Telhado e Portela;5247;2565;2682
+031260: União das freguesias de Vila Nova de Famalicão e Calendário;20937;9909;11028
+031241: Vale (São Martinho);2040;1003;1037
+031247: Vermoim;2955;1432;1523
+031249: Vilarinho das Cambas;1486;792;694
+0314: Vizela;23903;11626;12277
+031404: Infias;1812;896;916
+031401: Santa Eulália;5387;2632;2755
+031408: União das freguesias de Caldas de Vizela (São Miguel e São João);11076;5282;5794
+031409: União das freguesias de Tagilde e Vizela (São Paio);3362;1674;1688
+031406: Vizela (Santo Adrião);2266;1142;1124
+11A: Área Metropolitana do Porto;1737395;822230;915165
+0104: Arouca;21154;10160;10994
+010402: Alvarenga;1058;518;540
+010407: Chave;1269;608;661
+010409: Escariz;2113;1048;1065
+010411: Fermedo;1262;601;661
+010413: Mansores;1099;537;562
+010414: Moldes;1125;527;598
+010415: Rossas;1491;730;761
+010416: Santa Eulália;2121;1030;1091
+010417: São Miguel do Mato;550;268;282
+010418: Tropeço;1086;513;573
+010421: União das freguesias de Arouca e Burgo;5122;2397;2725
+010422: União das freguesias de Cabreiros e Albergaria da Serra;185;84;101
+010423: União das freguesias de Canelas e Espiunca;1068;516;552
+010424: União das freguesias de Covelo de Paivó e Janarde;170;75;95
+010419: Urrô;901;462;439
+010420: Várzea;534;246;288
+0107: Espinho;31027;14450;16577
+010702: Espinho;10418;4691;5727
+010704: Paramos;3120;1513;1607
+010705: Silvalde;6106;2916;3190
+010706: União das freguesias de Anta e Guetim;11383;5330;6053
+1304: Gondomar;164255;77927;86328
+130412: Baguim do Monte (Rio Tinto);14366;6750;7616
+130405: Lomba;1274;609;665
+130408: Rio Tinto;51064;23828;27236
+130413: União das freguesias de Fânzeres e São Pedro da Cova;37777;18114;19663
+130414: União das freguesias de Foz do Sousa e Covelo;7041;3398;3643
+130415: União das freguesias de Gondomar (São Cosme), Valbom e Jovim;47439;22615;24824
+130416: União das freguesias de Melres e Medas;5294;2613;2681
+1306: Maia;134959;64067;70892
+130601: Águas Santas;26619;12590;14029
+130618: Castêlo da Maia;18578;8858;9720
+130619: Cidade da Maia;40515;19093;21422
+130603: Folgosa;3601;1768;1833
+130608: Milheirós;4759;2292;2467
+130609: Moreira;13092;6269;6823
+130620: Nogueira e Silva Escura;8396;4029;4367
+130617: Pedrouços;11572;5371;6201
+130613: São Pedro Fins;1820;895;925
+130616: Vila Nova da Telha;6007;2902;3105
+1308: Matosinhos;172669;81230;91439
+130811: União das freguesias de Custóias, Leça do Balio e Guifões;44024;21252;22772
+130812: União das freguesias de Matosinhos e Leça da Palmeira;49088;22726;26362
+130813: União das freguesias de Perafita, Lavra e Santa Cruz do Bispo;29678;14184;15494
+130814: União das freguesias de São Mamede de Infesta e Senhora da Hora;49879;23068;26811
+0113: Oliveira de Azeméis;66212;32004;34208
+011301: Carregosa;3466;1686;1780
+011302: Cesar;3074;1491;1583
+011303: Fajões;2900;1392;1508
+011304: Loureiro;3638;1796;1842
+011305: Macieira de Sarnes;1860;901;959
+011310: Ossela;1919;918;1001
+011315: São Martinho da Gândara;1854;898;956
+011318: São Roque;5021;2457;2564
+011320: União das freguesias de Nogueira do Cravo e Pindelo;5106;2481;2625
+011321: União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail;20679;9845;10834
+011322: União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz;6731;3308;3423
+011319: Vila de Cucujães;9964;4831;5133
+1310: Paredes;84414;40839;43575
+131001: Aguiar de Sousa;1583;774;809
+131002: Astromil;1067;512;555
+131003: Baltar;4727;2261;2466
+131004: Beire;2014;967;1047
+131008: Cete;3095;1489;1606
+131009: Cristelo;1763;857;906
+131010: Duas Igrejas;3654;1790;1864
+131011: Gandra;6980;3410;3570
+131013: Lordelo;9112;4489;4623
+131014: Louredo;1386;663;723
+131017: Parada de Todeia;1795;891;904
+131025: Paredes;20596;9808;10788
+131018: Rebordosa;8497;4092;4405
+131019: Recarei;4479;2170;2309
+131020: Sobreira;4125;2006;2119
+131021: Sobrosa;2497;1171;1326
+131022: Vandoma;2307;1164;1143
+131024: Vilela;4737;2325;2412
+1312: Porto;231962;106206;125756
+131202: Bonfim;22989;10372;12617
+131203: Campanhã;29684;13707;15977
+131210: Paranhos;45871;20882;24989
+131211: Ramalde;38860;17751;21109
+131216: União das freguesias de Aldoar, Foz do Douro e Nevogilde;29154;13567;15587
+131217: União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória;37436;16978;20458
+131218: União das freguesias de Lordelo do Ouro e Massarelos;27968;12949;15019
+1313: Póvoa de Varzim;64320;30268;34052
+131305: Balazar;2481;1160;1321
+131307: Estela;2288;1106;1182
+131308: Laundos;1938;930;1008
+131311: Rates;2477;1184;1293
+131315: União das freguesias da Póvoa de Varzim, Beiriz e Argivai;35476;16500;18976
+131314: União das freguesias de Aguçadoura e Navais;5394;2594;2800
+131313: União das freguesias de Aver-o-Mar, Amorim e Terroso;14266;6794;7472
+0109: Santa Maria da Feira;136720;65867;70853
+010901: Argoncilhe;8177;3942;4235
+010902: Arrifana;6304;3030;3274
+010904: Escapães;3310;1558;1752
+010907: Fiães;7095;3390;3705
+010908: Fornos;3435;1674;1761
+010913: Lourosa;8012;3788;4224
+010914: Milheirós de Poiares;3598;1781;1817
+010916: Mozelos;7295;3567;3728
+010917: Nogueira da Regedoura;5742;2786;2956
+010919: Paços de Brandão;4771;2333;2438
+010921: Rio Meão;4815;2313;2502
+010922: Romariz;2739;1328;1411
+010924: Sanguedo;3478;1676;1802
+010925: Santa Maria de Lamas;4754;2272;2482
+010926: São João de Ver;11033;5351;5682
+010918: São Paio de Oleiros;3659;1731;1928
+010932: União das freguesias de Caldas de São Jorge e Pigeiros;3693;1802;1891
+010933: União das freguesias de Canedo, Vale e Vila Maior;8882;4306;4576
+010934: União das freguesias de Lobão, Gião, Louredo e Guisande;9656;4674;4982
+010935: União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo;19786;9425;10361
+010936: União de freguesias de São Miguel do Souto e Mosteirô;6486;3140;3346
+1314: Santo Tirso;67785;32242;35543
+131401: Agrela;1483;701;782
+131402: Água Longa;2347;1161;1186
+131405: Aves;7950;3767;4183
+131413: Monte Córdova;3850;1850;2000
+131430: Negrelos (São Tomé);3756;1758;1998
+131416: Rebordões;3131;1523;1608
+131418: Reguenga;1427;669;758
+131419: Roriz;3307;1616;1691
+131433: União das freguesias de Areias, Sequeiró, Lama e Palmeira;6372;2994;3378
+131434: Vila Nova do Campo;6322;3049;3273
+131435: União das freguesias de Carreira e Refojos de Riba de Ave;2043;978;1065
+131436: União das freguesias de Lamelas e Guimarei;1567;755;812
+131437: União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães;20635;9650;10985
+131432: Vilarinho;3595;1771;1824
+0116: São João da Madeira;22162;10396;11766
+011601: São João da Madeira;22162;10396;11766
+1318: Trofa;38612;18472;20140
+131806: Covelas;1461;697;764
+131808: Muro;1841;877;964
+131809: União das freguesias de Alvarelhos e Guidões;4777;2337;2440
+131810: União das freguesias de Bougado (São Martinho e Santiago);21412;10161;11251
+131811: União das freguesias de Coronado (São Romão e São Mamede);9121;4400;4721
+0119: Vale de Cambra;21279;10277;11002
+011901: Arões;1170;550;620
+011903: Cepelos;1159;560;599
+011905: Junqueira;832;396;436
+011906: Macieira de Cambra;4390;2121;2269
+011907: Roge;1543;741;802
+011902: São Pedro de Castelões;6835;3309;3526
+011910: União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho;5350;2600;2750
+1315: Valongo;94795;44977;49818
+131501: Alfena;14439;6924;7515
+131503: Ermesinde;39148;18314;20834
+131506: União das freguesias de Campo e Sobrado;15288;7399;7889
+131505: Valongo;25920;12340;13580
+1316: Vila do Conde;80921;38707;42214
+131602: Árvore;5562;2712;2850
+131603: Aveleda;1226;589;637
+131604: Azurara;2368;1133;1235
+131607: Fajozes;1639;809;830
+131610: Gião;1660;823;837
+131611: Guilhabreu;2192;1062;1130
+131612: Junqueira;1921;919;1002
+131613: Labruge;3006;1467;1539
+131614: Macieira da Maia;2480;1204;1276
+131616: Mindelo;3991;1880;2111
+131617: Modivas;1762;840;922
+131631: União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada;2664;1305;1359
+131632: União das freguesias de Fornelo e Vairão;2416;1131;1285
+131633: União das freguesias de Malta e Canidelo;2224;1090;1134
+131634: União das freguesias de Retorta e Tougues;2044;1014;1030
+131635: União das freguesias de Rio Mau e Arcos;2646;1265;1381
+131636: União das freguesias de Touguinha e Touguinhó;3347;1596;1751
+131637: União das freguesias de Vilar e Mosteiró;2402;1146;1256
+131627: Vila Chã;3418;1641;1777
+131628: Vila do Conde;29384;13824;15560
+131630: Vilar de Pinheiro;2569;1257;1312
+1317: Vila Nova de Gaia;304149;144141;160008
+131701: Arcozelo;15143;7229;7914
+131702: Avintes;10835;5276;5559
+131703: Canelas;13924;6714;7210
+131704: Canidelo;28075;13326;14749
+131709: Madalena;10572;5054;5518
+131712: Oliveira do Douro;22631;10669;11962
+131717: São Félix da Marinha;13574;6569;7005
+131725: União das freguesias de Grijó e Sermonde;12023;5745;6278
+131726: União das freguesias de Gulpilhares e Valadares;22356;10593;11763
+131727: União das freguesias de Mafamude e Vilar do Paraíso;52911;24459;28452
+131728: União das freguesias de Pedroso e Seixezelo;20245;9758;10487
+131729: União das freguesias de Sandim, Olival, Lever e Crestuma;15984;7719;8265
+131730: União das freguesias de Santa Marinha e São Pedro da Afurada;34095;15829;18266
+131731: União das freguesias de Serzedo e Perosinho;13761;6667;7094
+131723: Vilar de Andorinho;18020;8534;9486
+11B: Alto Tâmega;84330;40080;44250
+1702: Boticas;5002;2390;2612
+170217: Alturas do Barroso e Cerdedo;389;203;186
+170218: Ardãos e Bobadela;464;225;239
+170203: Beça;776;374;402
+170219: Boticas e Granja;1541;733;808
+170220: Codessoso, Curros e Fiães do Tâmega;257;114;143
+170208: Covas do Barroso;192;89;103
+170210: Dornelas;274;122;152
+170213: Pinho;329;155;174
+170215: Sapiãos;398;188;210
+170221: Vilar e Viveiro;382;187;195
+1703: Chaves;37623;17840;19783
+170301: Águas Frias;604;301;303
+170302: Anelhe;443;211;232
+170305: Bustelo;449;212;237
+170309: Cimo de Vila da Castanheira;338;163;175
+170310: Curalha;416;203;213
+170312: Ervededo;594;284;310
+170313: Faiões;829;408;421
+170314: Lama de Arcos;292;138;154
+170316: Mairos;272;117;155
+170317: Moreiras;215;108;107
+170318: Nogueira da Montanha;463;224;239
+170320: Oura;516;245;271
+170321: Outeiro Seco;853;429;424
+170322: Paradela;216;105;111
+170353: Planalto de Monforte (União das freguesias de Oucidres e Bobadela);260;123;137
+170324: Redondelo;455;237;218
+170327: Sanfins;200;90;110
+170329: Santa Leocádia;254;114;140
+170350: Santa Maria Maior;11427;5274;6153
+170330: Santo António de Monforte;398;187;211
+170331: Santo Estêvão;543;270;273
+170333: São Pedro de Agostém;1323;628;695
+170334: São Vicente;185;91;94
+170340: Tronco;202;91;111
+170354: União das freguesias da Madalena e Samaiões;2421;1110;1311
+170355: União das freguesias das Eiras, São Julião de Montenegro e Cela;849;420;429
+170356: União das freguesias de Calvão e Soutelinho da Raia;430;198;232
+170357: União das freguesias de Loivos e Póvoa de Agrações;587;278;309
+170358: União das freguesias de Santa Cruz/Trindade e Sanjurge;3387;1675;1712
+170359: União das freguesias de Soutelo e Seara Velha;462;231;231
+170360: União das freguesias de Travancas e Roriz;454;207;247
+170341: Vale de Anta;1627;761;866
+170361: Vidago (União das freguesias de Vidago, Arcossó, Selhariz e Vilarinho das Paranheiras);1728;810;918
+170343: Vila Verde da Raia;816;403;413
+170344: Vilar de Nantes;1895;887;1008
+170345: Vilarelho da Raia;464;230;234
+170347: Vilas Boas;164;88;76
+170349: Vilela do Tâmega;354;176;178
+170348: Vilela Seca;238;113;125
+1706: Montalegre;9279;4466;4813
+170601: Cabril;512;252;260
+170603: Cervos;227;118;109
+170604: Chã;701;347;354
+170607: Covelo do Gerês;166;83;83
+170609: Ferral;293;140;153
+170612: Gralhas;186;95;91
+170616: Morgade;195;93;102
+170618: Negrões;132;64;68
+170619: Outeiro;143;74;69
+170623: Pitões das Junias;151;70;81
+170625: Reigoso;131;57;74
+170626: Salto;1264;605;659
+170627: Santo André;149;75;74
+170629: Sarraquinhos;300;147;153
+170631: Solveira;151;73;78
+170632: Tourém;112;57;55
+170636: União das freguesias de Cambeses do Rio, Donões e Mourilhe;273;121;152
+170637: União das freguesias de Meixedo e Padornelos;265;125;140
+170638: União das freguesias de Montalegre e Padroso;1784;818;966
+170639: União das freguesias de Paradela, Contim e Fiães;245;118;127
+170640: União das freguesias de Sezelhe e Covelães;229;111;118
+170641: União das freguesias de Venda Nova e Pondras;346;161;185
+170642: União das freguesias de Viade de Baixo e Fervidelas;693;337;356
+170643: União das freguesias de Vilar de Perdizes e Meixide;464;235;229
+170635: Vila da Ponte;167;90;77
+1709: Ribeira de Pena;5887;2895;2992
+170901: Alvadia;164;89;75
+170902: Canedo;275;128;147
+170906: Santa Marinha;550;276;274
+170908: União das freguesias de Cerva e Limões;2285;1147;1138
+170909: União das freguesias de Ribeira de Pena (Salvador) e Santo Aleixo de Além-Tâmega;2613;1255;1358
+1712: Valpaços;14714;6877;7837
+171201: Água Revés e Crasto;275;122;153
+171203: Algeriz;502;232;270
+171205: Bouçoães;304;141;163
+171206: Canaveses;170;74;96
+171232: Carrazedo de Montenegro e Curros;1643;807;836
+171209: Ervões;534;261;273
+171211: Fornos do Pinhal;320;155;165
+171212: Friões;447;204;243
+171233: Lebução, Fiães e Nozelos;550;263;287
+171215: Padrela e Tazem;277;126;151
+171216: Possacos;358;167;191
+171217: Rio Torto;284;127;157
+171219: Santa Maria de Emeres;311;146;165
+171220: Santa Valha;317;155;162
+171221: Santiago da Ribeira de Alhariz;505;225;280
+171222: São João da Corveira;457;206;251
+171223: São Pedro de Veiga de Lila;242;118;124
+171224: Serapicos;196;91;105
+171234: Sonim e Barreiros;314;152;162
+171235: Tinhela e Alvarelhos;260;116;144
+171227: Vales;191;90;101
+171236: Valpaços e Sanfins;4669;2167;2502
+171229: Vassal;395;182;213
+171230: Veiga de Lila;232;103;129
+171231: Vilarandelo;961;447;514
+1713: Vila Pouca de Aguiar;11825;5612;6213
+171302: Alfarela de Jales;357;169;188
+171319: Alvão;776;378;398
+171303: Bornes de Aguiar;1931;914;1017
+171304: Bragado;448;207;241
+171305: Capeludos;364;168;196
+171317: Sabroso de Aguiar;548;272;276
+171310: Soutelo de Aguiar;602;285;317
+171311: Telões;1330;629;701
+171312: Tresminas;341;169;172
+171320: União das freguesias de Pensalvos e Parada de Monteiros;290;135;155
+171313: Valoura;295;146;149
+171314: Vila Pouca de Aguiar;3124;1462;1662
+171315: Vreia de Bornes;567;270;297
+171316: Vreia de Jales;852;408;444
+11C: Tâmega e Sousa;408878;196853;212025
+1301: Amarante;52131;24725;27406
+130103: Ansiães;517;246;271
+130107: Candemil;586;276;310
+130112: Fregim;2727;1276;1451
+130115: Fridão;664;324;340
+130117: Gondar;1537;738;799
+130134: Gouveia (São Simão);577;283;294
+130118: Jazente;517;257;260
+130119: Lomba;818;405;413
+130120: Louredo;629;301;328
+130121: Lufrei;1592;757;835
+130123: Mancelos;2830;1358;1472
+130126: Padronelo;754;360;394
+130128: Rebordelo;267;123;144
+130129: Salvador do Monte;893;430;463
+130135: Telões;3943;1906;2037
+130136: Travanca;2014;962;1052
+130141: União das freguesias de Aboadela, Sanche e Várzea;1446;680;766
+130142: União das freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão;11577;5372;6205
+130143: União das freguesias de Bustelo, Carneiro e Carvalho de Rei;827;392;435
+130144: União das freguesias de Figueiró (Santiago e Santa Cristina);3632;1735;1897
+130145: União das freguesias de Freixo de Cima e de Baixo;3451;1660;1791
+130146: União das freguesias de Olo e Canadelo;434;199;235
+130147: Vila Meã;4558;2173;2385
+130148: União das freguesias de Vila Garcia, Aboim e Chapa;1663;776;887
+130138: Vila Caiz;2853;1336;1517
+130139: Vila Chã do Marão;825;400;425
+1302: Baião;17527;8301;9226
+130204: Frende;578;282;296
+130205: Gestaçô;1008;475;533
+130206: Gove;1740;860;880
+130207: Grilo;472;240;232
+130208: Loivos do Monte;301;150;151
+130215: Santa Marinha do Zêzere;2466;1163;1303
+130221: União das freguesias de Ancede e Ribadouro;2332;1106;1226
+130222: União das freguesias de Baião (Santa Leocádia) e Mesquinhata;733;329;404
+130223: União das freguesias de Campelo e Ovil;3691;1707;1984
+130224: União das freguesias de Loivos da Ribeira e Tresouras;700;342;358
+130225: União das freguesias de Santa Cruz do Douro e São Tomé de Covelas;1654;777;877
+130226: União das freguesias de Teixeira e Teixeiró;723;332;391
+130219: Valadares;733;351;382
+130220: Viariz;396;187;209
+0106: Castelo de Paiva;15597;7535;8062
+010602: Fornos;1277;608;669
+010606: Real;1194;572;622
+010607: Santa Maria de Sardoura;2275;1120;1155
+010608: São Martinho de Sardoura;1852;881;971
+010610: União das freguesias de Raiva, Pedorido e Paraíso;4211;2065;2146
+010611: União das freguesias de Sobrado e Bairros;4788;2289;2499
+0305: Celorico de Basto;17666;8410;9256
+030501: Agilde;1160;578;582
+030502: Arnóia;1511;725;786
+030520: Basto (São Clemente);1402;686;716
+030503: Borba de Montanha;1115;491;624
+030508: Codeçoso;387;179;208
+030510: Fervença;1059;490;569
+030515: Moreira do Castelo;586;289;297
+030517: Rego;1031;495;536
+030518: Ribas;901;418;483
+030523: União das freguesias de Britelo, Gémeos e Ourilhe;3431;1651;1780
+030524: União das freguesias de Caçarilhe e Infesta;512;241;271
+030525: União das freguesias de Canedo de Basto e Corgo;1100;523;577
+030526: União das freguesias de Carvalho e Basto (Santa Tecla);942;460;482
+030527: União das freguesias de Veade, Gagos e Molares;1711;789;922
+030521: Vale de Bouro;818;395;423
+1804: Cinfães;17747;8603;9144
+180403: Cinfães;3079;1437;1642
+180404: Espadanedo;1163;578;585
+180405: Ferreiros de Tendais;544;275;269
+180406: Fornelos;592;286;306
+180408: Moimenta;356;172;184
+180409: Nespereira;1700;824;876
+180410: Oliveira do Douro;1258;630;628
+180412: Santiago de Piães;1608;782;826
+180413: São Cristóvão de Nogueira;1641;784;857
+180414: Souselo;2840;1389;1451
+180415: Tarouquela;1041;499;542
+180416: Tendais;699;331;368
+180417: Travanca;712;357;355
+180418: União das freguesias de Alhões, Bustelo, Gralheira e Ramires;514;259;255
+1303: Felgueiras;55883;26923;28960
+130301: Aião;828;412;416
+130302: Airães;2288;1079;1209
+130305: Friande;1747;859;888
+130306: Idães;2555;1270;1285
+130307: Jugueiros;1221;589;632
+130313: Penacova;1064;515;549
+130314: Pinheiro;1050;516;534
+130315: Pombeiro de Ribavizela;2073;1023;1050
+130317: Refontoura;1897;935;962
+130318: Regilde;1184;560;624
+130319: Revinhade;799;401;398
+130324: Sendim;1568;755;813
+130334: União das freguesias de Macieira da Lixa e Caramos;3609;1727;1882
+130335: União das freguesias de Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure;17695;8506;9189
+130336: União das freguesias de Pedreira, Rande e Sernande;3294;1592;1702
+130337: União das freguesias de Torrados e Sousa;3294;1632;1662
+130338: União das freguesias de Unhão e Lordelo;1097;543;554
+130339: União das freguesias de Vila Cova da Lixa e Borba de Godim;6096;2800;3296
+130340: União das freguesias de Vila Fria e Vizela (São Jorge);1107;528;579
+130341: União das freguesias de Vila Verde e Santão;1417;681;736
+1305: Lousada;47401;22890;24511
+130502: Aveleda;2119;1026;1093
+130504: Caíde de Rei;2423;1171;1252
+130510: Lodares;2063;1003;1060
+130512: Macieira;1281;607;674
+130513: Meinedo;3803;1810;1993
+130515: Nevogilde;2452;1207;1245
+130524: Sousela;1791;877;914
+130525: Torno;2452;1168;1284
+130527: União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida);2144;992;1152
+130528: União das freguesias de Cristelos, Boim e Ordem;7561;3702;3859
+130529: União das freguesias de Figueiras e Covas;2148;1048;1100
+130530: União das freguesias de Lustosa e Barrosas (Santo Estêvão);5826;2868;2958
+130531: União das freguesias de Nespereira e Casais;3438;1679;1759
+130532: União das freguesias de Silvares, Pias, Nogueira e Alvarenga;6604;3125;3479
+130526: Vilar do Torno e Alentém;1296;607;689
+1307: Marco de Canaveses;49563;23764;25799
+130732: Alpendorada, Várzea e Torrão;8060;3918;4142
+130733: Avessadas e Rosém;1375;684;691
+130704: Banho e Carvalhosa;1074;505;569
+130734: Bem Viver;3541;1670;1871
+130705: Constance;1518;732;786
+130736: Marco;11071;5247;5824
+130737: Paredes de Viadores e Manhuncelos;1535;742;793
+130738: Penha Longa e Paços de Gaiolo;2524;1242;1282
+130739: Sande e São Lourenço do Douro;2451;1170;1281
+130735: Santo Isidoro e Livração;1814;848;966
+130722: Soalhães;3320;1564;1756
+130723: Sobretâmega;1084;531;553
+130724: Tabuado;1339;667;672
+130740: Várzea, Aliviada e Folhada;2346;1128;1218
+130741: Vila Boa de Quires e Maureles;3462;1675;1787
+130730: Vila Boa do Bispo;3049;1441;1608
+1309: Paços de Ferreira;55623;27362;28261
+130902: Carvalhosa;4520;2215;2305
+130904: Eiriz;2179;1080;1099
+130905: Ferreira;4251;2067;2184
+130906: Figueiró;2477;1196;1281
+130917: Frazão Arreigada;5827;2831;2996
+130908: Freamunde;7563;3703;3860
+130910: Meixomil;3747;1828;1919
+130918: Paços de Ferreira;9679;4603;5076
+130913: Penamaior;3587;1726;1861
+130914: Raimonda;2492;1211;1281
+130919: Sanfins Lamoso Codessos;5544;2657;2887
+130916: Seroa;3757;2245;1512
+1311: Penafiel;69687;33447;36240
+131101: Abragão;2310;1143;1167
+131102: Boelhe;1531;714;817
+131103: Bustelo;1682;806;876
+131104: Cabeça Santa;2356;1143;1213
+131105: Canelas;1579;781;798
+131106: Capela;963;447;516
+131107: Castelões;1363;645;718
+131108: Croca;1792;897;895
+131109: Duas Igrejas;2254;1076;1178
+131110: Eja;863;409;454
+131112: Fonte Arcada;1457;705;752
+131113: Galegos;2585;1276;1309
+131141: Guilhufe e Urrô;3858;1854;2004
+131115: Irivo;2101;998;1103
+131142: Lagares e Figueira;2785;1358;1427
+131140: Luzim e Vila Cova;1541;752;789
+131121: Oldrões;1955;914;1041
+131122: Paço de Sousa;3840;1828;2012
+131139: Penafiel;15700;7373;8327
+131125: Perozelo;1317;622;695
+131128: Rans;1805;880;925
+131132: Recezinhos (São Mamede);1365;640;725
+131133: Recezinhos (São Martinho);1709;832;877
+131129: Rio de Moinhos;2542;1241;1301
+131138: Rio Mau;1341;673;668
+131134: Sebolido;823;401;422
+131143: Termas de São Vicente;4763;2295;2468
+131136: Valpedre;1507;744;763
+1813: Resende;10053;4893;5160
+181302: Barrô;595;284;311
+181303: Cárquere;746;364;382
+181310: Paus;421;201;220
+181311: Resende;3079;1484;1595
+181312: São Cipriano;672;345;327
+181313: São João de Fontoura;540;258;282
+181314: São Martinho de Mouros;1331;645;686
+181316: União das freguesias de Anreade e São Romão de Aregos;1347;664;683
+181317: União das freguesias de Felgueiras e Feirão;361;179;182
+181318: União das freguesias de Freigil e Miomães;679;335;344
+181319: União das freguesias de Ovadas e Panchorra;282;134;148
+11D: Douro;184043;87326;96717
+1701: Alijó;10492;5105;5387
+170101: Alijó;2586;1263;1323
+170107: Favaios;937;456;481
+170108: Pegarinhos;393;188;205
+170109: Pinhão;623;310;313
+170112: Sanfins do Douro;1258;613;645
+170113: Santa Eugénia;279;141;138
+170114: São Mamede de Ribatua;586;283;303
+170120: União das freguesias de Carlão e Amieiro;630;312;318
+170121: União das freguesias de Castedo e Cotas;535;257;278
+170122: União das freguesias de Pópulo e Ribalonga;409;197;212
+170123: União das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas;449;219;230
+170116: Vila Chã;446;209;237
+170117: Vila Verde;546;260;286
+170118: Vilar de Maçada;815;397;418
+1801: Armamar;5680;2662;3018
+180101: Aldeias;309;140;169
+180120: Armamar;1511;719;792
+180104: Cimbres;270;129;141
+180106: Folgosa;334;162;172
+180107: Fontelo;602;271;331
+180109: Queimada;291;139;152
+180110: Queimadela;208;108;100
+180111: Santa Cruz;173;83;90
+180114: São Cosmado;513;232;281
+180115: São Martinho das Chãs;478;216;262
+180121: União das freguesias de Aricera e Goujoim;184;91;93
+180122: União das freguesias de São Romão e Santiago;225;101;124
+180123: União das freguesias de Vila Seca e Santo Adrião;410;187;223
+180118: Vacalar;172;84;88
+0403: Carrazeda de Ansiães;5494;2623;2871
+040304: Carrazeda de Ansiães;1706;800;906
+040306: Fonte Longa;259;123;136
+040308: Linhares;348;170;178
+040309: Marzagão;294;155;139
+040311: Parambos;183;88;95
+040312: Pereiros;151;76;75
+040313: Pinhal do Norte;214;103;111
+040314: Pombal;230;101;129
+040316: Seixo de Ansiães;240;113;127
+040320: União das freguesias de Amedo e Zedes;402;197;205
+040321: União das freguesias de Belver e Mogo de Malta;365;177;188
+040322: União das freguesias de Castanheiro do Norte e Ribalonga;403;183;220
+040323: União das freguesias de Lavandeira, Beira Grande e Selores;337;170;167
+040318: Vilarinho da Castanheira;362;167;195
+0404: Freixo de Espada à Cinta;3215;1533;1682
+040404: Ligares;332;148;184
+040406: Poiares;326;158;168
+040407: União das freguesias de Freixo de Espada à Cinta e Mazouco;2114;1011;1103
+040408: União das freguesias de Lagoaça e Fornos;443;216;227
+1805: Lamego;24348;11509;12839
+180502: Avões;503;247;256
+180504: Britiande;794;375;419
+180505: Cambres;1593;756;837
+180507: Ferreirim;897;406;491
+180508: Ferreiros de Avões;428;208;220
+180509: Figueira;279;136;143
+180510: Lalim;660;321;339
+180525: Lamego (Almacave e Sé);12090;5656;6434
+180511: Lazarim;409;199;210
+180516: Penajóia;804;374;430
+180517: Penude;1407;672;735
+180519: Samodães;172;85;87
+180520: Sande;812;381;431
+180526: União das freguesias de Bigorne, Magueija e Pretarouca;578;279;299
+180527: União das freguesias de Cepões, Meijinhos e Melcões;972;479;493
+180528: União das freguesias de Parada do Bispo e Valdigem;892;445;447
+180523: Várzea de Abrunhais;329;153;176
+180524: Vila Nova de Souto d'El-Rei;729;337;392
+1704: Mesão Frio;3555;1662;1893
+170401: Barqueiros;538;248;290
+170402: Cidadelhe;131;64;67
+170408: Mesão Frio (Santo André);1620;742;878
+170403: Oliveira;349;181;168
+170407: Vila Marim;917;427;490
+1807: Moimenta da Beira;9411;4483;4928
+180702: Alvite;1025;491;534
+180703: Arcozelos;606;299;307
+180705: Baldos;152;68;84
+180706: Cabaços;220;102;118
+180707: Caria;406;194;212
+180708: Castelo;198;95;103
+180709: Leomil;1133;535;598
+180710: Moimenta da Beira;2843;1367;1476
+180713: Passô;286;136;150
+180716: Vila da Rua;510;234;276
+180717: Sarzedo;154;74;80
+180719: Sever;515;242;273
+180721: União das freguesias de Paradinha e Nagosa;231;106;125
+180722: União das freguesias de Pêra Velha, Aldeia de Nacomba e Ariz;386;186;200
+180723: União das freguesias de Peva e Segões;430;206;224
+180720: Vilar;316;148;168
+1707: Murça;5249;2530;2719
+170701: Candedo;820;410;410
+170703: Fiolhoso;417;184;233
+170704: Jou;535;264;271
+170705: Murça;1965;940;1025
+170710: União das freguesias de Carva e Vilares;434;209;225
+170711: União das freguesias de Noura e Palheiros;813;393;420
+170708: Valongo de Milhais;265;130;135
+1812: Penedono;2731;1285;1446
+181202: Beselga;270;121;149
+181203: Castainço;128;63;65
+181207: Penela da Beira;315;152;163
+181208: Póvoa de Penela;337;158;179
+181209: Souto;288;139;149
+181210: União das freguesias de Antas e Ourozinho;285;139;146
+181211: União das freguesias de Penedono e Granja;1108;513;595
+1708: Peso da Régua;14553;6822;7731
+170802: Fontelas;629;309;320
+170805: Loureiro;891;419;472
+170809: Sedielos;731;324;407
+170813: União das freguesias de Galafura e Covelinhas;705;327;378
+170814: União das freguesias de Moura Morta e Vinhós;750;366;384
+170815: União das freguesias de Peso da Régua e Godim;8916;4172;4744
+170816: União das freguesias de Poiares e Canelas;1194;555;639
+170810: Vilarinho dos Freires;737;350;387
+1710: Sabrosa;5556;2654;2902
+171001: Celeirós;200;98;102
+171002: Covas do Douro;363;187;176
+171004: Gouvinhas;221;109;112
+171007: Paços;674;320;354
+171005: Parada de Pinhão;257;118;139
+171009: Sabrosa;1136;551;585
+171011: São Lourenço de Ribapinhão;319;148;171
+171013: Souto Maior;439;215;224
+171014: Torre do Pinhão;296;141;155
+171016: União das freguesias de Provesende, Gouvães do Douro e São Cristóvão do Douro;464;207;257
+171017: União das freguesias de São Martinho de Antas e Paradela de Guiães;948;446;502
+171015: Vilarinho de São Romão;239;114;125
+1711: Santa Marta de Penaguião;6104;2899;3205
+171101: Alvações do Corgo;405;185;220
+171102: Cumieira;1007;470;537
+171103: Fontes;661;321;340
+171106: Medrões;434;209;225
+171110: Sever;582;294;288
+171111: União das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane;2495;1172;1323
+171112: União das freguesias de Louredo e Fornelos;520;248;272
+1815: São João da Pesqueira;6780;3316;3464
+181501: Castanheiro do Sul;382;192;190
+181502: Ervedosa do Douro;1029;480;549
+181504: Nagozelo do Douro;340;176;164
+181505: Paredes da Beira;493;245;248
+181507: Riodades;406;203;203
+181509: Soutelo do Douro;373;186;187
+181515: União das freguesias de São João da Pesqueira e Várzea de Trevões;2276;1103;1173
+181516: União das freguesias de Trevões e Espinhosa;548;253;295
+181517: União das freguesias de Vilarouco e Pereiros;357;180;177
+181511: Vale de Figueira;356;183;173
+181512: Valongo dos Azeites;220;115;105
+1818: Sernancelhe;5713;2760;2953
+181801: Arnas;187;91;96
+181802: Carregal;428;185;243
+181803: Chosendo;269;135;134
+181804: Cunha;323;152;171
+181806: Faia;160;77;83
+181810: Granjal;283;142;141
+181811: Lamosa;179;89;90
+181814: Quintela;249;115;134
+181818: União das freguesias de Ferreirim e Macieira;615;308;307
+181819: União das freguesias de Fonte Arcada e Escurquela;431;210;221
+181820: União das freguesias de Penso e Freixinho;363;175;188
+181821: União das freguesias de Sernancelhe e Sarzeda;1758;841;917
+181817: Vila da Ponte;468;240;228
+1819: Tabuaço;5039;2372;2667
+181901: Adorigo;301;144;157
+181902: Arcos;162;77;85
+181904: Chavães;299;142;157
+181905: Desejosa;117;59;58
+181906: Granja do Tedo;156;72;84
+181908: Longa;209;106;103
+181913: Sendim;677;316;361
+181914: Tabuaço;1537;696;841
+181918: União das freguesias de Barcos e Santa Leocádia;626;307;319
+181919: União das freguesias de Paradela e Granjinha;99;48;51
+181920: União das freguesias de Pinheiros e Vale de Figueira;239;109;130
+181921: União das freguesias de Távora e Pereiro;362;173;189
+181917: Valença do Douro;255;123;132
+1820: Tarouca;7374;3529;3845
+182004: Mondim da Beira;590;280;310
+182005: Salzedas;652;312;340
+182006: São João de Tarouca;460;220;240
+182011: União das freguesias de Gouviães e Ucanha;698;334;364
+182012: União das freguesias de Granja Nova e Vila Chã da Beira;429;207;222
+182013: União das freguesias de Tarouca e Dálvares;4337;2065;2272
+182009: Várzea da Serra;208;111;97
+0409: Torre de Moncorvo;6822;3221;3601
+040901: Açoreira;340;187;153
+040903: Cabeça Boa;283;142;141
+040905: Carviçais;507;230;277
+040906: Castedo;178;90;88
+040909: Horta da Vilariça;209;104;105
+040910: Larinho;327;159;168
+040911: Lousa;289;127;162
+040913: Mós;189;94;95
+040916: Torre de Moncorvo;2612;1219;1393
+040918: União das freguesias de Adeganha e Cardanha;437;212;225
+040919: União das freguesias de Felgar e Souto da Velha;859;396;463
+040920: União das freguesias de Felgueiras e Maçores;330;150;180
+040921: União das freguesias de Urros e Peredo dos Castelhanos;262;111;151
+0914: Vila Nova de Foz Côa;6304;2983;3321
+091401: Almendra;309;151;158
+091402: Castelo Melhor;168;86;82
+091403: Cedovim;283;135;148
+091404: Chãs;234;106;128
+091405: Custóias;192;94;98
+091418: Freixo de Numão;518;240;278
+091407: Horta;161;74;87
+091410: Muxagata;268;122;146
+091411: Numão;210;99;111
+091412: Santa Comba;145;63;82
+091414: Sebadelhe;215;100;115
+091415: Seixas;312;151;161
+091416: Touça;188;85;103
+091419: Vila Nova de Foz Côa;3101;1477;1624
+1714: Vila Real;49623;23378;26245
+171401: Abaças;836;399;437
+171403: Andrães;1372;658;714
+171404: Arroios;1058;511;547
+171406: Campeã;1226;567;659
+171409: Folhadela;2164;1011;1153
+171410: Guiães;384;187;197
+171414: Lordelo;3228;1531;1697
+171415: Mateus;3545;1671;1874
+171416: Mondrões;948;468;480
+171420: Parada de Cunhos;1722;803;919
+171426: Torgueda;1235;586;649
+171431: União das freguesias de Adoufe e Vilarinho de Samardã;2663;1290;1373
+171432: União das freguesias de Borbela e Lamas de Olo;2896;1390;1506
+171433: União das freguesias de Constantim e Vale de Nogueiras;1733;820;913
+171434: União das freguesias de Mouçós e Lamares;3179;1559;1620
+171435: União das freguesias de Nogueira e Ermida;759;350;409
+171436: União das freguesias de Pena, Quintã e Vila Cova;712;337;375
+171437: União das freguesias de São Tomé do Castelo e Justes;1069;505;564
+171438: Vila Real;17375;8020;9355
+171429: Vila Marim;1519;715;804
+11E: Terras de Trás-os-Montes;107302;51320;55982
+0401: Alfândega da Fé;4321;2089;2232
+040102: Alfândega da Fé;1937;935;1002
+040103: Cerejais;160;71;89
+040111: Sambade;372;177;195
+040121: União das freguesias de Agrobom, Saldonha e Vale Pereiro;211;105;106
+040122: União das freguesias de Eucisia, Gouveia e Valverde;266;139;127
+040123: União das freguesias de Ferradosa e Sendim da Serra;169;81;88
+040124: União das freguesias de Gebelim e Soeima;299;144;155
+040125: União das freguesias de Parada e Sendim da Ribeira;209;101;108
+040126: União das freguesias de Pombal e Vales;144;70;74
+040118: Vilar Chão;205;101;104
+040119: Vilarelhos;217;100;117
+040120: Vilares de Vilariça;132;65;67
+0402: Bragança;34580;16511;18069
+040201: Alfaião;164;84;80
+040203: Babe;209;90;119
+040204: Baçal;460;243;217
+040206: Carragosa;162;76;86
+040209: Castro de Avelãs;430;211;219
+040210: Coelhoso;279;123;156
+040212: Donai;418;195;223
+040213: Espinhosela;227;118;109
+040215: França;199;83;116
+040216: Gimonde;360;173;187
+040217: Gondesende;139;74;65
+040218: Gostei;397;186;211
+040219: Grijó de Parada;247;127;120
+040221: Macedo do Mato;179;80;99
+040224: Mós;174;88;86
+040225: Nogueira;462;221;241
+040226: Outeiro;234;109;125
+040229: Parâmio;195;93;102
+040230: Pinela;226;108;118
+040232: Quintanilha;217;101;116
+040233: Quintela de Lampaças;185;90;95
+040234: Rabal;153;76;77
+040236: Rebordãos;534;254;280
+040239: Salsas;269;136;133
+040240: Samil;1396;685;711
+040241: Santa Comba de Rossas;275;137;138
+040244: São Pedro de Sarracenos;380;168;212
+040246: Sendas;152;70;82
+040247: Serapicos;188;84;104
+040248: Sortes;263;119;144
+040250: União das freguesias de Aveleda e Rio de Onor;227;117;110
+040251: União das freguesias de Castrelos e Carrazedo;215;100;115
+040252: União das freguesias de Izeda, Calvelhe e Paradinha Nova;849;474;375
+040253: União das freguesias de Parada e Faílde;539;261;278
+040254: União das freguesias de Rebordainhos e Pombares;148;72;76
+040255: União das freguesias de Rio Frio e Milhão;287;141;146
+040256: União das freguesias de São Julião de Palácios e Deilão;319;158;161
+040257: União das freguesias de Sé, Santa Maria e Meixedo;22682;10716;11966
+040249: Zoio;141;70;71
+0405: Macedo de Cavaleiros;14252;6761;7491
+040502: Amendoeira;401;197;204
+040503: Arcas;215;108;107
+040507: Carrapatas;153;72;81
+040509: Chacim;224;115;109
+040510: Cortiços;237;117;120
+040511: Corujas;143;74;69
+040514: Ferreira;192;93;99
+040515: Grijó;350;170;180
+040516: Lagoa;271;138;133
+040517: Lamalonga;338;171;167
+040518: Lamas;238;119;119
+040519: Lombo;304;136;168
+040520: Macedo de Cavaleiros;6139;2827;3312
+040521: Morais;528;261;267
+040523: Olmos;149;77;72
+040524: Peredo;192;100;92
+040526: Salselas;286;139;147
+040528: Sezulfe;269;120;149
+040530: Talhas;255;128;127
+040539: União das freguesias de Ala e Vilarinho do Monte;414;200;214
+040540: União das freguesias de Bornes e Burga;342;154;188
+040541: União das freguesias de Castelãos e Vilar do Monte;454;198;256
+040542: União das freguesias de Espadanedo, Edroso, Murçós e Soutelo Mourisco;388;186;202
+040543: União das freguesias de Podence e Santa Combinha;259;122;137
+040544: União das freguesias de Talhinhas e Bagueixe;263;134;129
+040532: Vale Benfeito;159;80;79
+040533: Vale da Porca;240;115;125
+040534: Vale de Prados;473;224;249
+040536: Vilarinho de Agrochão;216;106;110
+040538: Vinhas;160;80;80
+0406: Miranda do Douro;6466;3120;3346
+040604: Duas Igrejas;558;268;290
+040605: Genísio;152;74;78
+040607: Malhadas;275;134;141
+040608: Miranda do Douro;2056;977;1079
+040609: Palaçoulo;571;281;290
+040611: Picote;230;105;125
+040612: Póvoa;164;77;87
+040613: São Martinho de Angueira;239;112;127
+040618: União das freguesias de Constantim e Cicouro;153;73;80
+040619: União das freguesias de Ifanes e Paradela;233;115;118
+040620: União das freguesias de Sendim e Atenor;1243;606;637
+040621: União das freguesias de Silva e Águas Vivas;330;174;156
+040616: Vila Chã de Braciosa;262;124;138
+0407: Mirandela;21389;10103;11286
+040701: Abambres;337;172;165
+040702: Abreiro;200;105;95
+040703: Aguieiras;244;121;123
+040704: Alvites;171;93;78
+040708: Bouça;182;94;88
+040709: Cabanelas;343;161;182
+040710: Caravelas;153;78;75
+040711: Carvalhais;1232;583;649
+040712: Cedães;270;125;145
+040713: Cobro;153;70;83
+040714: Fradizela;185;92;93
+040716: Frechas;728;344;384
+040718: Lamas de Orelhão;320;150;170
+040720: Mascarenhas;422;194;228
+040721: Mirandela;11408;5315;6093
+040722: Múrias;243;118;125
+040724: Passos;333;161;172
+040727: São Pedro Velho;280;137;143
+040728: São Salvador;200;101;99
+040729: Suçães;506;245;261
+040730: Torre de Dona Chama;922;438;484
+040738: União das freguesias de Avantos e Romeu;341;151;190
+040739: União das Freguesias de Avidagos, Navalho e Pereira;446;200;246
+040740: União das freguesias de Barcel, Marmelos e Valverde da Gestosa;319;148;171
+040741: União das freguesias de Franco e Vila Boa;262;131;131
+040742: União das freguesias de Freixeda e Vila Verde;135;69;66
+040731: Vale de Asnes;210;108;102
+040732: Vale de Gouvinhas;234;112;122
+040733: Vale de Salgueiro;343;166;177
+040734: Vale de Telhas;267;121;146
+0408: Mogadouro;8304;4000;4304
+040801: Azinhoso;241;120;121
+040802: Bemposta;497;247;250
+040803: Bruçó;166;79;87
+040804: Brunhoso;211;106;105
+040807: Castelo Branco;330;152;178
+040808: Castro Vicente;263;132;131
+040809: Meirinhos;250;122;128
+040811: Paradela;127;59;68
+040812: Penas Roias;279;135;144
+040813: Peredo da Bemposta;185;90;95
+040815: Saldanha;133;60;73
+040817: São Martinho do Peso;256;135;121
+040819: Tó;136;67;69
+040820: Travanca;120;57;63
+040829: União das freguesias de Brunhozinho, Castanheira e Sanhoane;217;109;108
+040830: União das freguesias de Mogadouro, Valverde, Vale de Porco e Vilar de Rei;3606;1700;1906
+040831: União das freguesias de Remondes e Soutelo;285;132;153
+040832: União das freguesias de Vilarinho dos Galegos e Ventozelo;356;166;190
+040821: Urrós;250;121;129
+040822: Vale da Madre;165;87;78
+040826: Vila de Ala;231;124;107
+0410: Vila Flor;6064;2917;3147
+041002: Benlhevai;234;116;118
+041005: Freixiel;527;257;270
+041009: Roios;148;74;74
+041010: Samões;338;176;162
+041011: Sampaio;137;73;64
+041012: Santa Comba de Vilariça;360;178;182
+041013: Seixo de Manhoses;403;187;216
+041014: Trindade;116;55;61
+041020: União das freguesias de Assares e Lodões;214;107;107
+041021: União das freguesias de Candoso e Carvalho de Egas;222;103;119
+041022: União das freguesias de Valtorno e Mourão;319;146;173
+041023: União das freguesias de Vila Flor e Nabo;2367;1117;1250
+041024: União das freguesias de Vilas Boas e Vilarinho das Azenhas;525;255;270
+041015: Vale Frechoso;154;73;81
+0411: Vimioso;4154;2009;2145
+041103: Argozelo;563;272;291
+041107: Carção;390;194;196
+041108: Matela;211;101;110
+041109: Pinelo;221;101;120
+041110: Santulhão;331;158;173
+041115: União das freguesias de Algoso, Campo de Víboras e Uva;490;229;261
+041116: União das freguesias de Caçarelhos e Angueira;295;156;139
+041117: União das freguesias de Vale de Frades e Avelanoso;293;147;146
+041113: Vilar Seco;116;56;60
+041114: Vimioso;1244;595;649
+0412: Vinhais;7772;3810;3962
+041201: Agrochão;220;104;116
+041203: Candedo;289;136;153
+041204: Celas;190;101;89
+041206: Edral;171;85;86
+041207: Edrosa;139;67;72
+041208: Ervedosa;331;149;182
+041215: Paçó;154;82;72
+041216: Penhas Juntas;259;134;125
+041219: Rebordelo;606;291;315
+041221: Santalha;188;88;100
+041226: Tuizelo;295;144;151
+041236: União das freguesias de Curopos e Vale de Janeiro;245;125;120
+041237: União das freguesias de Moimenta e Montouto;218;116;102
+041238: União das freguesias de Nunes e Ousilhão;198;94;104
+041239: União das freguesias de Quirás e Pinheiro Novo;203;103;100
+041240: União das freguesias de Sobreiro de Baixo e Alvaredos;274;134;140
+041241: União das freguesias de Soeira, Fresulfe e Mofreita;157;81;76
+041242: União das freguesias de Travanca e Santa Cruz;148;74;74
+041243: União das freguesias de Vilar de Lomba e São Jomil;207;106;101
+041227: Vale das Fontes;260;126;134
+041229: Vila Boa de Ousilhão;139;69;70
+041230: Vila Verde;151;76;75
+041232: Vilar de Ossos;223;115;108
+041233: Vilar de Peregrinos;134;73;61
+041234: Vilar Seco de Lomba;186;87;99
+041235: Vinhais;2187;1050;1137
+16: Centro;2227912;1059816;1168096
+16B: Oeste;363596;174826;188770
+1001: Alcobaça;54981;26468;28513
+100102: Alfeizerão;3669;1735;1934
+100120: Aljubarrota;6243;3054;3189
+100104: Bárrio;1407;691;716
+100105: Benedita;8486;4102;4384
+100106: Cela;3076;1505;1571
+100108: Évora de Alcobaça;4139;2021;2118
+100109: Maiorga;1845;883;962
+100112: São Martinho do Porto;3114;1477;1637
+100114: Turquel;4439;2145;2294
+100121: União das freguesias de Alcobaça e Vestiaria;7252;3326;3926
+100122: União das freguesias de Coz, Alpedriz e Montes;2828;1361;1467
+100123: União das freguesias de Pataias e Martingança;6730;3298;3432
+100116: Vimeiro;1753;870;883
+1101: Alenquer;44428;21547;22881
+110106: Carnota;1568;777;791
+110107: Meca;1617;773;844
+110108: Olhalvo;1800;853;947
+110109: Ota;1185;595;590
+110117: União das freguesias de Abrigada e Cabanas de Torres;4158;2004;2154
+110118: União das freguesias de Aldeia Galega da Merceana e Aldeia Gavinha;2908;1387;1521
+110119: União das freguesias de Alenquer (Santo Estêvão e Triana);12027;5823;6204
+110120: União das freguesias de Carregado e Cadafais;14618;7107;7511
+110121: União das freguesias de Ribafria e Pereiro de Palhacana;1496;753;743
+110113: Ventosa;2002;950;1052
+110114: Vila Verde dos Francos;1049;525;524
+1102: Arruda dos Vinhos;13983;6829;7154
+110201: Arranhó;2588;1277;1311
+110202: Arruda dos Vinhos;9283;4539;4744
+110203: Cardosas;823;400;423
+110204: São Tiago dos Velhos;1289;613;676
+1005: Bombarral;12743;6108;6635
+100502: Carvalhal;2396;1154;1242
+100505: Pó;923;455;468
+100503: Roliça;2543;1264;1279
+100506: União das freguesias do Bombarral e Vale Covo;6881;3235;3646
+1104: Cadaval;13382;6417;6965
+110401: Alguber;835;400;435
+110407: Peral;892;460;432
+110412: União das freguesias de Lamas e Cercal;3410;1644;1766
+110413: União das freguesias de Painho e Figueiros;1732;833;899
+110411: União das freguesias do Cadaval e Pêro Moniz;3696;1721;1975
+110409: Vermelha;1250;591;659
+110410: Vilar;1567;768;799
+1006: Caldas da Rainha;50898;23963;26935
+100601: A dos Francos;1632;773;859
+100602: Alvorninha;2647;1288;1359
+100604: Carvalhal Benfeito;1141;569;572
+100606: Foz do Arelho;1394;656;738
+100607: Landal;942;454;488
+100608: Nadadouro;1961;979;982
+100609: Salir de Matos;2579;1256;1323
+100611: Santa Catarina;2692;1317;1375
+100617: União das freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório;18508;8514;9994
+100618: União das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro;11918;5512;6406
+100619: União das freguesias de Tornada e Salir do Porto;4443;2138;2305
+100615: Vidais;1041;507;534
+1108: Lourinhã;26261;12685;13576
+110803: Moita dos Ferreiros;1674;814;860
+110805: Reguengo Grande;1486;719;767
+110810: Ribamar;2162;1076;1086
+110806: Santa Bárbara;2033;976;1057
+110812: União das freguesias de Lourinhã e Atalaia;12352;5883;6469
+110813: União das freguesias de Miragaia e Marteleira;3483;1728;1755
+110814: União das freguesias de São Bartolomeu dos Galegos e Moledo;1509;732;777
+110808: Vimeiro;1562;757;805
+1011: Nazaré;14889;7090;7799
+101101: Famalicão;1667;793;874
+101102: Nazaré;10395;4937;5458
+101103: Valado dos Frades;2827;1360;1467
+1012: Óbidos;11940;5835;6105
+101201: A dos Negros;1457;713;744
+101202: Amoreira;1036;512;524
+101208: Gaeiras;2370;1137;1233
+101203: Olho Marinho;1361;702;659
+101210: Santa Maria, São Pedro e Sobral da Lagoa;3827;1811;2016
+101209: Usseira;955;484;471
+101207: Vau;934;476;458
+1014: Peniche;26419;12660;13759
+101402: Atouguia da Baleia;9114;4419;4695
+101406: Ferrel;2758;1357;1401
+101407: Peniche;13206;6229;6977
+101405: Serra d'El-Rei;1341;655;686
+1112: Sobral de Monte Agraço;10542;5070;5472
+111201: Santo Quintino;3769;1824;1945
+111202: Sapataria;3285;1608;1677
+111203: Sobral de Monte Agraço;3488;1638;1850
+1113: Torres Vedras;83130;40154;42976
+111306: Freiria;2442;1192;1250
+111310: Ponte do Rol;2548;1193;1355
+111311: Ramalhal;3627;1861;1766
+111314: São Pedro da Cadeira;5215;2582;2633
+111316: Silveira;9337;4564;4773
+111317: Turcifal;3597;1770;1827
+111321: União das freguesias de A dos Cunhados e Maceira;11575;5719;5856
+111322: União das freguesias de Campelos e Outeiro da Cabeça;3794;1899;1895
+111323: União das freguesias de Carvoeira e Carmões;2201;1042;1159
+111324: União das freguesias de Dois Portos e Runa;2787;1315;1472
+111325: União das freguesias de Maxial e Monte Redondo;3226;1520;1706
+111326: Santa Maria, São Pedro e Matacães;27814;13021;14793
+111318: Ventosa;4967;2476;2491
+16D: Região de Aveiro;367455;175669;191786
+0101: Águeda;46134;22124;24010
+010103: Aguada de Cima;3894;1855;2039
+010109: Fermentelos;3028;1464;1564
+010112: Macinhata do Vouga;3211;1568;1643
+010121: União das freguesias de Águeda e Borralha;13708;6557;7151
+010122: União das freguesias de Barrô e Aguada de Baixo;3086;1474;1612
+010123: União das freguesias de Belazaima do Chão, Castanheira do Vouga e Agadão;1418;664;754
+010124: União das freguesias de Recardães e Espinhel;5758;2756;3002
+010125: União das freguesias de Travassô e Óis da Ribeira;2206;1055;1151
+010126: União das freguesias de Trofa, Segadães e Lamas do Vouga;4486;2142;2344
+010127: União das freguesias do Préstimo e Macieira de Alcoba;704;322;382
+010119: Valongo do Vouga;4635;2267;2368
+0102: Albergaria-a-Velha;24841;12073;12768
+010209: Albergaria-a-Velha e Valmaior;11058;5343;5715
+010202: Alquerubim;2232;1096;1136
+010203: Angeja;1875;895;980
+010204: Branca;5424;2653;2771
+010206: Ribeira de Fráguas;1498;746;752
+010210: São João de Loure e Frossos;2754;1340;1414
+0103: Anadia;27542;13149;14393
+010304: Avelãs de Caminho;1300;644;656
+010305: Avelãs de Cima;1954;969;985
+010307: Moita;2203;1064;1139
+010309: Sangalhos;3835;1809;2026
+010310: São Lourenço do Bairro;2288;1099;1189
+010316: União das freguesias de Amoreira da Gândara, Paredes do Bairro e Ancas;2429;1167;1262
+010317: União das freguesias de Arcos e Mogofores;6241;2923;3318
+010318: União das freguesias de Tamengos, Aguim e Óis do Bairro;3256;1542;1714
+010312: Vila Nova de Monsarros;1545;739;806
+010313: Vilarinho do Bairro;2491;1193;1298
+0105: Aveiro;80880;38371;42509
+010501: Aradas;10076;4783;5293
+010502: Cacia;6825;3327;3498
+010515: Eixo e Eirol;6193;3017;3176
+010505: Esgueira;13510;6386;7124
+010508: Oliveirinha;4673;2223;2450
+010516: Requeixo, Nossa Senhora de Fátima e Nariz;4386;2128;2258
+010513: Santa Joana;8024;3842;4182
+010510: São Bernardo;5273;2536;2737
+010511: São Jacinto;756;385;371
+010517: União das freguesias de Glória e Vera Cruz;21164;9744;11420
+0108: Estarreja;26229;12695;13534
+010801: Avanca;5733;2780;2953
+010805: Pardilhó;4233;2087;2146
+010806: Salreu;3677;1740;1937
+010808: União das freguesias de Beduído e Veiros;9909;4759;5150
+010809: União das freguesias de Canelas e Fermelã;2677;1329;1348
+0110: Ílhavo;39241;18607;20634
+011005: Gafanha da Encarnação;5313;2550;2763
+011006: Gafanha da Nazaré;15560;7408;8152
+011007: Gafanha do Carmo;1688;818;870
+011008: Ílhavo (São Salvador);16680;7831;8849
+0112: Murtosa;10488;5047;5441
+011201: Bunheiro;2501;1212;1289
+011202: Monte;1567;742;825
+011203: Murtosa;3510;1684;1826
+011204: Torreira;2910;1409;1501
+0114: Oliveira do Bairro;23150;10964;12186
+011403: Oiã;7868;3724;4144
+011404: Oliveira do Bairro;6393;3030;3363
+011405: Palhaça;2666;1267;1399
+011407: União das freguesias de Bustos, Troviscal e Mamarrosa;6223;2943;3280
+0115: Ovar;54976;26312;28664
+011502: Cortegaça;3744;1842;1902
+011503: Esmoriz;11933;5774;6159
+011504: Maceda;3386;1634;1752
+011509: União das freguesias de Ovar, São João, Arada e São Vicente de Pereira Jusã;29442;13951;15491
+011507: Válega;6471;3111;3360
+0117: Sever do Vouga;11069;5339;5730
+011702: Couto de Esteves;712;337;375
+011704: Pessegueiro do Vouga;1716;844;872
+011705: Rocas do Vouga;1507;730;777
+011706: Sever do Vouga;2719;1280;1439
+011708: Talhadas;1125;572;553
+011710: União das freguesias de Cedrim e Paradela;1356;641;715
+011711: União das freguesias de Silva Escura e Dornelas;1934;935;999
+0118: Vagos;22905;10988;11917
+011801: Calvão;2190;1110;1080
+011804: Gafanha da Boa Hora;2850;1372;1478
+011805: Ouca;1750;850;900
+011810: Santo André de Vagos;2051;963;1088
+011807: Sosa;2817;1358;1459
+011812: União das freguesias de Fonte de Angeão e Covão do Lobo;2015;943;1072
+011813: União das freguesias de Ponte de Vagos e Santa Catarina;2883;1388;1495
+011814: União das freguesias de Vagos e Santo António;6349;3004;3345
+16E: Região de Coimbra;436949;205833;231116
+0601: Arganil;11067;5289;5778
+060102: Arganil;3830;1816;2014
+060104: Benfeita;415;193;222
+060105: Celavisa;143;73;70
+060109: Folques;342;166;176
+060111: Piódão;120;62;58
+060112: Pomares;431;226;205
+060113: Pombeiro da Beira;901;435;466
+060114: São Martinho da Cortiça;1188;556;632
+060115: Sarzedo;636;309;327
+060116: Secarias;394;187;207
+060119: União das freguesias de Cepos e Teixeira;198;96;102
+060120: União das freguesias de Cerdeira e Moura da Serra;372;169;203
+060121: União das freguesias de Côja e Barril de Alva;1563;729;834
+060122: União das freguesias de Vila Cova de Alva e Anseriz;534;272;262
+0602: Cantanhede;34218;16127;18091
+060201: Ançã;2452;1177;1275
+060203: Cadima;2646;1284;1362
+060205: Cordinhã;974;466;508
+060207: Febres;3040;1389;1651
+060208: Murtede;1286;622;664
+060209: Ourentã;1126;530;596
+060218: Sanguinheira;1751;817;934
+060215: São Caetano;723;353;370
+060214: Tocha;3710;1767;1943
+060220: União das freguesias de Cantanhede e Pocariça;8828;4147;4681
+060221: União das freguesias de Covões e Camarneira;2758;1264;1494
+060222: União das freguesias de Portunhos e Outil;1849;859;990
+060223: União das freguesias de Sepins e Bolho;1712;826;886
+060224: União das freguesias de Vilamar e Corticeiro de Cima;1363;626;737
+0603: Coimbra;140796;65435;75361
+060301: Almalaguês;2855;1324;1531
+060309: Brasfemes;1935;927;1008
+060311: Ceira;3243;1537;1706
+060312: Cernache;3957;1839;2118
+060318: Santo António dos Olivais;41107;18630;22477
+060320: São João do Campo;1822;863;959
+060324: São Silvestre;2792;1359;1433
+060329: Torres do Mondego;2039;945;1094
+060332: União das freguesias de Antuzede e Vil de Matos;2841;1391;1450
+060333: União das freguesias de Assafarge e Antanhol;5000;2452;2548
+060334: União das freguesias de Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu);13867;6475;7392
+060335: União das freguesias de Eiras e São Paulo de Frades;17582;8141;9441
+060336: União das freguesias de Santa Clara e Castelo Viegas;11861;5527;6334
+060337: União das freguesias de São Martinho de Árvore e Lamarosa;2723;1276;1447
+060338: União das freguesias de São Martinho do Bispo e Ribeira de Frades;15322;7076;8246
+060339: União das freguesias de Souselas e Botão;4188;1988;2200
+060340: União das freguesias de Taveiro, Ameal e Arzila;3997;1901;2096
+060341: União das freguesias de Trouxemil e Torre de Vilela;3665;1784;1881
+0604: Condeixa-a-Nova;16733;7803;8930
+060401: Anobra;1249;601;648
+060406: Ega;2581;1227;1354
+060407: Furadouro;183;85;98
+060411: União das freguesias de Condeixa-a-Velha e Condeixa-a-Nova;8738;3959;4779
+060412: União das freguesias de Sebal e Belide;2739;1337;1402
+060413: União das freguesias de Vila Seca e Bem da Fé;895;425;470
+060410: Zambujal;348;169;179
+0605: Figueira da Foz;58982;27884;31098
+060519: Alhadas;4115;1958;2157
+060502: Alqueidão;1485;726;759
+060515: Bom Sucesso;1838;867;971
+060520: Buarcos e São Julião;18407;8399;10008
+060521: Ferreira-a-Nova;2119;1013;1106
+060522: Lavos;3591;1718;1873
+060507: Maiorca;2302;1137;1165
+060508: Marinha das Ondas;3184;1627;1557
+060518: Moinhos da Gândara;1097;512;585
+060523: Paião;2768;1295;1473
+060524: Quiaios;2778;1329;1449
+060514: São Pedro;2585;1196;1389
+060512: Tavarede;10047;4816;5231
+060513: Vila Verde;2666;1291;1375
+0606: Góis;3806;1754;2052
+060601: Alvares;683;299;384
+060604: Góis;1873;877;996
+060606: União das freguesias de Cadafaz e Colmeal;320;139;181
+060605: Vila Nova do Ceira;930;439;491
+0607: Lousã;17012;8187;8825
+060706: Gândaras;1111;555;556
+060704: Serpins;1714;834;880
+060707: União das freguesias de Foz de Arouce e Casal de Ermio;1264;611;653
+060708: União das freguesias de Lousã e Vilarinho;12923;6187;6736
+0111: Mealhada;19358;9244;10114
+011102: Barcouço;2087;997;1090
+011103: Casal Comba;3074;1467;1607
+011104: Luso;2284;1104;1180
+011106: Pampilhosa;3857;1855;2002
+011109: União das freguesias da Mealhada, Ventosa do Bairro e Antes;6380;3001;3379
+011107: Vacariça;1676;820;856
+0608: Mira;12126;5753;6373
+060803: Carapelhos;655;324;331
+060801: Mira;6963;3273;3690
+060804: Praia de Mira;3252;1572;1680
+060802: Seixo;1256;584;672
+0609: Miranda do Corvo;12014;5756;6258
+060901: Lamas;771;361;410
+060902: Miranda do Corvo;7114;3396;3718
+060906: União das freguesias de Semide e Rio Vide;3336;1601;1735
+060905: Vila Nova;793;398;395
+0610: Montemor-o-Velho;24587;11788;12799
+061002: Arazede;4981;2419;2562
+061003: Carapinheira;2616;1223;1393
+061014: Ereira;578;289;289
+061005: Liceia;1053;502;551
+061006: Meãs do Campo;1704;818;886
+061008: Pereira;3499;1677;1822
+061009: Santo Varão;1917;928;989
+061010: Seixo de Gatões;1345;640;705
+061011: Tentúgal;2044;1018;1026
+061015: União das freguesias de Abrunheira, Verride e Vila Nova da Barca;1345;609;736
+061016: União das freguesias de Montemor-o-Velho e Gatões;3505;1665;1840
+1808: Mortágua;8960;4249;4711
+180802: Cercosa;284;136;148
+180804: Espinho;984;470;514
+180805: Marmeleira;489;216;273
+180807: Pala;863;420;443
+180808: Sobral;2189;1048;1141
+180809: Trezói;343;162;181
+180811: União das freguesias de Mortágua, Vale de Remígio, Cortegaça e Almaça;3808;1797;2011
+0611: Oliveira do Hospital;19421;9278;10143
+061101: Aldeia das Dez;474;203;271
+061102: Alvoco das Várzeas;315;139;176
+061103: Avô;471;225;246
+061104: Bobadela;706;340;366
+061106: Lagares;1383;662;721
+061109: Lourosa;560;289;271
+061110: Meruge;492;230;262
+061111: Nogueira do Cravo;2171;1041;1130
+061115: São Gião;342;160;182
+061118: Seixo da Beira;1370;655;715
+061119: Travanca de Lagos;1119;558;561
+061122: União das freguesias de Ervedal e Vila Franca da Beira;1281;606;675
+061123: União das freguesias de Lagos da Beira e Lajeosa;1129;543;586
+061124: União das freguesias de Oliveira do Hospital e São Paio de Gramaços;5837;2791;3046
+061125: União das freguesias de Penalva de Alva e São Sebastião da Feira;926;435;491
+061126: União das freguesias de Santa Ovaia e Vila Pouca da Beira;845;401;444
+0612: Pampilhosa da Serra;4067;1880;2187
+061201: Cabril;244;116;128
+061202: Dornelas do Zêzere;668;296;372
+061211: Fajão-Vidual;275;131;144
+061204: Janeiro de Baixo;535;253;282
+061206: Pampilhosa da Serra;1299;588;711
+061207: Pessegueiro;183;88;95
+061212: Portela do Fojo-Machio;442;213;229
+061209: Unhais-o-Velho;421;195;226
+0613: Penacova;13119;6168;6951
+061301: Carvalho;675;313;362
+061302: Figueira de Lorvão;2371;1134;1237
+061304: Lorvão;3145;1488;1657
+061307: Penacova;2827;1323;1504
+061310: Sazes do Lorvão;712;333;379
+061312: União das freguesias de Friúmes e Paradela;813;377;436
+061313: União das freguesias de Oliveira do Mondego e Travanca do Mondego;956;458;498
+061314: União das freguesias de São Pedro de Alva e São Paio de Mondego;1620;742;878
+0614: Penela;5443;2595;2848
+061401: Cumeeira;857;405;452
+061402: Espinhal;733;337;396
+061403: Podentes;473;227;246
+061407: União das freguesias de São Miguel, Santa Eufémia e Rabaçal;3380;1626;1754
+0615: Soure;17264;8155;9109
+061501: Alfarelos;1271;608;663
+061504: Figueiró do Campo;1289;609;680
+061506: Granja do Ulmeiro;1703;776;927
+061508: Samuel;1068;499;569
+061509: Soure;7461;3561;3900
+061510: Tapéus;325;149;176
+061513: União das freguesias de Degracias e Pombalinho;1049;503;546
+061514: União das freguesias de Gesteira e Brunhós;955;456;499
+061511: Vila Nova de Anços;928;431;497
+061512: Vinha da Rainha;1215;563;652
+0616: Tábua;11163;5283;5880
+061602: Candosa;531;251;280
+061603: Carapinha;366;177;189
+061608: Midões;1578;737;841
+061609: Mouronho;756;381;375
+061611: Póvoa de Midões;501;236;265
+061612: São João da Boa Vista;393;197;196
+061614: Tábua;3678;1679;1999
+061616: União das freguesias de Ázere e Covelo;827;401;426
+061617: União das freguesias de Covas e Vila Nova de Oliveirinha;1232;592;640
+061618: União das freguesias de Espariz e Sinde;858;422;436
+061619: União das freguesias de Pinheiro de Coja e Meda de Mouros;443;210;233
+0617: Vila Nova de Poiares;6813;3205;3608
+061701: Arrifana;1218;586;632
+061702: Lavegadas;174;81;93
+061703: Poiares (Santo André);4119;1926;2193
+061704: São Miguel de Poiares;1302;612;690
+16F: Região de Leiria;286809;137515;149294
+1002: Alvaiázere;6227;2896;3331
+100201: Almoster;597;267;330
+100208: Alvaiázere;1802;829;973
+100204: Maçãs de Dona Maria;1494;693;801
+100205: Pelmá;635;304;331
+100209: Pussos São Pedro;1699;803;896
+1003: Ansião;11632;5506;6126
+100301: Alvorge;1050;492;558
+100309: Ansião;3526;1675;1851
+100303: Avelar;1927;902;1025
+100304: Chão de Couce;1684;790;894
+100306: Pousaflores;800;370;430
+100307: Santiago da Guarda;2645;1277;1368
+1004: Batalha;15553;7527;8026
+100401: Batalha;8819;4322;4497
+100404: Golpilheira;1447;702;745
+100402: Reguengo do Fetal;1910;885;1025
+100403: São Mamede;3377;1618;1759
+1007: Castanheira de Pêra;2647;1247;1400
+100703: União das freguesias de Castanheira de Pêra e Coentral;2647;1247;1400
+1008: Figueiró dos Vinhos;5296;2502;2794
+100801: Aguda;911;439;472
+100802: Arega;723;344;379
+100803: Campelo;190;95;95
+100806: União das freguesias de Figueiró dos Vinhos e Bairradas;3472;1624;1848
+1009: Leiria;128640;61793;66847
+100901: Amor;4579;2244;2335
+100902: Arrabal;2611;1264;1347
+100925: Bajouca;1893;964;929
+100926: Bidoeira de Cima;2234;1101;1133
+100907: Caranguejeira;4336;2122;2214
+100909: Coimbrão;1724;844;880
+100913: Maceira;9154;4502;4652
+100915: Milagres;2826;1389;1437
+100921: Regueira de Pontes;2175;1059;1116
+100932: União das freguesias de Colmeias e Memória;3746;1774;1972
+100933: União das freguesias de Leiria, Pousos, Barreira e Cortes;34648;16387;18261
+100934: União das freguesias de Marrazes e Barosa;26242;12331;13911
+100935: União das freguesias de Monte Real e Carvide;5543;2666;2877
+100936: União das freguesias de Monte Redondo e Carreira;5176;2516;2660
+100937: União das freguesias de Parceiros e Azoia;7537;3713;3824
+100938: União das freguesias de Santa Catarina da Serra e Chainça;4568;2253;2315
+100939: União das freguesias de Santa Eufémia e Boa Vista;4065;1970;2095
+100940: União das freguesias de Souto da Carpalhosa e Ortigosa;5583;2694;2889
+1010: Marinha Grande;39033;18833;20200
+101001: Marinha Grande;32326;15595;16731
+101003: Moita;1297;631;666
+101002: Vieira de Leiria;5410;2607;2803
+1013: Pedrógão Grande;3392;1611;1781
+101301: Graça;599;287;312
+101302: Pedrógão Grande;2256;1056;1200
+101303: Vila Facaia;537;268;269
+1015: Pombal;51178;24334;26844
+101501: Abiul;2235;977;1258
+101503: Almagreira;2774;1303;1471
+101504: Carnide;1621;789;832
+101505: Carriço;3329;1620;1709
+101506: Louriçal;4207;1997;2210
+101515: Meirinhas;1649;797;852
+101508: Pelariga;2012;946;1066
+101509: Pombal;16890;8025;8865
+101510: Redinha;1866;878;988
+101518: União das freguesias de Guia, Ilha e Mata Mourisca;6045;2965;3080
+101519: União das freguesias de Santiago e São Simão de Litém e Albergaria dos Doze;4713;2223;2490
+101513: Vermoil;2436;1176;1260
+101514: Vila Cã;1401;638;763
+1016: Porto de Mós;23211;11266;11945
+101602: Alqueidão da Serra;1549;769;780
+101605: Calvaria de Cima;2480;1212;1268
+101606: Juncal;3198;1530;1668
+101608: Mira de Aire;3481;1660;1821
+101609: Pedreiras;2547;1232;1315
+101614: Porto de Mós - São João Baptista e São Pedro;6005;2941;3064
+101610: São Bento;750;352;398
+101613: Serro Ventoso;894;449;445
+101615: União das freguesias de Alvados e Alcaria;732;332;400
+101616: União das freguesias de Arrimal e Mendiga;1575;789;786
+16G: Viseu Dão Lafões;252984;119373;133611
+0901: Aguiar da Beira;5228;2456;2772
+090102: Carapito;423;211;212
+090103: Cortiçada;313;154;159
+090105: Dornelas;667;313;354
+090106: Eirado;181;79;102
+090107: Forninhos;208;100;108
+090109: Pena Verde;715;321;394
+090110: Pinheiro;230;108;122
+090114: União das freguesias de Aguiar da Beira e Coruche;1784;835;949
+090115: União das freguesias de Sequeiros e Gradiz;345;162;183
+090116: União das freguesias de Souto de Aguiar da Beira e Valverde;362;173;189
+1802: Carregal do Sal;9048;4234;4814
+180201: Beijós;816;403;413
+180202: Cabanas de Viriato;1459;647;812
+180204: Oliveira do Conde;2802;1309;1493
+180206: Parada;741;342;399
+180208: Carregal do Sal;3230;1533;1697
+1803: Castro Daire;13753;6542;7211
+180301: Almofala;222;107;115
+180303: Cabril;336;156;180
+180304: Castro Daire;4564;2156;2408
+180305: Cujó;245;115;130
+180309: Gosende;369;170;199
+180312: Mões;1692;811;881
+180313: Moledo;1049;491;558
+180314: Monteiras;404;197;207
+180317: Pepim;245;119;126
+180319: Pinheiro;669;323;346
+180322: São Joaninho;348;165;183
+180323: União das freguesias de Mamouros, Alva e Ribolhos;1191;561;630
+180324: União das freguesias de Mezio e Moura Morta;533;264;269
+180325: União das freguesias de Parada de Ester e Ester;745;365;380
+180326: União das freguesias de Picão e Ermida;416;194;222
+180327: União das freguesias de Reriz e Gafanhão;725;348;377
+1806: Mangualde;18294;8722;9572
+180601: Abrunhosa-a-Velha;440;208;232
+180602: Alcafache;811;381;430
+180605: Cunha Baixa;801;378;423
+180606: Espinho;951;476;475
+180607: Fornos de Maceira Dão;1306;626;680
+180608: Freixiosa;231;103;128
+180614: Quintela de Azurara;506;236;270
+180616: São João da Fresta;170;72;98
+180619: União das freguesias de Mangualde, Mesquitela e Cunha Alta;9852;4704;5148
+180620: União das freguesias de Moimenta de Maceira Dão e Lobelhe do Mato;728;350;378
+180621: União das freguesias de Santiago de Cassurrães e Póvoa de Cervães;1220;577;643
+180622: União das freguesias de Tavares (Chãs, Várzea e Travanca);1278;611;667
+1809: Nelas;13124;6188;6936
+180901: Canas de Senhorim;3334;1580;1754
+180908: Lapa do Lobo;681;298;383
+180903: Nelas;4638;2224;2414
+180905: Senhorim;1018;454;564
+180910: União das freguesias de Carvalhal Redondo e Aguieira;1373;649;724
+180911: União das freguesias de Santar e Moreira;1410;661;749
+180906: Vilar Seco;670;322;348
+1810: Oliveira de Frades;9510;4554;4956
+181002: Arcozelo das Maias;1221;570;651
+181005: Pinheiro;1115;545;570
+181007: Ribeiradio;859;402;457
+181008: São João da Serra;409;190;219
+181009: São Vicente de Lafões;749;353;396
+181013: União das freguesias de Arca e Varzielas;559;285;274
+181014: União das freguesias de Destriz e Reigoso;588;267;321
+181015: União das freguesias de Oliveira de Frades, Souto de Lafões e Sejães;4010;1942;2068
+1811: Penalva do Castelo;7340;3512;3828
+181102: Castelo de Penalva;815;386;429
+181103: Esmolfe;381;183;198
+181104: Germil;435;213;222
+181105: Ínsua;2049;970;1079
+181106: Lusinde;190;97;93
+181109: Pindo;1719;838;881
+181110: Real;244;116;128
+181111: Sezures;606;297;309
+181112: Trancozelos;247;107;140
+181114: União das freguesias de Antas e Matela;403;185;218
+181115: União das freguesias de Vila Cova do Covelo/Mareco;251;120;131
+1814: Santa Comba Dão;10642;5016;5626
+181403: Pinheiro de Ázere;830;386;444
+181405: São Joaninho;1013;467;546
+181406: São João de Areias;1721;827;894
+181410: União das freguesias de Ovoa e Vimieiro;1479;705;774
+181411: União das freguesias de Santa Comba Dão e Couto do Mosteiro;4407;2064;2343
+181412: União das freguesias de Treixedo e Nagozela;1192;567;625
+1816: São Pedro do Sul;15139;7149;7990
+181602: Bordonhos;509;260;249
+181606: Figueiredo de Alva;721;351;370
+181607: Manhouce;466;207;259
+181608: Pindelo dos Milagres;571;259;312
+181609: Pinho;654;306;348
+181612: São Félix;364;177;187
+181615: Serrazes;889;413;476
+181616: Sul;877;414;463
+181620: União das freguesias de Carvalhais e Candal;1413;695;718
+181621: União das freguesias de Santa Cruz da Trapa e São Cristóvão de Lafões;1385;659;726
+181622: União das freguesias de São Martinho das Moitas e Covas do Rio;258;116;142
+181623: União das freguesias de São Pedro do Sul, Várzea e Baiões;5498;2576;2922
+181617: Valadares;661;299;362
+181619: Vila Maior;873;417;456
+1817: Sátão;11026;5205;5821
+181702: Avelal;490;213;277
+181704: Ferreira de Aves;1825;873;952
+181706: Mioma;1167;569;598
+181707: Rio de Moinhos;788;361;427
+181709: São Miguel de Vila Boa;1220;598;622
+181710: Sátão;3821;1761;2060
+181711: Silvã de Cima;425;224;201
+181713: União das freguesias de Águas Boas e Forles;227;107;120
+181714: União das freguesias de Romãs, Decermilo e Vila Longa;1063;499;564
+1821: Tondela;25939;12246;13693
+182102: Campo de Besteiros;1319;621;698
+182103: Canas de Santa Maria;1606;775;831
+182105: Castelões;1414;656;758
+182106: Dardavaz;706;346;360
+182107: Ferreirós do Dão;356;169;187
+182108: Guardão;1227;560;667
+182109: Lajeosa do Dão;1540;737;803
+182110: Lobão da Beira;1003;476;527
+182111: Molelos;2230;1051;1179
+182116: Parada de Gonta;619;287;332
+182118: Santiago de Besteiros;1147;539;608
+182122: Tonda;896;422;474
+182127: União das freguesias de Barreiro de Besteiros e Tourigo;1200;572;628
+182128: União das freguesias de Caparrosa e Silvares;821;388;433
+182129: União das freguesias de Mouraz e Vila Nova da Rainha;1295;609;686
+182130: União das freguesias de São João do Monte e Mosteirinho;779;384;395
+182131: União das freguesias de São Miguel do Outeiro e Sabugosa;1214;577;637
+182132: União das freguesias de Tondela e Nandufe;5222;2449;2773
+182133: União das freguesias de Vilar de Besteiros e Mosteiro de Fráguas;1345;628;717
+1822: Vila Nova de Paiva;4660;2232;2428
+182203: Pendilhe;494;238;256
+182204: Queiriga;522;244;278
+182205: Touro;819;390;429
+182208: União das freguesias de Vila Nova de Paiva, Alhais e Fráguas;1884;909;975
+182206: Vila Cova à Coelheira;941;451;490
+1823: Viseu;99693;46803;52890
+182301: Abraveses;8356;3964;4392
+182304: Bodiosa;2840;1366;1474
+182305: Calde;1271;600;671
+182306: Campo;4806;2320;2486
+182307: Cavernães;1337;627;710
+182310: Cota;796;363;433
+182315: Fragosela;2533;1209;1324
+182316: Lordosa;1644;730;914
+182318: Mundão;2412;1189;1223
+182319: Orgens;3668;1777;1891
+182320: Povolide;1582;745;837
+182321: Ranhados;5885;2751;3134
+182322: Ribafeita;1084;502;582
+182323: Rio de Loba;9018;4389;4629
+182325: Santos Evos;1477;680;797
+182327: São João de Lourosa;4696;2262;2434
+182329: São Pedro de France;1219;579;640
+182317: Silgueiros;2957;1370;1587
+182335: União das freguesias de Barreiros e Cepões;1395;661;734
+182336: União das freguesias de Boa Aldeia, Farminhão e Torredeita;2361;1093;1268
+182337: Coutos de Viseu;1500;710;790
+182338: Fail e Vila Chã de Sá;2514;1228;1286
+182339: Repeses e São Salvador;6766;3203;3563
+182340: São Cipriano e Vil de Souto;1700;800;900
+182341: Viseu;25876;11685;14191
+1824: Vouzela;9588;4514;5074
+182401: Alcofra;910;433;477
+182403: Campia;1437;678;759
+182407: Fornelo do Monte;255;121;134
+182409: Queirã;1228;578;650
+182410: São Miguel do Mato;808;378;430
+182413: União das freguesias de Cambra e Carvalhal de Vermilhas;1363;662;701
+182414: União das freguesias de Fataunços e Figueiredo das Donas;989;469;520
+182415: União das freguesias de Vouzela e Paços de Vilharigues;1920;887;1033
+182411: Ventosa;678;308;370
+16H: Beira Baixa;80710;38349;42361
+0502: Castelo Branco;52272;24670;27602
+050201: Alcains;4611;2218;2393
+050202: Almaceda;511;239;272
+050203: Benquerenças;638;304;334
+050205: Castelo Branco;34456;16215;18241
+050211: Lardosa;887;409;478
+050212: Louriçal do Campo;556;272;284
+050214: Malpica do Tejo;382;194;188
+050216: Monforte da Beira;319;159;160
+050220: Salgueiro do Campo;777;343;434
+050221: Santo André das Tojeiras;588;283;305
+050222: São Vicente da Beira;958;470;488
+050223: Sarzedas;1017;475;542
+050225: Tinalhas;516;248;268
+050226: União das freguesias de Cebolais de Cima e Retaxo;1609;740;869
+050227: União das freguesias de Escalos de Baixo e Mata;1038;492;546
+050228: União das freguesias de Escalos de Cima e Lousa;1259;599;660
+050229: União das freguesias de Freixial e Juncal do Campo;668;310;358
+050230: União das freguesias de Ninho do Açor e Sobral do Campo;621;295;326
+050231: União das freguesias de Póvoa de Rio de Moinhos e Cafede;861;405;456
+0505: Idanha-a-Nova;8340;3990;4350
+050502: Aldeia de Santa Margarida;201;105;96
+050505: Ladoeiro;1052;501;551
+050506: Medelim;227;107;120
+050509: Oledo;284;139;145
+050510: Penha Garcia;547;267;280
+050511: Proença-a-Velha;187;89;98
+050512: Rosmaninhal;436;219;217
+050514: São Miguel de Acha;514;251;263
+050516: Toulões;226;105;121
+050518: União das freguesias de Idanha-a-Nova e Alcafozes;2386;1132;1254
+050519: União das freguesias de Monfortinho e Salvaterra do Extremo;507;233;274
+050520: União das freguesias de Monsanto e Idanha-a-Velha;766;358;408
+050521: União das freguesias de Zebreira e Segura;1007;484;523
+0506: Oleiros;4900;2325;2575
+050601: Álvaro;225;102;123
+050603: Cambas;251;123;128
+050613: Estreito-Vilar Barroco;833;398;435
+050605: Isna;151;74;77
+050606: Madeirã;154;74;80
+050607: Mosteiro;261;121;140
+050614: Oleiros-Amieira;2081;994;1087
+050609: Orvalho;640;287;353
+050610: Sarnadas de São Simão;167;79;88
+050611: Sobral;137;73;64
+0507: Penamacor;4764;2336;2428
+050704: Aranhas;319;165;154
+050706: Benquerença;463;229;234
+050707: Meimão;238;122;116
+050708: Meimoa;307;144;163
+050710: Penamacor;1445;700;745
+050711: Salvador;320;163;157
+050713: União das freguesias de Aldeia do Bispo, Águas e Aldeia de João Pires;876;429;447
+050714: União das freguesias de Pedrógão de São Pedro e Bemposta;572;290;282
+050712: Vale da Senhora da Póvoa;224;94;130
+0508: Proença-a-Nova;7147;3465;3682
+050802: Montes da Senhora;622;289;333
+050805: São Pedro do Esteval;407;205;202
+050807: União das freguesias de Proença-a-Nova e Peral;4486;2174;2312
+050808: União das freguesias de Sobreira Formosa e Alvito da Beira;1632;797;835
+0511: Vila Velha de Ródão;3287;1563;1724
+051101: Fratel;499;230;269
+051102: Perais;440;223;217
+051103: Sarnadas de Ródão;592;285;307
+051104: Vila Velha de Ródão;1756;825;931
+16I: Médio Tejo;228744;108315;120429
+1401: Abrantes;34351;16396;17955
+140104: Bemposta;1458;703;755
+140119: Carvalhal;530;261;269
+140118: Fontes;469;218;251
+140105: Martinchel;491;248;243
+140106: Mouriscas;1478;703;775
+140107: Pego;2171;1038;1133
+140108: Rio de Moinhos;951;457;494
+140115: Tramagal;2842;1320;1522
+140120: União das freguesias de Abrantes (São Vicente e São João) e Alferrarede;16138;7659;8479
+140121: União das freguesias de Aldeia do Mato e Souto;674;329;345
+140122: União das freguesias de Alvega e Concavada;1772;865;907
+140123: União das freguesias de São Facundo e Vale das Mós;1266;641;625
+140124: União das freguesias de São Miguel do Rio Torto e Rossio ao Sul do Tejo;4111;1954;2157
+1402: Alcanena;12478;5998;6480
+140202: Bugalhos;961;479;482
+140206: Minde;2907;1354;1553
+140207: Moitas Venda;781;371;410
+140208: Monsanto;702;352;350
+140209: Serra de Santo António;634;310;324
+140211: União das freguesias de Alcanena e Vila Moreira;4857;2326;2531
+140212: União das freguesias de Malhou, Louriceira e Espinheiro;1636;806;830
+1408: Constância;3801;1820;1981
+140801: Constância;958;449;509
+140802: Montalvo;1242;602;640
+140803: Santa Margarida da Coutada;1601;769;832
+1410: Entroncamento;20140;9494;10646
+141002: Nossa Senhora de Fátima;12851;6154;6697
+141001: São João Baptista;7289;3340;3949
+1411: Ferreira do Zêzere;7803;3690;4113
+141101: Águas Belas;1138;566;572
+141103: Beco;755;347;408
+141104: Chãos;465;216;249
+141106: Ferreira do Zêzere;2314;1080;1234
+141107: Igreja Nova do Sobral;584;287;297
+141110: Nossa Senhora do Pranto;995;479;516
+141111: União das freguesias de Areias e Pias;1552;715;837
+1413: Mação;6417;3066;3351
+141302: Amêndoa;391;196;195
+141303: Cardigos;967;460;507
+141304: Carvoeiro;518;262;256
+141305: Envendos;809;379;430
+141307: Ortiga;534;260;274
+141309: União das freguesias de Mação, Penhascoso e Aboboreira;3198;1509;1689
+1421: Ourém;44576;20894;23682
+142101: Alburitel;1064;506;558
+142102: Atouguia;2091;1007;1084
+142104: Caxarias;2135;1063;1072
+142105: Espite;985;450;535
+142106: Fátima;13224;5932;7292
+142115: Nossa Senhora da Piedade;7258;3428;3830
+142111: Nossa Senhora das Misericórdias;4651;2269;2382
+142113: Seiça;1883;891;992
+142119: União das freguesias de Freixianda, Ribeira do Fárrio e Formigais;3233;1520;1713
+142120: União das freguesias de Gondemaria e Olival;2737;1312;1425
+142121: União das freguesias de Matas e Cercal;1618;782;836
+142122: União das freguesias de Rio de Couros e Casal dos Bernardos;2294;1064;1230
+142114: Urqueira;1403;670;733
+1417: Sardoal;3526;1699;1827
+141701: Alcaravela;781;374;407
+141702: Santiago de Montalegre;208;93;115
+141703: Sardoal;2160;1060;1100
+141704: Valhascos;377;172;205
+0509: Sertã;14748;7084;7664
+050901: Cabeçudo;906;462;444
+050902: Carvalhal;493;228;265
+050903: Castelo;946;457;489
+050911: Pedrógão Pequeno;704;335;369
+050912: Sertã;6019;2873;3146
+050913: Troviscal;692;341;351
+050915: União das freguesias de Cernache do Bonjardim, Nesperal e Palhais;3365;1623;1742
+050916: União das freguesias de Cumeada e Marmeleiro;659;304;355
+050917: União das freguesias de Ermida e Figueiredo;337;157;180
+050914: Várzea dos Cavaleiros;627;304;323
+1418: Tomar;36444;17077;19367
+141802: Asseiceira;2441;1148;1293
+141804: Carregueiros;1067;515;552
+141808: Olalhas;1219;595;624
+141809: Paialvo;2236;1041;1195
+141814: Sabacheira;844;385;459
+141813: São Pedro de Tomar;2681;1325;1356
+141817: União das freguesias de Além da Ribeira e Pedreira;1081;501;580
+141818: União das freguesias de Casais e Alviobeira;2530;1194;1336
+141819: União das freguesias de Madalena e Beselga;3426;1684;1742
+141820: União das freguesias de Serra e Junceira;1972;938;1034
+141821: União das freguesias de Tomar (São João Baptista) e Santa Maria dos Olivais;16947;7751;9196
+1419: Torres Novas;34149;16254;17895
+141902: Assentiz;2603;1263;1340
+141904: Chancelaria;1429;685;744
+141917: Meia Via;1672;815;857
+141909: Pedrógão;1757;822;935
+141910: Riachos;4992;2368;2624
+141918: União das freguesias de Brogueira, Parceiros de Igreja e Alcorochel;2601;1260;1341
+141919: União das freguesias de Olaia e Paço;2022;1005;1017
+141920: União das freguesias de Torres Novas (Santa Maria, Salvador e Santiago);8087;3822;4265
+141921: União das freguesias de Torres Novas (São Pedro), Lapas e Ribeira Branca;8044;3764;4280
+141916: Zibreira;942;450;492
+0510: Vila de Rei;3276;1531;1745
+051001: Fundada;551;262;289
+051002: São João do Peso;132;51;81
+051003: Vila de Rei;2593;1218;1375
+1420: Vila Nova da Barquinha;7035;3312;3723
+142001: Atalaia;1738;814;924
+142002: Praia do Ribatejo;1453;671;782
+142003: Tancos;191;106;85
+142006: Vila Nova da Barquinha;3653;1721;1932
+16J: Beiras e Serra da Estrela;210665;99936;110729
+0902: Almeida;5882;2751;3131
+090203: Almeida;1146;537;609
+090207: Castelo Bom;172;72;100
+090209: Freineda;188;88;100
+090210: Freixo;168;77;91
+090213: Malhada Sorda;255;105;150
+090219: Nave de Haver;296;132;164
+090224: São Pedro de Rio Seco;154;74;80
+090230: União das freguesias de Amoreira, Parada e Cabreira;307;151;156
+090231: União das freguesias de Azinhal, Peva e Valverde;261;117;144
+090232: União das freguesias de Castelo Mendo, Ade, Monteperobolso e Mesquitela;205;88;117
+090233: União das freguesias de Junça e Naves;172;87;85
+090234: União das freguesias de Leomil, Mido, Senouras e Aldeia Nova;153;67;86
+090235: União das freguesias de Malpartida e Vale de Coelha;181;87;94
+090236: União das freguesias de Miuzela e Porto de Ovelha;279;144;135
+090227: Vale da Mula;159;76;83
+090229: Vilar Formoso;1786;849;937
+0501: Belmonte;6204;2960;3244
+050102: Caria;1747;848;899
+050104: Inguias;606;306;300
+050105: Maçainhas;312;149;163
+050106: União das freguesias de Belmonte e Colmeal da Torre;3539;1657;1882
+0903: Celorico da Beira;6582;3102;3480
+090302: Baraçal;194;92;102
+090304: Carrapichana;180;82;98
+090322: Casas do Soeiro;469;231;238
+090306: Forno Telheiro;598;286;312
+090307: Lajeosa do Mondego;628;302;326
+090308: Linhares;212;99;113
+090309: Maçal do Chão;143;75;68
+090310: Mesquitela;202;96;106
+090311: Minhocal;141;69;72
+090312: Prados;146;66;80
+090314: Ratoeira;245;107;138
+090323: União das freguesias de Açores e Velosa;427;200;227
+090324: União das freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego;2065;965;1100
+090325: União das freguesias de Cortiçô da Serra, Vide entre Vinhas e Salgueirais;362;169;193
+090326: União das freguesias de Rapa e Cadafaz;242;115;127
+090318: Vale de Azares;328;148;180
+0503: Covilhã;46453;22057;24396
+050302: Aldeia de São Francisco de Assis;490;228;262
+050305: Boidobra;3173;1560;1613
+050308: Cortes do Meio;748;355;393
+050309: Dominguizo;1018;506;512
+050310: Erada;574;292;282
+050311: Ferro;1552;756;796
+050312: Orjais;663;323;340
+050314: Paul;1365;647;718
+050315: Peraboa;817;362;455
+050318: São Jorge da Beira;501;238;263
+050322: Sobral de São Miguel;294;135;159
+050324: Tortosendo;5219;2520;2699
+050325: Unhais da Serra;1050;490;560
+050332: União das freguesias de Barco e Coutada;724;329;395
+050333: União das freguesias de Cantar-Galo e Vila do Carvalho;3211;1548;1663
+050334: União das freguesias de Casegas e Ourondo;598;262;336
+050335: União das freguesias de Covilhã e Canhoso;18208;8515;9693
+050336: União das freguesias de Peso e Vales do Rio;1255;597;658
+050337: União das freguesias de Teixoso e Sarzedo;3877;1851;2026
+050338: União das freguesias de Vale Formoso e Aldeia do Souto;616;284;332
+050327: Verdelhos;500;259;241
+0904: Figueira de Castelo Rodrigo;5150;2455;2695
+090403: Castelo Rodrigo;467;230;237
+090406: Escalhão;568;268;300
+090408: Figueira de Castelo Rodrigo;1955;935;1020
+090410: Mata de Lobos;287;134;153
+090418: União das freguesias de Algodres, Vale de Afonsinho e Vilar de Amargo;431;200;231
+090419: União das freguesias de Almofala e Escarigo;180;74;106
+090420: União das freguesias de Cinco Vilas e Reigada;320;155;165
+090421: União das freguesias de Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia;387;190;197
+090422: União das freguesias do Colmeal e Vilar Torpim;195;100;95
+090415: Vermiosa;360;169;191
+0905: Fornos de Algodres;4398;2031;2367
+090501: Algodres;290;133;157
+090502: Casal Vasco;218;91;127
+090504: Figueiró da Granja;343;168;175
+090505: Fornos de Algodres;1430;644;786
+090507: Infias;261;127;134
+090509: Maceira;245;119;126
+090510: Matança;214;91;123
+090511: Muxagata;223;112;111
+090512: Queiriz;227;105;122
+090517: União das freguesias de Cortiçô e Vila Chã;166;74;92
+090518: União das freguesias de Juncais, Vila Ruiva e Vila Soeiro do Chão;554;253;301
+090519: União das freguesias de Sobral Pichorro e Fuinhas;227;114;113
+0504: Fundão;26521;12728;13793
+050401: Alcaide;583;287;296
+050402: Alcaria;1102;538;564
+050403: Alcongosta;416;198;218
+050406: Alpedrinha;932;450;482
+050408: Barroca;376;180;196
+050410: Bogas de Cima;328;147;181
+050411: Capinha;411;191;220
+050412: Castelejo;560;265;295
+050413: Castelo Novo;351;170;181
+050431: Enxames;435;215;220
+050416: Fatela;457;210;247
+050419: Lavacolhos;180;93;87
+050420: Orca;539;263;276
+050421: Pêro Viseu;645;307;338
+050424: Silvares;971;480;491
+050425: Soalheira;856;409;447
+050426: Souto da Casa;744;335;409
+050427: Telhado;578;282;296
+050432: Três Povos;739;344;395
+050434: União das freguesias de Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo;12653;6110;6543
+050433: União das freguesias de Janeiro de Cima e Bogas de Baixo;425;199;226
+050435: União das freguesias de Póvoa de Atalaia e Atalaia do Campo;1039;491;548
+050436: União das freguesias de Vale de Prazeres e Mata da Rainha;1201;564;637
+0906: Gouveia;12221;5706;6515
+090602: Arcozelo;570;253;317
+090603: Cativelos;610;283;327
+090605: Folgosinho;442;206;236
+090625: Gouveia;3151;1427;1724
+090612: Nespereira;659;319;340
+090613: Paços da Serra;501;244;257
+090614: Ribamondego;263;121;142
+090617: São Paio;699;342;357
+090623: União das freguesias de Aldeias e Mangualde da Serra;423;190;233
+090624: União das freguesias de Figueiró da Serra e Freixo da Serra;378;163;215
+090626: União das freguesias de Melo e Nabais;800;402;398
+090627: União das freguesias de Moimenta da Serra e Vinhó;1071;512;559
+090628: União das freguesias de Rio Torto e Lagarinhos;745;342;403
+090619: Vila Cortês da Serra;202;102;100
+090620: Vila Franca da Serra;239;111;128
+090621: Vila Nova de Tazem;1468;689;779
+0907: Guarda;40155;19127;21028
+090766: Adão;260;127;133
+090703: Aldeia do Bispo;199;89;110
+090704: Aldeia Viçosa;267;123;144
+090705: Alvendre;186;92;94
+090706: Arrifana;556;277;279
+090708: Avelãs da Ribeira;142;63;79
+090709: Benespera;281;133;148
+090711: Casal de Cinza;484;242;242
+090712: Castanheira;299;144;155
+090713: Cavadoude;243;124;119
+090714: Codesseiro;161;74;87
+090716: Faia;180;77;103
+090717: Famalicão;458;217;241
+090718: Fernão Joanes;186;79;107
+090757: Gonçalo;959;451;508
+090721: Gonçalo Bocas;205;103;102
+090758: Guarda;26471;12570;13901
+090759: Jarmelo São Miguel;278;130;148
+090760: Jarmelo São Pedro;276;142;134
+090722: João Antão;126;60;66
+090723: Maçainhas;978;479;499
+090724: Marmeleiro;297;145;152
+090725: Meios;150;81;69
+090728: Panoias de Cima;569;290;279
+090729: Pega;121;53;68
+090730: Pêra do Moço;791;381;410
+090732: Porto da Carne;337;156;181
+090734: Ramela;181;96;85
+090738: Santana da Azinha;529;228;301
+090744: Sobral da Serra;213;103;110
+090761: União de freguesias de Avelãs de Ambom e Rocamondo;154;73;81
+090762: União de freguesias de Corujeira e Trinta;409;199;210
+090763: União de freguesias de Mizarela, Pêro Soares e Vila Soeiro;200;94;106
+090764: União de freguesias de Pousade e Albardo;214;99;115
+090765: União de freguesias de Rochoso e Monte Margarida;210;85;125
+090746: Vale de Estrela;355;168;187
+090747: Valhelhas;303;152;151
+090748: Vela;424;184;240
+090749: Videmonte;386;180;206
+090750: Vila Cortês do Mondego;283;133;150
+090751: Vila Fernando;396;217;179
+090752: Vila Franca do Deão;134;69;65
+090753: Vila Garcia;304;145;159
+0908: Manteigas;2909;1352;1557
+090802: Manteigas (Santa Maria);1250;595;655
+090803: Manteigas (São Pedro);1177;534;643
+090801: Sameiro;274;129;145
+090804: Vale de Amoreira;208;94;114
+0909: Mêda;4632;2198;2434
+090901: Aveloso;184;86;98
+090902: Barreira;165;81;84
+090905: Coriscada;177;90;87
+090907: Longroiva;218;96;122
+090908: Marialva;177;87;90
+090912: Poço do Canto;331;159;172
+090914: Rabaçal;223;109;114
+090915: Ranhados;234;115;119
+090917: Mêda, Outeiro de Gatos e Fonte Longa;2398;1136;1262
+090918: Prova e Casteição;271;126;145
+090919: União das freguesias de Vale Flor, Carvalhal e Pai Penela;254;113;141
+0910: Pinhel;8099;3878;4221
+091028: Agregação das freguesias Sul de Pinhel;360;179;181
+091032: Alto do Palurdo;192;93;99
+091029: Alverca da Beira/Bouça Cova;420;199;221
+091009: Ervedosa;137;67;70
+091010: Freixedas;734;337;397
+091012: Lamegal;209;102;107
+091013: Lameiras;200;94;106
+091014: Manigoto;150;68;82
+091015: Pala;415;187;228
+091017: Pinhel;3297;1587;1710
+091018: Pínzio;366;164;202
+091024: Souro Pires;473;234;239
+091030: Terras de Massueime;205;106;99
+091035: União das freguesias de Atalaia e Safurdão;200;101;99
+091031: Valbom/Bogalhal;193;90;103
+091033: Vale do Côa;175;84;91
+091034: Vale do Massueime;217;107;110
+091027: Vascoveiro;156;79;77
+0911: Sabugal;11281;5324;5957
+091101: Águas Belas;167;80;87
+091103: Aldeia da Ponte;262;125;137
+091102: Aldeia do Bispo;237;104;133
+091106: Aldeia Velha;415;190;225
+091107: Alfaiates;360;176;184
+091109: Baraçal;208;107;101
+091110: Bendada;473;215;258
+091111: Bismula;190;90;100
+091112: Casteleiro;311;145;166
+091113: Cerdeira;188;85;103
+091114: Fóios;310;149;161
+091118: Malcata;321;142;179
+091120: Nave;230;108;122
+091123: Quadrazais;380;187;193
+091124: Quintas de São Bartolomeu;172;87;85
+091125: Rapoula do Côa;268;134;134
+091126: Rebolosa;205;94;111
+091127: Rendo;212;99;113
+091133: Sortelha;320;157;163
+091134: Souto;1143;543;600
+091141: União das freguesias de Aldeia da Ribeira, Vilar Maior e Badamalos;267;136;131
+091142: União das freguesias de Lajeosa e Forcalhos;221;99;122
+091143: União das freguesias de Pousafoles do Bispo, Pena Lobo e Lomba;388;182;206
+091144: União das freguesias de Ruvina, Ruivós e Vale das Éguas;195;87;108
+091146: União das freguesias de Santo Estêvão e Moita;327;145;182
+091147: União das freguesias de Seixo do Côa e Vale Longo;182;95;87
+091145: União das freguesias do Sabugal e Aldeia de Santo António;2608;1236;1372
+091136: Vale de Espinho;308;139;169
+091138: Vila Boa;236;116;120
+091139: Vila do Touro;177;72;105
+0912: Seia;21759;10281;11478
+091201: Alvoco da Serra;333;156;177
+091205: Girabolhos;241;122;119
+091207: Loriga;846;425;421
+091208: Paranhos;1263;595;668
+091209: Pinhanços;729;344;385
+091210: Sabugueiro;403;198;205
+091212: Sandomil;745;345;400
+091213: Santa Comba;724;342;382
+091216: Santiago;1162;551;611
+091219: Sazes da Beira;245;110;135
+091221: Teixeira;146;71;75
+091224: Travancinha;388;176;212
+091230: União das freguesias de Carragozela e Várzea de Meruge;548;255;293
+091231: União das freguesias de Sameice e Santa Eulália;508;244;264
+091232: União das freguesias de Santa Marinha e São Martinho;1365;640;725
+091233: União das freguesias de Seia, São Romão e Lapa dos Dinheiros;8708;4076;4632
+091234: União das freguesias de Torrozelo e Folhadosa;707;319;388
+091235: União das freguesias de Tourais e Lajes;1533;739;794
+091236: União das freguesias de Vide e Cabeça;569;279;290
+091225: Valezim;242;113;129
+091228: Vila Cova à Coelheira;354;181;173
+0913: Trancoso;8419;3986;4433
+091301: Aldeia Nova;276;130;146
+091303: Castanheira;165;92;73
+091304: Cogula;168;74;94
+091305: Cótimos;187;89;98
+091307: Fiães;180;92;88
+091309: Granja;109;51;58
+091310: Guilheiro;126;68;58
+091311: Moimentinha;174;79;95
+091312: Moreira de Rei;412;197;215
+091313: Palhais;154;71;83
+091314: Póvoa do Concelho;249;120;129
+091315: Reboleiro;247;101;146
+091316: Rio de Mel;279;136;143
+091321: Tamanhos;175;79;96
+091330: União das freguesias de Freches e Torres;450;205;245
+091331: União das freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho;345;176;169
+091332: União das freguesias de Trancoso (São Pedro e Santa Maria) e Souto Maior;3192;1505;1687
+091333: União das freguesias de Vale do Seixo e Vila Garcia;187;85;102
+091334: União das freguesias de Vila Franca das Naves e Feital;879;434;445
+091335: União das freguesias de Vilares e Carnicães;306;133;173
+091325: Valdujo;159;69;90
+17: Área Metropolitana de Lisboa;2871133;1349870;1521263
+170: Área Metropolitana de Lisboa;2871133;1349870;1521263
+1502: Alcochete;19148;9211;9937
+150201: Alcochete;13231;6358;6873
+150202: Samouco;3347;1594;1753
+150203: São Francisco;2570;1259;1311
+1503: Almada;177400;83199;94201
+150303: Costa da Caparica;14038;6656;7382
+150312: União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas;48572;22083;26489
+150313: União das freguesias de Caparica e Trafaria;26357;12452;13905
+150314: União das freguesias de Charneca de Caparica e Sobreda;48814;23602;25212
+150315: União das freguesias de Laranjeiro e Feijó;39619;18406;21213
+1115: Amadora;171719;79490;92229
+111513: Águas Livres;37663;17269;20394
+111512: Alfragide;16866;7984;8882
+111514: Encosta do Sol;27123;12675;14448
+111515: Falagueira-Venda Nova;20820;9401;11419
+111516: Mina de Água;43019;20214;22805
+111517: Venteira;26228;11947;14281
+1504: Barreiro;78362;36681;41681
+150407: Santo António da Charneca;11590;5481;6109
+150409: União das freguesias de Alto do Seixalinho, Santo André e Verderena;41295;19228;22067
+150410: União das freguesias de Barreiro e Lavradio;21848;10225;11623
+150411: União das freguesias de Palhais e Coina;3629;1747;1882
+1105: Cascais;214134;99682;114452
+110501: Alcabideche;44102;21001;23101
+110506: São Domingos de Rana;59187;27851;31336
+110507: União das freguesias de Carcavelos e Parede;46535;21160;25375
+110508: União das freguesias de Cascais e Estoril;64310;29670;34640
+1106: Lisboa;544851;253408;291443
+110601: Ajuda;14299;6561;7738
+110602: Alcântara;13825;6246;7579
+110654: Alvalade;33236;14940;18296
+110655: Areeiro;21144;9648;11496
+110656: Arroios;33055;16194;16861
+110657: Avenidas Novas;23252;10642;12610
+110607: Beato;12166;5771;6395
+110658: Belém;16537;7565;8972
+110608: Benfica;35279;15749;19530
+110659: Campo de Ourique;22169;9886;12283
+110610: Campolide;14778;6977;7801
+110611: Carnide;17990;8310;9680
+110660: Estrela;20242;9358;10884
+110618: Lumiar;46260;21475;24785
+110621: Marvila;35463;16573;18890
+110661: Misericórdia;9645;4788;4857
+110633: Olivais;32107;14863;17244
+110662: Parque das Nações;22350;10791;11559
+110663: Penha de França;28354;13186;15168
+110664: Santa Clara;23673;11020;12653
+110665: Santa Maria Maior;9997;5560;4437
+110666: Santo António;11074;5313;5761
+110639: São Domingos de Benfica;34060;15426;18634
+110667: São Vicente;13896;6566;7330
+1107: Loures;201646;95090;106556
+110702: Bucelas;4800;2264;2536
+110705: Fanhões;2632;1266;1366
+110707: Loures;30253;14230;16023
+110708: Lousa;3215;1539;1676
+110731: União das freguesias de Camarate, Unhos e Apelação;33498;15857;17641
+110726: União das freguesias de Moscavide e Portela;20930;9635;11295
+110727: União das freguesias de Sacavém e Prior Velho;24696;11527;13169
+110728: União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela;44484;21203;23281
+110729: União das freguesias de Santo Antão e São Julião do Tojal;8598;4156;4442
+110730: União das freguesias de Santo António dos Cavaleiros e Frielas;28540;13413;15127
+1109: Mafra;86523;41888;44635
+110902: Carvoeira;2840;1412;1428
+110904: Encarnação;4900;2397;2503
+110906: Ericeira;12368;5944;6424
+110909: Mafra;20792;10001;10791
+110911: Milharado;7651;3782;3869
+110913: Santo Isidoro;4403;2156;2247
+110918: União das freguesias de Azueira e Sobral da Abelheira;4434;2153;2281
+110919: União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário;3978;1905;2073
+110920: União das freguesias de Igreja Nova e Cheleiros;4684;2312;2372
+110921: União das freguesias de Malveira e São Miguel de Alcainça;9637;4574;5063
+110922: União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés;10836;5252;5584
+1506: Moita;66326;31386;34940
+150601: Alhos Vedros;16162;7903;8259
+150603: Moita;17714;8361;9353
+150607: União das freguesias de Baixa da Banheira e Vale da Amoreira;30152;14009;16143
+150608: União das freguesias de Gaio-Rosário e Sarilhos Pequenos;2298;1113;1185
+1507: Montijo;55732;27081;28651
+150701: Canha;1567;790;777
+150704: Sarilhos Grandes;3243;1597;1646
+150709: União das freguesias de Atalaia e Alto Estanqueiro-Jardia;5372;2643;2729
+150710: União das freguesias de Montijo e Afonsoeiro;41459;19820;21639
+150711: União das freguesias de Pegões;4091;2231;1860
+1116: Odivelas;148156;69713;78443
+111603: Odivelas;59662;27881;31781
+111608: União das freguesias de Pontinha e Famões;35073;16692;18381
+111609: União das freguesias de Póvoa de Santo Adrião e Olival Basto;18817;8724;10093
+111610: União das freguesias de Ramada e Caneças;34604;16416;18188
+1110: Oeiras;171802;79644;92158
+111002: Barcarena;14444;6973;7471
+111009: Porto Salvo;15094;7177;7917
+111012: União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo;47994;22087;25907
+111013: União das freguesias de Carnaxide e Queijas;36133;16785;19348
+111014: União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias;58137;26622;31515
+1508: Palmela;68879;33161;35718
+150802: Palmela;18770;9052;9718
+150803: Pinhal Novo;27010;12828;14182
+150804: Quinta do Anjo;14286;6946;7340
+150806: União das freguesias de Poceirão e Marateca;8813;4335;4478
+1510: Seixal;166693;78656;88037
+151002: Amora;49376;23137;26239
+151005: Corroios;50860;24015;26845
+151006: Fernão Ferro;20779;10058;10721
+151007: União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires;45678;21446;24232
+1511: Sesimbra;52465;25457;27008
+151103: Quinta do Conde;28133;13591;14542
+151101: Sesimbra (Castelo);20240;9896;10344
+151102: Sesimbra (Santiago);4092;1970;2122
+1512: Setúbal;123684;58571;65113
+151207: Gâmbia-Pontes-Alto da Guerra;6833;3376;3457
+151208: Sado;5380;2653;2727
+151205: Setúbal (São Sebastião);52597;24984;27613
+151209: União das freguesias de Azeitão (São Lourenço e São Simão);21022;10135;10887
+151210: União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça);37852;17423;20429
+1111: Sintra;385954;181824;204130
+111102: Algueirão-Mem Martins;68656;32369;36287
+111115: Casal de Cambra;13344;6334;7010
+111105: Colares;7771;3691;4080
+111108: Rio de Mouro;49492;23218;26274
+111122: União das freguesias de Agualva e Mira-Sintra;41315;19145;22170
+111123: União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar;17275;8444;8831
+111125: União das freguesias de Massamá e Monte Abraão;47857;22124;25733
+111126: União das freguesias de Queluz e Belas;52472;24734;27738
+111127: União das freguesias de São João das Lampas e Terrugem;18030;8656;9374
+111128: União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim);29974;14527;15447
+111124: União das freguesias do Cacém e São Marcos;39768;18582;21186
+1114: Vila Franca de Xira;137659;65728;71931
+111412: União das freguesias de Alhandra, São João dos Montes e Calhandriz;12642;6037;6605
+111413: União das freguesias de Alverca do Ribatejo e Sobralinho;36525;17488;19037
+111414: União das freguesias de Castanheira do Ribatejo e Cachoeiras;7970;3814;4156
+111415: União das freguesias de Póvoa de Santa Iria e Forte da Casa;40905;19545;21360
+111408: Vialonga;21261;10273;10988
+111409: Vila Franca de Xira;18356;8571;9785
+18: Alentejo;704934;341139;363795
+181: Alentejo Litoral;96490;48957;47533
+1501: Alcácer do Sal;11125;5370;5755
+150106: Comporta;1095;559;536
+150105: São Martinho;351;173;178
+150104: Torrão;1937;920;1017
+150107: União das freguesias de Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana;7742;3718;4024
+1505: Grândola;13827;6989;6838
+150501: Azinheira dos Barros e São Mamede do Sádão;545;280;265
+150505: Carvalhal;1517;1030;487
+150503: Melides;1456;722;734
+150506: União das freguesias de Grândola e Santa Margarida da Serra;10309;4957;5352
+0211: Odemira;29523;16335;13188
+021116: Boavista dos Pinheiros;1974;1028;946
+021118: Colos;821;408;413
+021117: Longueira/Almograve;2338;1491;847
+021115: Luzianes-Gare;372;199;173
+021102: Relíquias;996;504;492
+021103: Sabóia;921;473;448
+021119: Santa Clara-a-Velha;632;330;302
+021106: São Luís;1882;914;968
+021107: São Martinho das Amoreiras;1043;504;539
+021120: São Salvador e Santa Maria;3375;1794;1581
+021121: São Teotónio;8694;5320;3374
+021122: Vale de Santiago;822;411;411
+021111: Vila Nova de Milfontes;5653;2959;2694
+1509: Santiago do Cacém;27801;13442;14359
+150901: Abela;834;418;416
+150902: Alvalade;1802;885;917
+150903: Cercal;2959;1468;1491
+150904: Ermidas-Sado;2069;1020;1049
+150907: Santo André;10326;4985;5341
+150910: São Francisco da Serra;738;367;371
+150912: União das freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra;7902;3753;4149
+150913: União das freguesias de São Domingos e Vale de Água;1171;546;625
+1513: Sines;14214;6821;7393
+151302: Porto Covo;1092;531;561
+151301: Sines;13122;6290;6832
+184: Baixo Alentejo;114887;56259;58628
+0201: Aljustrel;8879;4379;4500
+020102: Ervidel;917;452;465
+020103: Messejana;811;389;422
+020104: São João de Negrilhos;1361;694;667
+020106: União das freguesias de Aljustrel e Rio de Moinhos;5790;2844;2946
+0202: Almodôvar;6709;3300;3409
+020208: Aldeia dos Fernandes;515;248;267
+020203: Rosário;592;291;301
+020205: Santa Cruz;483;247;236
+020206: São Barnabé;371;192;179
+020209: União das freguesias de Almodôvar e Graça dos Padrões;3964;1919;2045
+020210: União das freguesias de Santa Clara-a-Nova e Gomes Aires;784;403;381
+0203: Alvito;2276;1085;1191
+020301: Alvito;1193;572;621
+020302: Vila Nova da Baronia;1083;513;570
+0204: Barrancos;1435;697;738
+020401: Barrancos;1435;697;738
+0205: Beja;33401;16284;17117
+020502: Baleizão;884;482;402
+020503: Beringel;1189;566;623
+020504: Cabeça Gorda;1126;569;557
+020506: Nossa Senhora das Neves;1525;754;771
+020510: Santa Clara de Louredo;747;344;403
+020516: São Matias;511;247;264
+020519: União das freguesias de Albernoa e Trindade;889;418;471
+020520: União das freguesias de Beja (Salvador e Santa Maria da Feira);10703;5124;5579
+020521: União das freguesias de Beja (Santiago Maior e São João Baptista);13371;6552;6819
+020522: União das freguesias de Salvada e Quintos;1181;583;598
+020523: União das freguesias de Santa Vitória e Mombeja;788;400;388
+020524: União das freguesias de Trigaches e São Brissos;487;245;242
+0206: Castro Verde;6878;3313;3565
+020603: Entradas;592;260;332
+020604: Santa Bárbara de Padrões;730;353;377
+020605: São Marcos da Ataboeira;260;129;131
+020606: União das freguesias de Castro Verde e Casével;5296;2571;2725
+0207: Cuba;4374;2153;2221
+020701: Cuba;3094;1513;1581
+020702: Faro do Alentejo;485;262;223
+020703: Vila Alva;416;186;230
+020704: Vila Ruiva;379;192;187
+0208: Ferreira do Alentejo;7676;3856;3820
+020803: Figueira dos Cavaleiros;1184;578;606
+020804: Odivelas;472;244;228
+020807: União das freguesias de Alfundão e Peroguarda;1284;717;567
+020808: União das freguesias de Ferreira do Alentejo e Canhestros;4736;2317;2419
+0209: Mértola;6205;3069;3136
+020901: Alcaria Ruiva;633;313;320
+020902: Corte do Pinto;732;373;359
+020903: Espírito Santo;328;168;160
+020904: Mértola;2503;1227;1276
+020905: Santana de Cambas;752;380;372
+020906: São João dos Caldeireiros;442;209;233
+020910: União das freguesias de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros;815;399;416
+0210: Moura;13267;6415;6852
+021001: Amareleja;2027;984;1043
+021002: Póvoa de São Miguel;761;382;379
+021008: Sobral da Adiça;861;449;412
+021009: União das freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador;8050;3848;4202
+021010: União das freguesias de Safara e Santo Aleixo da Restauração;1568;752;816
+0212: Ourique;4842;2361;2481
+021203: Ourique;2807;1370;1437
+021206: Santana da Serra;660;343;317
+021207: União das freguesias de Garvão e Santa Luzia;887;410;477
+021208: União das freguesias de Panoias e Conceição;488;238;250
+0213: Serpa;13768;6845;6923
+021302: Brinches;929;454;475
+021303: Pias;2541;1321;1220
+021308: União das freguesias de Serpa (Salvador e Santa Maria);5602;2760;2842
+021309: União das freguesias de Vila Nova de São Bento e Vale de Vargo;3439;1698;1741
+021307: Vila Verde de Ficalho;1257;612;645
+0214: Vidigueira;5177;2502;2675
+021401: Pedrógão;935;483;452
+021402: Selmes;780;369;411
+021403: Vidigueira;2660;1258;1402
+021404: Vila de Frades;802;392;410
+185: Lezíria do Tejo;236132;113018;123114
+1403: Almeirim;22033;10451;11582
+140301: Almeirim;12377;5835;6542
+140302: Benfica do Ribatejo;2796;1358;1438
+140303: Fazendas de Almeirim;6361;3023;3338
+140304: Raposa;499;235;264
+1404: Alpiarça;6986;3323;3663
+140401: Alpiarça;6986;3323;3663
+1103: Azambuja;21421;10686;10735
+110301: Alcoentre;3132;1963;1169
+110302: Aveiras de Baixo;1431;691;740
+110303: Aveiras de Cima;4670;2234;2436
+110304: Azambuja;8261;3904;4357
+110310: União das freguesias de Manique do Intendente, Vila Nova de São Pedro e Maçussa;2002;959;1043
+110306: Vale do Paraíso;952;444;508
+110307: Vila Nova da Rainha;973;491;482
+1405: Benavente;29747;14267;15480
+140504: Barrosa;639;321;318
+140501: Benavente;9379;4502;4877
+140502: Samora Correia;17728;8444;9284
+140503: Santo Estêvão;2001;1000;1001
+1406: Cartaxo;23211;11136;12075
+140604: Pontével;4364;2104;2260
+140610: União das freguesias de Ereira e Lapa;1732;844;888
+140609: União das freguesias do Cartaxo e Vale da Pinta;12315;5813;6502
+140605: Valada;685;362;323
+140608: Vale da Pedra;1646;804;842
+140607: Vila Chã de Ourique;2469;1209;1260
+1407: Chamusca;8536;4102;4434
+140707: Carregueira;1739;833;906
+140704: Ulme;1000;493;507
+140708: União das freguesias da Chamusca e Pinheiro Grande;3721;1779;1942
+140709: União das freguesias de Parreira e Chouto;1262;625;637
+140705: Vale de Cavalos;814;372;442
+1409: Coruche;17375;8203;9172
+140907: Biscainho;960;440;520
+140905: Branca;1304;642;662
+140902: Couço;2273;1068;1205
+140908: Santana do Mato;946;478;468
+140903: São José da Lamarosa;1467;686;781
+140909: União das freguesias de Coruche, Fajarda e Erra;10425;4889;5536
+1412: Golegã;5400;2530;2870
+141201: Azinhaga;1415;718;697
+141202: Golegã;3591;1620;1971
+141203: Pombalinho;394;192;202
+1414: Rio Maior;21021;10225;10796
+141401: Alcobertas;1738;871;867
+141402: Arrouquelas;634;315;319
+141410: Asseiceira;1126;550;576
+141405: Fráguas;816;388;428
+141408: Rio Maior;12521;6098;6423
+141411: São Sebastião;462;218;244
+141415: União das freguesias de Azambujeira e Malaqueijo;799;393;406
+141416: União das freguesias de Marmeleira e Assentiz;794;362;432
+141417: União das freguesias de Outeiro da Cortiçada e Arruda dos Pisões;956;470;486
+141418: União das freguesias de São João da Ribeira e Ribeira de São João;1175;560;615
+1415: Salvaterra de Magos;21632;10354;11278
+141502: Marinhais;6265;3004;3261
+141503: Muge;1188;578;610
+141507: União das freguesias de Glória do Ribatejo e Granho;3729;1836;1893
+141508: União das freguesias de Salvaterra de Magos e Foros de Salvaterra;10450;4936;5514
+1416: Santarém;58770;27741;31029
+141601: Abitureiras;890;424;466
+141602: Abrã;982;476;506
+141604: Alcanede;3976;1941;2035
+141605: Alcanhões;1347;632;715
+141606: Almoster;1604;774;830
+141607: Amiais de Baixo;1619;795;824
+141608: Arneiro das Milhariças;738;348;390
+141628: Gançaria;488;232;256
+141613: Moçarria;964;458;506
+141614: Pernes;1245;597;648
+141616: Póvoa da Isenta;1044;514;530
+141629: União das freguesias de Achete, Azoia de Baixo e Póvoa de Santarém;2745;1293;1452
+141630: União das freguesias de Azoia de Cima e Tremês;2160;1001;1159
+141631: União das freguesias de Casével e Vaqueiros;1037;499;538
+141632: União das freguesias de Romeira e Várzea;2453;1197;1256
+141633: União de freguesias da cidade de Santarém;30086;13875;16211
+141634: União das freguesias de São Vicente do Paul e Vale de Figueira;2633;1253;1380
+141625: Vale de Santarém;2759;1432;1327
+186: Alto Alentejo;104989;49783;55206
+1201: Alter do Chão;3046;1384;1662
+120101: Alter do Chão;2021;918;1103
+120102: Chancelaria;382;168;214
+120104: Cunheira;288;126;162
+120103: Seda;355;172;183
+1202: Arronches;2789;1379;1410
+120201: Assunção;1833;903;930
+120202: Esperança;590;295;295
+120203: Mosteiros;366;181;185
+1203: Avis;3813;1785;2028
+120302: Aldeia Velha;213;104;109
+120303: Avis;1628;745;883
+120305: Ervedal;432;207;225
+120306: Figueira e Barros;249;127;122
+120309: União das freguesias de Alcórrego e Maranhão;413;198;215
+120310: União das freguesias de Benavila e Valongo;878;404;474
+1204: Campo Maior;8045;3875;4170
+120401: Nossa Senhora da Expectação;3680;1735;1945
+120402: Nossa Senhora da Graça dos Degolados;646;312;334
+120403: São João Baptista;3719;1828;1891
+1205: Castelo de Vide;3121;1503;1618
+120501: Nossa Senhora da Graça de Póvoa e Meadas;543;259;284
+120502: Santa Maria da Devesa;1393;667;726
+120503: Santiago Maior;331;172;159
+120504: São João Baptista;854;405;449
+1206: Crato;3225;1485;1740
+120601: Aldeia da Mata;312;139;173
+120604: Gáfete;687;326;361
+120605: Monte da Pedra;221;110;111
+120607: União das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso;2005;910;1095
+1207: Elvas;20753;9870;10883
+120712: Assunção, Ajuda, Salvador e Santo Ildefonso;9076;4220;4856
+120713: Caia, São Pedro e Alcáçova;5384;2638;2746
+120706: Santa Eulália;1029;494;535
+120707: São Brás e São Lourenço;1624;802;822
+120708: São Vicente e Ventosa;730;346;384
+120714: União das freguesias de Barbacena e Vila Fernando;801;360;441
+120715: União das freguesias de Terrugem e Vila Boim;2109;1010;1099
+1208: Fronteira;2856;1350;1506
+120801: Cabeço de Vide;927;431;496
+120802: Fronteira;1695;807;888
+120803: São Saturnino;234;112;122
+1209: Gavião;3398;1576;1822
+120902: Belver;561;247;314
+120903: Comenda;695;324;371
+120905: Margem;642;314;328
+120906: União das freguesias de Gavião e Atalaia;1500;691;809
+1210: Marvão;3023;1441;1582
+121001: Beirã;425;206;219
+121002: Santa Maria de Marvão;398;175;223
+121003: Santo António das Areias;965;463;502
+121004: São Salvador da Aramenha;1235;597;638
+1211: Monforte;2990;1404;1586
+121101: Assumar;611;245;366
+121102: Monforte;1300;634;666
+121103: Santo Aleixo;498;238;260
+121104: Vaiamonte;581;287;294
+1212: Nisa;5951;2793;3158
+121201: Alpalhão;989;476;513
+121205: Montalvão;290;133;157
+121207: Santana;277;118;159
+121208: São Matias;197;96;101
+121210: Tolosa;813;378;435
+121211: União das freguesias de Arez e Amieira do Tejo;387;183;204
+121212: União das freguesias de Espírito Santo, Nossa Senhora da Graça e São Simão;2998;1409;1589
+1213: Ponte de Sor;15253;7312;7941
+121304: Foros de Arrão;807;392;415
+121301: Galveias;1024;504;520
+121305: Longomel;982;474;508
+121302: Montargil;1933;926;1007
+121308: União das freguesias de Ponte de Sor, Tramaga e Vale de Açor;10507;5016;5491
+1214: Portalegre;22368;10603;11765
+121401: Alagoa;542;262;280
+121402: Alegrete;1415;697;718
+121404: Fortios;1792;845;947
+121411: União das freguesias da Sé e São Lourenço;14335;6704;7631
+121412: União das freguesias de Reguengo e São Julião;849;421;428
+121413: União das freguesias de Ribeira de Nisa e Carreiras;1732;847;885
+121410: Urra;1703;827;876
+1215: Sousel;4358;2023;2335
+121501: Cano;1058;506;552
+121502: Casa Branca;981;447;534
+121503: Santo Amaro;539;256;283
+121504: Sousel;1780;814;966
+187: Alentejo Central;152436;73122;79314
+0701: Alandroal;5007;2429;2578
+070104: Capelins (Santo António);397;189;208
+070103: Santiago Maior;1880;915;965
+070105: Terena (São Pedro);680;327;353
+070107: União das freguesias de Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto);2050;998;1052
+0702: Arraiolos;6606;3224;3382
+070201: Arraiolos;3133;1520;1613
+070202: Igrejinha;963;476;487
+070208: União das freguesias de Gafanhoeira (São Pedro) e Sabugueiro;740;368;372
+070209: União das freguesias de São Gregório e Santa Justa;438;225;213
+070206: Vimieiro;1332;635;697
+0703: Borba;6428;3145;3283
+070301: Borba (Matriz);3388;1629;1759
+070304: Borba (São Bartolomeu);604;287;317
+070302: Orada;577;281;296
+070303: Rio de Moinhos;1859;948;911
+0704: Estremoz;12688;6015;6673
+070401: Arcos;1016;493;523
+070404: Évora Monte (Santa Maria);506;239;267
+070402: Glória;449;226;223
+070411: São Domingos de Ana Loura;269;135;134
+070414: União das freguesias de Estremoz (Santa Maria e Santo André);7894;3686;4208
+070415: União das freguesias de São Bento do Cortiço e Santo Estêvão;682;335;347
+070416: União das freguesias de São Lourenço de Mamporcão e São Bento de Ana Loura;450;224;226
+070417: União das freguesias do Ameixial (Santa Vitória e São Bento);565;279;286
+070413: Veiros;857;398;459
+0705: Évora;53568;25429;28139
+070515: Canaviais;3312;1643;1669
+070502: Nossa Senhora da Graça do Divor;465;220;245
+070503: Nossa Senhora de Machede;937;452;485
+070506: São Bento do Mato;991;473;518
+070509: São Miguel de Machede;686;348;338
+070513: Torre de Coelheiros;539;263;276
+070522: União das freguesias de Bacelo e Senhora da Saúde;17774;8438;9336
+070523: União das freguesias de Évora (São Mamede, Sé, São Pedro e Santo Antão);4306;1931;2375
+070524: União das freguesias de Malagueira e Horta das Figueiras;21554;10192;11362
+070525: União das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe;995;481;514
+070526: União das freguesias de São Manços e São Vicente do Pigeiro;1079;531;548
+070527: União das freguesias de São Sebastião da Giesteira e Nossa Senhora da Boa Fé;930;457;473
+0706: Montemor-o-Novo;15803;7589;8214
+070601: Cabrela;509;242;267
+070607: Ciborro;591;286;305
+070610: Foros de Vale de Figueira;1010;492;518
+070605: Santiago do Escoural;1047;505;542
+070606: São Cristóvão;492;242;250
+070611: União das freguesias de Cortiçadas de Lavre e Lavre;1313;629;684
+070612: União das freguesias de Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras;10841;5193;5648
+0707: Mora;4128;1963;2165
+070701: Brotas;340;161;179
+070702: Cabeção;859;391;468
+070703: Mora;2214;1051;1163
+070704: Pavia;715;360;355
+0708: Mourão;2353;1185;1168
+070801: Granja;514;256;258
+070802: Luz;295;158;137
+070803: Mourão;1544;771;773
+0709: Portel;5745;2807;2938
+070903: Monte do Trigo;1149;584;565
+070905: Portel;2414;1156;1258
+070906: Santana;474;218;256
+070909: União das freguesias de Amieira e Alqueva;531;263;268
+070910: União das freguesias de São Bartolomeu do Outeiro e Oriola;801;394;407
+070908: Vera Cruz;376;192;184
+0710: Redondo;6287;3066;3221
+071001: Montoito;1028;505;523
+071002: Redondo;5259;2561;2698
+0711: Reguengos de Monsaraz;9875;4775;5100
+071102: Corval;1310;629;681
+071103: Monsaraz;656;317;339
+071104: Reguengos de Monsaraz;6776;3294;3482
+071106: União das freguesias de Campo e Campinho;1133;535;598
+0712: Vendas Novas;11240;5404;5836
+071202: Landeira;622;304;318
+071201: Vendas Novas;10618;5100;5518
+0713: Viana do Alentejo;5323;2538;2785
+071303: Aguiar;862;401;461
+071301: Alcáçovas;1929;935;994
+071302: Viana do Alentejo;2532;1202;1330
+0714: Vila Viçosa;7385;3553;3832
+071401: Bencatel;1480;729;751
+071402: Ciladas;815;395;420
+071406: Nossa Senhora da Conceição e São Bartolomeu;4634;2198;2436
+071404: Pardais;456;231;225
+15: Algarve;467495;226628;240867
+150: Algarve;467495;226628;240867
+0801: Albufeira;44158;21591;22567
+080106: Albufeira e Olhos de Água;28640;13910;14730
+080104: Ferreiras;7264;3599;3665
+080102: Guia;4752;2361;2391
+080103: Paderne;3502;1721;1781
+0802: Alcoutim;2521;1236;1285
+080202: Giões;152;82;70
+080203: Martim Longo;927;444;483
+080206: União das freguesias de Alcoutim e Pereiro;1109;544;565
+080205: Vaqueiros;333;166;167
+0803: Aljezur;6046;3013;3033
+080301: Aljezur;3456;1691;1765
+080302: Bordeira;368;199;169
+080303: Odeceixe;1058;532;526
+080304: Rogil;1164;591;573
+0804: Castro Marim;6434;3153;3281
+080404: Altura;2106;1020;1086
+080401: Azinhal;479;234;245
+080402: Castro Marim;3275;1606;1669
+080403: Odeleite;574;293;281
+0805: Faro;67566;32103;35463
+080506: Montenegro;8591;4201;4390
+080503: Santa Bárbara de Nexe;4376;2147;2229
+080507: União das freguesias de Conceição e Estoi;8333;4080;4253
+080508: União das freguesias de Faro (Sé e São Pedro);46266;21675;24591
+0806: Lagoa;23718;11598;12120
+080602: Ferragudo;1969;989;980
+080604: Porches;2249;1143;1106
+080607: União das freguesias de Estômbar e Parchal;9354;4596;4758
+080608: União das freguesias de Lagoa e Carvoeiro;10146;4870;5276
+0807: Lagos;33514;16260;17254
+080703: Luz;4357;2109;2248
+080704: Odiáxere;3043;1512;1531
+080707: União das freguesias de Bensafrim e Barão de São João;2443;1203;1240
+080708: São Gonçalo de Lagos;23671;11436;12235
+0808: Loulé;72373;34949;37424
+080801: Almancil;11285;5594;5691
+080802: Alte;1743;871;872
+080803: Ameixial;381;199;182
+080804: Boliqueime;4794;2308;2486
+080808: Loulé (São Clemente);17953;8469;9484
+080809: Loulé (São Sebastião);6823;3332;3491
+080805: Quarteira;24428;11735;12693
+080807: Salir;2446;1202;1244
+080812: União de freguesias de Querença, Tôr e Benafim;2520;1239;1281
+0809: Monchique;5465;2744;2721
+080901: Alferce;391;202;189
+080902: Marmelete;698;362;336
+080903: Monchique;4376;2180;2196
+0810: Olhão;44639;21808;22831
+081003: Olhão;14208;6873;7335
+081004: Pechão;3886;1965;1921
+081005: Quelfes;17270;8423;8847
+081006: União das freguesias de Moncarapacho e Fuseta;9275;4547;4728
+0811: Portimão;59896;28731;31165
+081101: Alvor;6322;3081;3241
+081102: Mexilhoeira Grande;4311;2101;2210
+081103: Portimão;49263;23549;25714
+0812: São Brás de Alportel;11266;5436;5830
+081201: São Brás de Alportel;11266;5436;5830
+0813: Silves;37813;18593;19220
+081303: Armação de Pêra;6003;2956;3047
+081305: São Bartolomeu de Messines;8164;4016;4148
+081306: São Marcos da Serra;1114;574;540
+081307: Silves;10671;5246;5425
+081309: União das freguesias de Alcantarilha e Pêra;5004;2411;2593
+081310: União das freguesias de Algoz e Tunes;6857;3390;3467
+0814: Tavira;27536;13572;13964
+081401: Cachopo;471;235;236
+081404: Santa Catarina da Fonte do Bispo;1873;938;935
+081408: Santa Luzia;1587;797;790
+081410: União das freguesias de Conceição e Cabanas de Tavira;3431;1739;1692
+081411: União das freguesias de Luz de Tavira e Santo Estêvão;4728;2368;2360
+081412: União das freguesias de Tavira (Santa Maria e Santiago);15446;7495;7951
+0815: Vila do Bispo;5722;2787;2935
+081501: Barão de São Miguel;589;289;300
+081502: Budens;1854;901;953
+081504: Sagres;1896;930;966
+081506: Vila do Bispo e Raposeira;1383;667;716
+0816: Vila Real de Santo António;18828;9054;9774
+081603: Monte Gordo;3203;1579;1624
+081601: Vila Nova de Cacela;3872;1866;2006
+081602: Vila Real de Santo António;11753;5609;6144
+2: Região Autónoma dos Açores;236657;115440;121217
+20: Região Autónoma dos Açores;236657;115440;121217
+200: Região Autónoma dos Açores;236657;115440;121217
+4301: Angra do Heroísmo;33829;16375;17454
+430101: Altares;847;399;448
+430102: Angra (Nossa Senhora da Conceição);3378;1583;1795
+430103: Angra (Santa Luzia);2476;1135;1341
+430104: Angra (São Pedro);3286;1505;1781
+430105: Angra (Sé);932;435;497
+430106: Cinco Ribeiras;682;338;344
+430107: Doze Ribeiras;429;223;206
+430108: Feteira;1340;638;702
+430109: Porto Judeu;2296;1133;1163
+430110: Posto Santo;1030;504;526
+430111: Raminho;464;228;236
+430112: Ribeirinha;2485;1199;1286
+430113: Santa Bárbara;1278;652;626
+430114: São Bartolomeu de Regatos;1941;974;967
+430115: São Bento;1913;905;1008
+430116: São Mateus da Calheta;3789;1858;1931
+430117: Serreta;315;160;155
+430118: Terra Chã;2899;1497;1402
+430119: Vila de São Sebastião;2049;1009;1040
+4501: Calheta;3441;1705;1736
+450101: Calheta;1273;602;671
+450102: Norte Pequeno;196;88;108
+450103: Ribeira Seca;901;462;439
+450104: Santo Antão;631;325;306
+450105: Topo (Nossa Senhora do Rosário);440;228;212
+4901: Corvo;386;206;180
+490101: Corvo;386;206;180
+4701: Horta;14356;6997;7359
+470101: Capelo;528;256;272
+470102: Castelo Branco;1258;618;640
+470103: Cedros;872;440;432
+470104: Feteira;1775;876;899
+470105: Flamengos;1566;773;793
+470106: Horta (Angústias);2135;1003;1132
+470107: Horta (Conceição);1050;504;546
+470108: Horta (Matriz);2446;1165;1281
+470109: Pedro Miguel;738;380;358
+470110: Praia do Almoxarife;971;494;477
+470111: Praia do Norte;258;123;135
+470112: Ribeirinha;404;188;216
+470113: Salão;355;177;178
+4201: Lagoa;14194;6966;7228
+420101: Água de Pau;2921;1479;1442
+420102: Cabouco;1971;964;1007
+420103: Lagoa (Nossa Senhora do Rosário);5411;2619;2792
+420104: Lagoa (Santa Cruz);3526;1723;1803
+420105: Ribeira Chã;365;181;184
+4801: Lajes das Flores;1408;732;676
+480101: Fajã Grande;220;120;100
+480102: Fajãzinha;71;33;38
+480103: Fazenda;261;130;131
+480104: Lajedo;75;42;33
+480105: Lajes das Flores;562;288;274
+480106: Lomba;200;109;91
+480107: Mosteiro;19;10;9
+4601: Lajes do Pico;4342;2121;2221
+460101: Calheta de Nesquim;319;155;164
+460102: Lajes do Pico;1723;845;878
+460103: Piedade;758;379;379
+460104: Ribeiras;788;381;407
+460105: Ribeirinha;344;170;174
+460106: São João;410;191;219
+4602: Madalena;6332;3082;3250
+460201: Bandeiras;711;363;348
+460202: Candelária;828;390;438
+460203: Criação Velha;808;418;390
+460204: Madalena;2893;1382;1511
+460205: São Caetano;415;192;223
+460206: São Mateus;677;337;340
+4202: Nordeste;4373;2155;2218
+420201: Achada;387;193;194
+420202: Achadinha;464;224;240
+420208: Algarvia;240;122;118
+420203: Lomba da Fazenda;748;363;385
+420204: Nordeste;1161;564;597
+420206: Salga;485;238;247
+420207: Santana;382;190;192
+420209: Santo António de Nordestinho;260;138;122
+420210: São Pedro de Nordestinho;246;123;123
+4203: Ponta Delgada;67287;32375;34912
+420323: Ajuda da Bretanha;652;325;327
+420301: Arrifes;7293;3513;3780
+420303: Candelária;977;477;500
+420304: Capelas;3979;1962;2017
+420305: Covoada;1222;605;617
+420306: Fajã de Baixo;4924;2388;2536
+420307: Fajã de Cima;3295;1605;1690
+420308: Fenais da Luz;2229;1130;1099
+420309: Feteiras;1558;762;796
+420310: Ginetes;1184;585;599
+420311: Mosteiros;1023;499;524
+420324: Pilar da Bretanha;577;295;282
+420313: Ponta Delgada (São José);5767;2509;3258
+420314: Ponta Delgada (São Pedro);7500;3541;3959
+420312: Ponta Delgada (São Sebastião);4052;1890;2162
+420315: Relva;2886;1411;1475
+420316: Remédios;810;395;415
+420317: Rosto do Cão (Livramento);4319;2103;2216
+420318: Rosto do Cão (São Roque);4599;2251;2348
+420319: Santa Bárbara;847;449;398
+420325: Santa Clara;2813;1325;1488
+420320: Santo António;1574;761;813
+420321: São Vicente Ferreira;2506;1247;1259
+420322: Sete Cidades;701;347;354
+4204: Povoação;5796;2850;2946
+420401: Água Retorta;429;213;216
+420402: Faial da Terra;342;164;178
+420403: Furnas;1401;699;702
+420404: Nossa Senhora dos Remédios;1065;519;546
+420405: Povoação;1878;909;969
+420406: Ribeira Quente;681;346;335
+4205: Ribeira Grande;31414;15591;15823
+420501: Calhetas;910;458;452
+420502: Fenais da Ajuda;890;448;442
+420503: Lomba da Maia;1047;528;519
+420504: Lomba de São Pedro;349;195;154
+420505: Maia;1792;886;906
+420506: Pico da Pedra;3055;1483;1572
+420507: Porto Formoso;1094;544;550
+420508: Rabo de Peixe;8801;4495;4306
+420509: Ribeira Grande (Conceição);2638;1250;1388
+420510: Ribeira Grande (Matriz);3777;1870;1907
+420511: Ribeira Seca;2777;1361;1416
+420512: Ribeirinha;2513;1217;1296
+420513: Santa Bárbara;1189;578;611
+420514: São Brás;582;278;304
+4401: Santa Cruz da Graciosa;4095;2018;2077
+440101: Guadalupe;989;480;509
+440102: Luz;632;325;307
+440104: Santa Cruz da Graciosa;1740;837;903
+440103: São Mateus;734;376;358
+4802: Santa Cruz das Flores;2021;1008;1013
+480201: Caveira;76;36;40
+480202: Cedros;112;61;51
+480203: Ponta Delgada;281;143;138
+480204: Santa Cruz das Flores;1552;768;784
+4603: São Roque do Pico;3221;1568;1653
+460301: Prainha;530;262;268
+460302: Santa Luzia;436;202;234
+460303: Santo Amaro;255;122;133
+460304: Santo António;724;353;371
+460305: São Roque do Pico;1276;629;647
+4502: Velas;4940;2444;2496
+450201: Manadas (Santa Bárbara);361;179;182
+450202: Norte Grande (Neves);462;232;230
+450203: Rosais;662;341;321
+450204: Santo Amaro;790;387;403
+450205: Urzelina (São Mateus);894;451;443
+450206: Velas (São Jorge);1771;854;917
+4302: Vila da Praia da Vitória;19482;9492;9990
+430201: Agualva;1235;613;622
+430202: Biscoitos;1450;712;738
+430203: Cabo da Praia;670;338;332
+430204: Fonte do Bastardo;1169;570;599
+430205: Fontinhas;1528;741;787
+430206: Lajes;3411;1681;1730
+430211: Porto Martins;1174;578;596
+430207: Praia da Vitória (Santa Cruz);5968;2826;3142
+430208: Quatro Ribeiras;324;166;158
+430209: São Brás;1036;509;527
+430210: Vila Nova;1517;758;759
+4101: Vila do Porto;5414;2593;2821
+410101: Almagreira;617;309;308
+410102: Santa Bárbara;370;178;192
+410103: Santo Espírito;597;282;315
+410104: São Pedro;813;394;419
+410105: Vila do Porto;3017;1430;1587
+4206: Vila Franca do Campo;10326;5162;5164
+420601: Água de Alto;1656;826;830
+420602: Ponta Garça;3157;1617;1540
+420603: Ribeira das Tainhas;641;325;316
+420606: Ribeira Seca;1005;501;504
+420604: Vila Franca do Campo (São Miguel);2487;1219;1268
+420605: Vila Franca do Campo (São Pedro);1380;674;706
+3: Região Autónoma da Madeira;251060;117712;133348
+30: Região Autónoma da Madeira;251060;117712;133348
+300: Região Autónoma da Madeira;251060;117712;133348
+3101: Calheta;10913;5002;5911
+310101: Arco da Calheta;2998;1372;1626
+310102: Calheta;3189;1444;1745
+310103: Estreito da Calheta;1576;731;845
+310104: Fajã da Ovelha;811;364;447
+310105: Jardim do Mar;214;107;107
+310106: Paul do Mar;635;291;344
+310107: Ponta do Pargo;804;384;420
+310108: Prazeres;686;309;377
+3102: Câmara de Lobos;32175;15350;16825
+310201: Câmara de Lobos;16552;7922;8630
+310202: Curral das Freiras;1585;729;856
+310203: Estreito de Câmara de Lobos;9355;4507;4848
+310205: Jardim da Serra;2742;1273;1469
+310204: Quinta Grande;1941;919;1022
+3103: Funchal;105919;49186;56733
+310303: Funchal (Santa Luzia);5492;2468;3024
+310304: Funchal (Santa Maria Maior);11780;5500;6280
+310308: Funchal (São Pedro);7220;3278;3942
+310310: Funchal (Sé);2882;1291;1591
+310301: Imaculado Coração de Maria;5632;2629;3003
+310302: Monte;5795;2686;3109
+310305: Santo António;25952;12290;13662
+310306: São Gonçalo;5816;2593;3223
+310307: São Martinho;26985;12441;14544
+310309: São Roque;8365;4010;4355
+3104: Machico;19617;9486;10131
+310401: Água de Pena;2749;1329;1420
+310402: Caniçal;3549;1807;1742
+310403: Machico;9844;4739;5105
+310404: Porto da Cruz;2137;996;1141
+310405: Santo António da Serra;1338;615;723
+3105: Ponta do Sol;8367;3861;4506
+310501: Canhas;3602;1652;1950
+310502: Madalena do Mar;508;241;267
+310503: Ponta do Sol;4257;1968;2289
+3106: Porto Moniz;2521;1127;1394
+310601: Achadas da Cruz;121;57;64
+310602: Porto Moniz;1586;693;893
+310603: Ribeira da Janela;201;86;115
+310604: Seixal;613;291;322
+3201: Porto Santo;5158;2535;2623
+320101: Porto Santo;5158;2535;2623
+3107: Ribeira Brava;12696;5762;6934
+310701: Campanário;4317;1979;2338
+310702: Ribeira Brava;6245;2804;3441
+310703: Serra de Água;974;452;522
+310704: Tabua;1160;527;633
+3108: Santa Cruz;42262;20180;22082
+310802: Camacha;6247;3026;3221
+310803: Caniço;24104;11528;12576
+310804: Gaula;3939;1851;2088
+310805: Santa Cruz;7148;3384;3764
+310806: Santo António da Serra;824;391;433
+3109: Santana;6558;2972;3586
+310901: Arco de São Jorge;365;169;196
+310902: Faial;1309;585;724
+310906: Ilha;189;68;121
+310903: Santana;2838;1287;1551
+310904: São Jorge;1174;539;635
+310905: São Roque do Faial;683;324;359
+3110: São Vicente;4874;2251;2623
+311001: Boa Ventura;1035;468;567
+311002: Ponta Delgada;1045;472;573
+311003: São Vicente;2794;1311;1483

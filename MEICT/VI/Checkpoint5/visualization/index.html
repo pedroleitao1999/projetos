@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<meta name="description" content="Boilerplate for Laboratory Exercises">
+		<meta name="author" content="Faculty">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Portuguese Real Estate Market</title>
+
+		<!-- Import libraries. -->
+		<script type="text/javascript" src="libs/d3.min.js"></script>
+		<script type="text/javascript" src="libs/topojson.v3.min.js"></script>
+
+		<!-- JS -->
+		<script type="text/javascript" src="scripts/behavior.js"></script>
+		<script type="text/javascript" src="scripts/classes.js"></script>
+
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="style/styles.css">
+	</head>
+
+	<body onload="init()">
+		<div id="mainTitle">
+		<p>Portuguese Real Estate Market</p>
+		</div>
+		<div>
+			<div id="choropleth"></div>
+				<div id="optionsWrapper">
+					<div id = "globalOptions">
+						<p>Global Filters</p>
+						<input type="radio" id="Sell" onclick="filterGlobal('Sell')" checked="checked" name="fav_language" value="HTML">
+						<label for="Sell">Sell Price</label><br>
+						<input type="radio" id="Rent" onclick="filterGlobal('Rent')" name="fav_language" value="CSS">
+						<label for="Rent">Rent Price</label><br>
+					</div>
+					<div id="optOptions">
+						<p>Map specific filters</p>
+						<div>
+							<input type="checkbox" id="Security" onclick="filterChoropleth('Security')" name="fav_language" value="JavaScript">
+							<label for="security">Security</label>
+						</div>
+						<div>
+							<input type="checkbox" id="Population" onclick="filterChoropleth('Population')" name="fav_language" value="JavaScript">
+							<label for="population">Population</label>
+						</div>
+						<div>
+							<input type="checkbox" id="PurchasePower" onclick="filterChoropleth('PurchasePower')" name="fav_language" value="JavaScript">
+							<label for="purchasePower">Purchase Power</label>
+						</div>
+					</div>	
+				</div>
+				<div id="choroplethDescription">
+					<p> Select up to five districts </p>
+				</div>	
+			</div>
+			</div>
+			<div id="colorscale_choropleth_security"></div>
+			<div id="colorscale_choropleth_population"></div>
+			<div id="colorscale_choropleth_purchase_power"></div>
+			<div id="colorscale_choropleth_sale"></div>
+			<div id="colorscale_choropleth_rent"></div>
+		</div>
+
+		<div id="histogram">
+			<div id="histogramTitle">
+				<p> Price Distribution  </p>
+			</div>
+			<div id="histogramDescription">
+				<p> Brush to select a price range </p>
+			</div>		
+			<div id="histogramLegend">
+				<p> Price (€) </p>
+			</div>
+		</div>
+		<div id="boxPlotsTitle">
+				<p> Properties Characteristics </p></div>
+		<div id="boxPlots"></div>
+			<div id="roomsPlot">
+				<div id="roomsPlotLegend">
+					<p> Bedrooms </p>
+				</div>				
+			</div>
+			<div id="bathsPlot">
+				<div id="bathsPlotLegend">
+					<p> Bathrooms </p>
+				</div>
+			</div>
+			<div id="areaPlot">				
+				<div id="areaPlotLegend">
+					<p> Area (m2) </p>
+				</div>
+			</div>		
+		<div id="lineChart">
+			<div id="xAxisLegend"></div>
+			<div id="yAxisLegend"></div>
+			<nav>
+				<ul class = "menu">
+					<li><a><div id = Xmenu></div></a>
+						<ul>
+						 <li><a onclick="dataChangeLineChart('security')">Security Rate</a></li>
+						 <li><a onclick="dataChangeLineChart('density')">Population Density</a></li>
+						 <li><a onclick="dataChangeLineChart('power')">Purchase Power</a></li>
+						</ul>
+				   </li>
+				</ul>
+			</nav>
+		</div>
+		<div id="districtsLegend">
+			<div id="districtsLgegendTitle">
+				<p> Selected Areas </p>
+			</div></div>
+		<div id="radarChart">
+			<div id="radarChartTitle">
+				<p> Selected Areas Characteristics  </p>
+			</div>
+		</div>
+
+		<div class="container" id="tooltip_choropleth">
+			<div class="tooltip-location">
+				<h3 id="location-tooltip">Default Value</h3>
+			</div>
+			<div class="tooltip-sell-price">
+				<span id="sell-price">Default Value</span>
+			</div>
+			<div class="tooltip-rent-price">
+				<span id="rent-price">Default Value</span>
+			</div>
+			<div class="tooltip-security">
+				<span id="security_tooltip">Default Value</span>
+			</div>
+			<div class="tooltip-pop-density">
+				<span id="pop-density">Default Value</span>
+			</div>
+			<div class="tooltip-purchase-power">
+				<span id="purchase-power">Default Value</span>
+			</div>
+		</div>
+	</body>
+</html>

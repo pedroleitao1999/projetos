@@ -1,0 +1,345 @@
+Location;Area
+PT: Portugal;92225.2
+1: Continente;89102.14
+11: Norte;21285.86
+111: Alto Minho;2218.84
+1111601: Arcos de Valdevez;447.6
+1111602: Caminha;136.52
+1111603: Melgaço;238.25
+1111604: Monção;211.31
+1111605: Paredes de Coura;138.19
+1111606: Ponte da Barca;182.11
+1111607: Ponte de Lima;320.25
+1111608: Valença;117.13
+1111609: Viana do Castelo;319.02
+1111610: Vila Nova de Cerveira;108.47
+112: Cávado;1245.79
+1120301: Amares;81.95
+1120302: Barcelos;378.9
+1120303: Braga;183.4
+1120306: Esposende;95.41
+1120310: Terras de Bouro;277.46
+1120313: Vila Verde;228.67
+119: Ave;1451.36
+1190304: Cabeceiras de Basto;241.82
+1190307: Fafe;219.08
+1190308: Guimarães;241
+1191705: Mondim de Basto;172.08
+1190309: Póvoa de Lanhoso;134.65
+1190311: Vieira do Minho;216.44
+1190312: Vila Nova de Famalicão;201.59
+1190314: Vizela;24.7
+11A: Área Metropolitana do Porto;2041.27
+11A0104: Arouca;329.11
+11A0107: Espinho;21.06
+11A1304: Gondomar;131.92
+11A1306: Maia;82.94
+11A1308: Matosinhos;62.42
+11A0113: Oliveira de Azeméis;161.1
+11A1310: Paredes;156.76
+11A1312: Porto;41.42
+11A1313: Póvoa de Varzim;82.21
+11A0109: Santa Maria da Feira;215.88
+11A1314: Santo Tirso;136.56
+11A0116: São João da Madeira;7.94
+11A1318: Trofa;72.02
+11A0119: Vale de Cambra;147.33
+11A1315: Valongo;75.12
+11A1316: Vila do Conde;149.03
+11A1317: Vila Nova de Gaia;168.46
+11B: Alto Tâmega;2921.91
+11B1702: Boticas;321.96
+11B1703: Chaves;591.23
+11B1706: Montalegre;805.46
+11B1709: Ribeira de Pena;217.46
+11B1712: Valpaços;548.74
+11B1713: Vila Pouca de Aguiar;437.07
+11C: Tâmega e Sousa;1831.52
+11C1301: Amarante;301.33
+11C1302: Baião;174.53
+11C0106: Castelo de Paiva;115.01
+11C0305: Celorico de Basto;181.07
+11C1804: Cinfães;239.29
+11C1303: Felgueiras;115.74
+11C1305: Lousada;96.08
+11C1307: Marco de Canaveses;201.89
+11C1309: Paços de Ferreira;70.99
+11C1311: Penafiel;212.24
+11C1813: Resende;123.35
+11D: Douro;4031.58
+11D1701: Alijó;297.6
+11D1801: Armamar;117.24
+11D0403: Carrazeda de Ansiães;279.24
+11D0404: Freixo de Espada à Cinta;244.14
+11D1805: Lamego;165.42
+11D1704: Mesão Frio;26.65
+11D1807: Moimenta da Beira;219.97
+11D1707: Murça;189.37
+11D1812: Penedono;133.71
+11D1708: Peso da Régua;94.86
+11D1710: Sabrosa;156.92
+11D1711: Santa Marta de Penaguião;69.28
+11D1815: São João da Pesqueira;266.11
+11D1818: Sernancelhe;228.61
+11D1819: Tabuaço;133.86
+11D1820: Tarouca;100.08
+11D0409: Torre de Moncorvo;531.56
+11D0914: Vila Nova de Foz Côa;398.15
+11D1714: Vila Real;378.8
+11E: Terras de Trás-os-Montes;5543.6
+11E0401: Alfândega da Fé;321.95
+11E0402: Bragança;1173.57
+11E0405: Macedo de Cavaleiros;699.14
+11E0406: Miranda do Douro;487.18
+11E0407: Mirandela;658.96
+11E0408: Mogadouro;760.65
+11E0410: Vila Flor;265.81
+11E0411: Vimioso;481.59
+11E0412: Vinhais;694.75
+16: Centro;28199.35
+16B: Oeste;2220.16
+16B1001: Alcobaça;408.14
+16B1101: Alenquer;304.22
+16B1102: Arruda dos Vinhos;77.96
+16B1005: Bombarral;91.29
+16B1104: Cadaval;174.89
+16B1006: Caldas da Rainha;255.69
+16B1108: Lourinhã;147.17
+16B1011: Nazaré;82.43
+16B1012: Óbidos;141.55
+16B1014: Peniche;77.55
+16B1112: Sobral de Monte Agraço;52.1
+16B1113: Torres Vedras;407.15
+16D: Região de Aveiro;1692.86
+16D0101: Águeda;335.27
+16D0102: Albergaria-a-Velha;158.82
+16D0103: Anadia;216.63
+16D0105: Aveiro;197.58
+16D0108: Estarreja;108.17
+16D0110: Ílhavo;73.48
+16D0112: Murtosa;73.09
+16D0114: Oliveira do Bairro;87.32
+16D0115: Ovar;147.7
+16D0117: Sever do Vouga;129.88
+16D0118: Vagos;164.92
+16E: Região de Coimbra;4335.57
+16E0601: Arganil;332.84
+16E0602: Cantanhede;390.88
+16E0603: Coimbra;319.4
+16E0604: Condeixa-a-Nova;138.67
+16E0605: Figueira da Foz;379.05
+16E0606: Góis;263.3
+16E0607: Lousã;138.4
+16E0111: Mealhada;110.66
+16E0608: Mira;124.03
+16E0609: Miranda do Corvo;126.38
+16E0610: Montemor-o-Velho;228.96
+16E1808: Mortágua;251.18
+16E0611: Oliveira do Hospital;234.52
+16E0612: Pampilhosa da Serra;396.46
+16E0613: Penacova;216.73
+16E0614: Penela;134.8
+16E0615: Soure;265.06
+16E0616: Tábua;199.79
+16E0617: Vila Nova de Poiares;84.45
+16F: Região de Leiria;2449.13
+16F1002: Alvaiázere;160.48
+16F1003: Ansião;176.09
+16F1004: Batalha;103.42
+16F1007: Castanheira de Pêra;66.77
+16F1008: Figueiró dos Vinhos;173.44
+16F1009: Leiria;565.09
+16F1010: Marinha Grande;187.25
+16F1013: Pedrógão Grande;128.75
+16F1015: Pombal;626
+16F1016: Porto de Mós;261.83
+16G: Viseu Dão Lafões;3237.74
+16G0901: Aguiar da Beira;206.77
+16G1802: Carregal do Sal;116.89
+16G1803: Castro Daire;379.04
+16G1806: Mangualde;219.26
+16G1809: Nelas;125.71
+16G1810: Oliveira de Frades;145.35
+16G1811: Penalva do Castelo;134.34
+16G1814: Santa Comba Dão;111.95
+16G1816: São Pedro do Sul;348.95
+16G1817: Sátão;201.94
+16G1821: Tondela;371.22
+16G1822: Vila Nova de Paiva;175.53
+16G1823: Viseu;507.1
+16G1824: Vouzela;193.69
+16H: Beira Baixa;4614.64
+16H0502: Castelo Branco;1438.19
+16H0505: Idanha-a-Nova;1416.34
+16H0506: Oleiros;471.09
+16H0507: Penamacor;563.71
+16H0508: Proença-a-Nova;395.4
+16H0511: Vila Velha de Ródão;329.91
+16I: Médio Tejo;3344.31
+16I1401: Abrantes;714.69
+16I1402: Alcanena;127.33
+16I1408: Constância;80.37
+16I1410: Entroncamento;13.73
+16I1411: Ferreira do Zêzere;190.38
+16I1413: Mação;399.98
+16I1421: Ourém;416.68
+16I1417: Sardoal;92.15
+16I0509: Sertã;446.73
+16I1418: Tomar;351.2
+16I1419: Torres Novas;270
+16I0510: Vila de Rei;191.55
+16I1420: Vila Nova da Barquinha;49.53
+16J: Beiras e Serra da Estrela;6304.95
+16J0902: Almeida;517.98
+16J0501: Belmonte;118.76
+16J0903: Celorico da Beira;247.22
+16J0503: Covilhã;555.6
+16J0904: Figueira de Castelo Rodrigo;508.57
+16J0905: Fornos de Algodres;131.45
+16J0504: Fundão;700.2
+16J0906: Gouveia;300.61
+16J0907: Guarda;712.1
+16J0908: Manteigas;121.98
+16J0909: Mêda;286.05
+16J0910: Pinhel;484.52
+16J0911: Sabugal;822.7
+16J0912: Seia;435.69
+16J0913: Trancoso;361.52
+17: Área Metropolitana de Lisboa;3015.24
+170: Área Metropolitana de Lisboa;3015.24
+1701502: Alcochete;128.36
+1701503: Almada;70.01
+1701115: Amadora;23.78
+1701504: Barreiro;36.39
+1701105: Cascais;97.4
+1701106: Lisboa;100.05
+1701107: Loures;167.24
+1701109: Mafra;291.65
+1701506: Moita;55.26
+1701507: Montijo;348.62
+1701116: Odivelas;26.54
+1701110: Oeiras;45.88
+1701508: Palmela;465.12
+1701510: Seixal;95.45
+1701511: Sesimbra;195.72
+1701512: Setúbal;230.33
+1701111: Sintra;319.23
+1701114: Vila Franca de Xira;318.19
+18: Alentejo;31604.9
+181: Alentejo Litoral;5309.41
+1811501: Alcácer do Sal;1499.87
+1811505: Grândola;825.94
+1810211: Odemira;1720.6
+1811509: Santiago do Cacém;1059.69
+1811513: Sines;203.3
+184: Baixo Alentejo;8542.72
+1840201: Aljustrel;458.47
+1840202: Almodôvar;777.88
+1840203: Alvito;264.85
+1840204: Barrancos;168.42
+1840205: Beja;1146.48
+1840206: Castro Verde;569.44
+1840207: Cuba;172.09
+1840208: Ferreira do Alentejo;648.21
+1840209: Mértola;1292.87
+1840210: Moura;958.46
+1840212: Ourique;663.31
+1840213: Serpa;1105.63
+1840214: Vidigueira;316.61
+185: Lezíria do Tejo;4274.97
+1851403: Almeirim;222.12
+1851404: Alpiarça;95.36
+1851103: Azambuja;262.66
+1851405: Benavente;521.38
+1851406: Cartaxo;158.17
+1851407: Chamusca;746.01
+1851409: Coruche;1115.72
+1851412: Golegã;84.32
+1851414: Rio Maior;272.76
+1851415: Salvaterra de Magos;243.93
+1851416: Santarém;552.54
+186: Alto Alentejo;6084.34
+1861201: Alter do Chão;362.07
+1861202: Arronches;314.65
+1861203: Avis;605.97
+1861204: Campo Maior;247.2
+1861205: Castelo de Vide;264.91
+1861206: Crato;398.07
+1861207: Elvas;631.29
+1861208: Fronteira;248.6
+1861209: Gavião;294.59
+1861210: Marvão;154.9
+1861211: Monforte;420.25
+1861212: Nisa;575.68
+1861213: Ponte de Sor;839.71
+1861214: Portalegre;447.14
+1861215: Sousel;279.32
+187: Alentejo Central;7393.46
+1870701: Alandroal;542.68
+1870702: Arraiolos;683.75
+1870703: Borba;145.19
+1870704: Estremoz;513.8
+1870705: Évora;1307.08
+1870706: Montemor-o-Novo;1232.97
+1870707: Mora;443.95
+1870708: Mourão;278.63
+1870709: Portel;601.01
+1870710: Redondo;369.51
+1870711: Reguengos de Monsaraz;464
+1870712: Vendas Novas;222.39
+1870713: Viana do Alentejo;393.67
+1870714: Vila Viçosa;194.86
+15: Algarve;4996.79
+150: Algarve;4996.79
+1500801: Albufeira;140.66
+1500802: Alcoutim;575.36
+1500803: Aljezur;323.5
+1500804: Castro Marim;300.84
+1500805: Faro;202.57
+1500806: Lagoa;88.25
+1500807: Lagos;212.99
+1500808: Loulé;763.67
+1500809: Monchique;395.3
+1500810: Olhão;130.86
+1500811: Portimão;182.06
+1500812: São Brás de Alportel;153.37
+1500813: Silves;680.06
+1500814: Tavira;606.97
+1500815: Vila do Bispo;179.06
+1500816: Vila Real de Santo António;61.25
+2: Região Autónoma dos Açores;2321.96
+20: Região Autónoma dos Açores;2321.96
+200: Região Autónoma dos Açores;2321.96
+2004301: Angra do Heroísmo;239
+2004501: Calheta;126.26
+2004901: Corvo;17.11
+2004701: Horta;173.06
+2004201: Lagoa;45.59
+2004801: Lajes das Flores;70.05
+2004601: Lajes do Pico;155.31
+2004602: Madalena;147.12
+2004202: Nordeste;101.47
+2004203: Ponta Delgada;232.99
+2004204: Povoação;106.41
+2004205: Ribeira Grande;180.15
+2004401: Santa Cruz da Graciosa;60.66
+2004802: Santa Cruz das Flores;70.91
+2004603: São Roque do Pico;142.36
+2004502: Velas;117.38
+2004302: Vila da Praia da Vitória;161.27
+2004101: Vila do Porto;96.89
+2004206: Vila Franca do Campo;77.97
+3: Região Autónoma da Madeira;801.1
+30: Região Autónoma da Madeira;801.1
+300: Região Autónoma da Madeira;801.1
+3003101: Calheta;111.51
+3003102: Câmara de Lobos;52.17
+3003103: Funchal;76.22
+3003104: Machico;68.25
+3003105: Ponta do Sol;46.26
+3003106: Porto Moniz;82.92
+3003201: Porto Santo;42.68
+3003107: Ribeira Brava;65.46
+3003108: Santa Cruz;81.31
+3003109: Santana;95.47
+3003110: São Vicente;78.84

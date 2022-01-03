@@ -1,8 +1,0 @@
-.idea
-.mvn
-.DS_Store
-
-scripts
-
-backend/src/main/resources/static/images/questions/
-data/
